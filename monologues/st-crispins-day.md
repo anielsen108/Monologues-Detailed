@@ -2,55 +2,55 @@
 
 ## Complete Text
 
-> If we are mark’d to die, we are enow
-> To do our country loss; and if to live,
-> The fewer men, the greater share of honour.
-> God’s will! I pray thee, wish not one man more.
-> By Jove, I am not covetous for gold;
-> Nor care I who doth feed upon my cost;
-> It yearns me not if men my garments wear;
-> Such outward things dwell not in my desires:
-> But if it be a sin to covet honour,
-> I am the most offending soul alive.
-> No, faith, my coz, wish not a man from England.
-> God’s peace! I would not lose so great an honour
-> As one man more methinks would share from me,
-> For the best hope I have. O! do not wish one more.
-> Rather proclaim it, Westmoreland, through my host,
-> That he which hath no stomach to this fight,
-> Let him depart; his passport shall be made
-> And crowns for convoy put into his purse:
-> We would not die in that man’s company
-> That fears his fellowship to die with us.
->
-> This day is call’d the feast of Crispian:
-> He that outlives this day, and comes safe home,
-> Will stand a tip-toe when this day is nam’d,
-> And rouse him at the name of Crispian.
-> He that shall live this day, and see old age,
-> Will yearly on the vigil feast his neighbours,
-> And say “To-morrow is Saint Crispian.”
-> Then will he strip his sleeve and show his scars,
-> And say “These wounds I had on Crispin’s day.”
-> Old men forget; yet all shall be forgot,
-> But he’ll remember, with advantages,
-> What feats he did that day. Then shall our names,
-> Familiar in their mouths as household words—
-> Harry the king, Bedford and Exeter,
-> Warwick and Talbot, Salisbury and Gloucester—
-> Be in their flowing cups freshly rememb’red.
-> This story shall the good man teach his son;
-> And Crispin Crispian shall ne’er go by,
-> From this day to the ending of the world,
-> But we in it shall be remember’d;
-> We few, we happy few, we band of brothers;
-> For he to-day that sheds his blood with me
-> Shall be my brother; be he ne’er so vile,
-> This day shall gentle his condition:
-> And gentlemen in England now a-bed
-> Shall think themselves accurs’d they were not here,
-> And hold their manhoods cheap whiles any speaks
-> That fought with us upon Saint Crispin’s day.
+> If we are mark’d to die, we are enow<br>
+> To do our country loss; and if to live,<br>
+> The fewer men, the greater share of honour.<br>
+> God’s will! I pray thee, wish not one man more.<br>
+> By Jove, I am not covetous for gold;<br>
+> Nor care I who doth feed upon my cost;<br>
+> It yearns me not if men my garments wear;<br>
+> Such outward things dwell not in my desires:<br>
+> But if it be a sin to covet honour,<br>
+> I am the most offending soul alive.<br>
+> No, faith, my coz, wish not a man from England.<br>
+> God’s peace! I would not lose so great an honour<br>
+> As one man more methinks would share from me,<br>
+> For the best hope I have. O! do not wish one more.<br>
+> Rather proclaim it, Westmoreland, through my host,<br>
+> That he which hath no stomach to this fight,<br>
+> Let him depart; his passport shall be made<br>
+> And crowns for convoy put into his purse:<br>
+> We would not die in that man’s company<br>
+> That fears his fellowship to die with us.<br>
+><br>
+> This day is call’d the feast of Crispian:<br>
+> He that outlives this day, and comes safe home,<br>
+> Will stand a tip-toe when this day is nam’d,<br>
+> And rouse him at the name of Crispian.<br>
+> He that shall live this day, and see old age,<br>
+> Will yearly on the vigil feast his neighbours,<br>
+> And say “To-morrow is Saint Crispian.”<br>
+> Then will he strip his sleeve and show his scars,<br>
+> And say “These wounds I had on Crispin’s day.”<br>
+> Old men forget; yet all shall be forgot,<br>
+> But he’ll remember, with advantages,<br>
+> What feats he did that day. Then shall our names,<br>
+> Familiar in their mouths as household words—<br>
+> Harry the king, Bedford and Exeter,<br>
+> Warwick and Talbot, Salisbury and Gloucester—<br>
+> Be in their flowing cups freshly rememb’red.<br>
+> This story shall the good man teach his son;<br>
+> And Crispin Crispian shall ne’er go by,<br>
+> From this day to the ending of the world,<br>
+> But we in it shall be remember’d;<br>
+> We few, we happy few, we band of brothers;<br>
+> For he to-day that sheds his blood with me<br>
+> Shall be my brother; be he ne’er so vile,<br>
+> This day shall gentle his condition:<br>
+> And gentlemen in England now a-bed<br>
+> Shall think themselves accurs’d they were not here,<br>
+> And hold their manhoods cheap whiles any speaks<br>
+> That fought with us upon Saint Crispin’s day.<br>
 
 Henry reframes numerical disadvantage as eternal glory, weaving in fellowship and legacy.
 

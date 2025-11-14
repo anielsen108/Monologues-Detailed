@@ -2,26 +2,26 @@
 
 ## Complete Text
 
-> Was this the face that launch’d a thousand ships,
-> And burnt the topless towers of Ilium?—
-> Sweet Helen, make me immortal with a kiss.—
-> Her lips suck forth my soul: see, where it flies!—
-> Come, Helen, come, give me my soul again.
-> Here will I dwell, for heaven is in these lips,
-> And all is dross that is not Helena.
-> I will be Paris, and for love of thee,
-> Instead of Troy, shall Wittenberg be sack’d;
-> And I will combat with weak Menelaus,
-> And wear thy colours on my plumed crest;
-> Yea, I will wound Achilles in the heel,
-> And then return to Helen for a kiss.
-> O thou art fairer than the evening air
-> Clad in the beauty of a thousand stars;
-> Brighter art thou than flaming Jupiter
-> When he appear’d to hapless Semele;
-> More lovely than the monarch of the sky
-> In wanton Arethusa’s azur’d arms;
-> And none but thou shalt be my paramour!
+> Was this the face that launch’d a thousand ships,<br>
+> And burnt the topless towers of Ilium?—<br>
+> Sweet Helen, make me immortal with a kiss.—<br>
+> Her lips suck forth my soul: see, where it flies!—<br>
+> Come, Helen, come, give me my soul again.<br>
+> Here will I dwell, for heaven is in these lips,<br>
+> And all is dross that is not Helena.<br>
+> I will be Paris, and for love of thee,<br>
+> Instead of Troy, shall Wittenberg be sack’d;<br>
+> And I will combat with weak Menelaus,<br>
+> And wear thy colours on my plumed crest;<br>
+> Yea, I will wound Achilles in the heel,<br>
+> And then return to Helen for a kiss.<br>
+> O thou art fairer than the evening air<br>
+> Clad in the beauty of a thousand stars;<br>
+> Brighter art thou than flaming Jupiter<br>
+> When he appear’d to hapless Semele;<br>
+> More lovely than the monarch of the sky<br>
+> In wanton Arethusa’s azur’d arms;<br>
+> And none but thou shalt be my paramour!<br>
 
 Faustus idolizes Helen as a last escape from damnation, the tone turning sensuous and fatalistic.
 

@@ -2,16 +2,16 @@
 
 ## Complete Text
 
-> Tomorrow, and tomorrow, and tomorrow,
-> Creeps in this petty pace from day to day
-> To the last syllable of recorded time;
-> And all our yesterdays have lighted fools
-> The way to dusty death. Out, out, brief candle!
-> Life’s but a walking shadow, a poor player
-> That struts and frets his hour upon the stage
-> And then is heard no more. It is a tale
-> Told by an idiot, full of sound and fury,
-> Signifying nothing.
+> Tomorrow, and tomorrow, and tomorrow,<br>
+> Creeps in this petty pace from day to day<br>
+> To the last syllable of recorded time;<br>
+> And all our yesterdays have lighted fools<br>
+> The way to dusty death. Out, out, brief candle!<br>
+> Life’s but a walking shadow, a poor player<br>
+> That struts and frets his hour upon the stage<br>
+> And then is heard no more. It is a tale<br>
+> Told by an idiot, full of sound and fury,<br>
+> Signifying nothing.<br>
 
 Macbeth processes Lady Macbeth’s death with fatalistic monotony, letting time feel like suffocating dust.
 

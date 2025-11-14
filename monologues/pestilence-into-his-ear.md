@@ -2,33 +2,33 @@
 
 ## Complete Text
 
-> And what’s he then that says I play the villain?
-> When this advice is free I give and honest,
-> Probal to thinking, and indeed the course
-> To win the Moor again? For ’tis most easy
-> Th’ inclining Desdemona to subdue
-> In any honest suit: she’s fram’d as fruitful
-> As the free elements. And then for her
-> To win the Moor—were’t to renounce his baptism,
-> All seals and symbols of redeem’d sin—
-> His soul is so enfetter’d to her love
-> That she may make, unmake, do what she list,
-> Even as her appetite shall play the god
-> With his weak function. How am I then a villain
-> To counsel Cassio to this parallel course,
-> Directly to his good? Divinity of hell!
-> When devils will the blackest sins put on,
-> They do suggest at first with heavenly shows,
-> As I do now: for whiles this honest fool
-> Plies Desdemona to repair his fortunes,
-> And she for him pleads strongly to the Moor,
-> I’ll pour this pestilence into his ear,
-> That she repeals him for her body’s lust;
-> And by how much she strives to do him good,
-> She shall undo her credit with the Moor.
-> So will I turn her virtue into pitch,
-> And out of her own goodness make the net
-> That shall enmesh them all.
+> And what’s he then that says I play the villain?<br>
+> When this advice is free I give and honest,<br>
+> Probal to thinking, and indeed the course<br>
+> To win the Moor again? For ’tis most easy<br>
+> Th’ inclining Desdemona to subdue<br>
+> In any honest suit: she’s fram’d as fruitful<br>
+> As the free elements. And then for her<br>
+> To win the Moor—were’t to renounce his baptism,<br>
+> All seals and symbols of redeem’d sin—<br>
+> His soul is so enfetter’d to her love<br>
+> That she may make, unmake, do what she list,<br>
+> Even as her appetite shall play the god<br>
+> With his weak function. How am I then a villain<br>
+> To counsel Cassio to this parallel course,<br>
+> Directly to his good? Divinity of hell!<br>
+> When devils will the blackest sins put on,<br>
+> They do suggest at first with heavenly shows,<br>
+> As I do now: for whiles this honest fool<br>
+> Plies Desdemona to repair his fortunes,<br>
+> And she for him pleads strongly to the Moor,<br>
+> I’ll pour this pestilence into his ear,<br>
+> That she repeals him for her body’s lust;<br>
+> And by how much she strives to do him good,<br>
+> She shall undo her credit with the Moor.<br>
+> So will I turn her virtue into pitch,<br>
+> And out of her own goodness make the net<br>
+> That shall enmesh them all.<br>
 
 Iago outlines the plan to poison Othello’s trust, relishing psychological warfare.
 
