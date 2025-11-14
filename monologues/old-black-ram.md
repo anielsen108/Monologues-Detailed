@@ -2,20 +2,20 @@
 
 ## Complete Text
 
-> ’Zounds, sir, you’re robb’d; for shame, put on your gown;
-> Your heart is burst, you have lost half your soul;
-> Even now, now, very now, an old black ram
-> Is tupping your white ewe. Arise, arise;
-> Awake the snorting citizens with the bell,
-> Or else the devil will make a grandsire of you:
-> Arise, I say.
->
-> ’Zounds, sir, you are one of those that will not serve God if the devil bid you.
-> Because we come to do you service, and you think we are ruffians,
-> You’ll have your daughter cover’d with a Barbary horse;
-> You’ll have your nephews neigh to you; you’ll have coursers for cousins and gennets for germans.
-> I am one, sir, that comes to tell you your daughter and the Moor
-> Are now making the beast with two backs.
+> ’Zounds, sir, you’re robb’d; for shame, put on your gown;<br>
+> Your heart is burst, you have lost half your soul;<br>
+> Even now, now, very now, an old black ram<br>
+> Is tupping your white ewe. Arise, arise;<br>
+> Awake the snorting citizens with the bell,<br>
+> Or else the devil will make a grandsire of you:<br>
+> Arise, I say.<br>
+><br>
+> ’Zounds, sir, you are one of those that will not serve God if the devil bid you.<br>
+> Because we come to do you service, and you think we are ruffians,<br>
+> You’ll have your daughter cover’d with a Barbary horse;<br>
+> You’ll have your nephews neigh to you; you’ll have coursers for cousins and gennets for germans.<br>
+> I am one, sir, that comes to tell you your daughter and the Moor<br>
+> Are now making the beast with two backs.<br>
 
 Iago goads Brabantio with racist imagery to incite rage against Othello.
 

@@ -2,34 +2,34 @@
 
 ## Complete Text
 
-> All the world’s a stage,
-> And all the men and women merely players;
-> They have their exits and their entrances;
-> And one man in his time plays many parts,
-> His acts being seven ages. At first the infant,
-> Mewling and puking in the nurse’s arms.
-> And then the whining schoolboy, with his satchel
-> And shining morning face, creeping like snail
-> Unwillingly to school. And then the lover,
-> Sighing like furnace, with a woeful ballad
-> Made to his mistress’ eyebrow. Then a soldier,
-> Full of strange oaths, and bearded like the pard,
-> Jealous in honour, sudden and quick in quarrel,
-> Seeking the bubble reputation
-> Even in the cannon’s mouth. And then the justice,
-> In fair round belly with good capon lin’d,
-> With eyes severe and beard of formal cut,
-> Full of wise saws and modern instances;
-> And so he plays his part. The sixth age shifts
-> Into the lean and slipper’d pantaloon,
-> With spectacles on nose and pouch on side;
-> His youthful hose, well sav’d, a world too wide
-> For his shrunk shank; and his big manly voice,
-> Turning again toward childish treble, pipes
-> And whistles in his sound. Last scene of all,
-> That ends this strange eventful history,
-> Is second childishness and mere oblivion,
-> Sans teeth, sans eyes, sans taste, sans everything.
+> All the world’s a stage,<br>
+> And all the men and women merely players;<br>
+> They have their exits and their entrances;<br>
+> And one man in his time plays many parts,<br>
+> His acts being seven ages. At first the infant,<br>
+> Mewling and puking in the nurse’s arms.<br>
+> And then the whining schoolboy, with his satchel<br>
+> And shining morning face, creeping like snail<br>
+> Unwillingly to school. And then the lover,<br>
+> Sighing like furnace, with a woeful ballad<br>
+> Made to his mistress’ eyebrow. Then a soldier,<br>
+> Full of strange oaths, and bearded like the pard,<br>
+> Jealous in honour, sudden and quick in quarrel,<br>
+> Seeking the bubble reputation<br>
+> Even in the cannon’s mouth. And then the justice,<br>
+> In fair round belly with good capon lin’d,<br>
+> With eyes severe and beard of formal cut,<br>
+> Full of wise saws and modern instances;<br>
+> And so he plays his part. The sixth age shifts<br>
+> Into the lean and slipper’d pantaloon,<br>
+> With spectacles on nose and pouch on side;<br>
+> His youthful hose, well sav’d, a world too wide<br>
+> For his shrunk shank; and his big manly voice,<br>
+> Turning again toward childish treble, pipes<br>
+> And whistles in his sound. Last scene of all,<br>
+> That ends this strange eventful history,<br>
+> Is second childishness and mere oblivion,<br>
+> Sans teeth, sans eyes, sans taste, sans everything.<br>
 
 Jaques’s melancholy philosophy surveys life’s seven ages with ironic wit.
 

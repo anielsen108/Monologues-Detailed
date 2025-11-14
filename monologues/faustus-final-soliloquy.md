@@ -2,46 +2,46 @@
 
 ## Complete Text
 
-> Ah, Faustus,
-> Now hast thou but one bare hour to live,
-> And then thou must be damn’d perpetually!
-> Stand still, you ever-moving spheres of heaven,
-> That time may cease, and midnight never come;
-> Fair Nature’s eye, rise, rise again, and make
-> Perpetual day; or let this hour be but
-> A year, a month, a week, a natural day,
-> That Faustus may repent and save his soul!
-> O lente, lente currite, noctis equi!
-> The stars move still, time runs, the clock will strike,
-> The devil will come, and Faustus must be damn’d.
-> O, I’ll leap up to my God! Who pulls me down?
-> See, see where Christ’s blood streams in the firmament!
-> One drop would save my soul, half a drop: ah, my Christ!—
-> Ah, rend not my heart for naming of my Christ;
-> Yet will I call on him. O spare me, Lucifer!—
-> Where is it now? ’tis gone; and see where God
-> Stretcheth out his arm, and bends his ireful brows!
-> Mountains and hills, come, come, and fall on me,
-> And hide me from the heavy wrath of God!
-> No? then will I headlong run into the earth:
-> Earth, gape! O no, it will not harbour me.
-> You stars that reign’d at my nativity,
-> Whose influence hath allotted death and hell,
-> Now draw up Faustus, like a foggy mist,
-> Into the entrails of yon labouring cloud,
-> That when they vomit forth into the air
-> My limbs may issue from their smoky mouths;
-> But let my soul mount and ascend to heaven.
-> The clock strikes twelve.
-> O, it strikes, it strikes! Now, body, turn to air,
-> Or Lucifer will bear thee quick to hell.
-> O soul, be chang’d into small water-drops,
-> And fall into the ocean, ne’er be found!
-> Thunder and lightning.
-> My God, my God, look not so fierce on me!
-> Adders and serpents, let me breathe a while!
-> Ugly hell, gape not! Come not, Lucifer!
-> I’ll burn my books!—Ah, Mephistopheles!
+> Ah, Faustus,<br>
+> Now hast thou but one bare hour to live,<br>
+> And then thou must be damn’d perpetually!<br>
+> Stand still, you ever-moving spheres of heaven,<br>
+> That time may cease, and midnight never come;<br>
+> Fair Nature’s eye, rise, rise again, and make<br>
+> Perpetual day; or let this hour be but<br>
+> A year, a month, a week, a natural day,<br>
+> That Faustus may repent and save his soul!<br>
+> O lente, lente currite, noctis equi!<br>
+> The stars move still, time runs, the clock will strike,<br>
+> The devil will come, and Faustus must be damn’d.<br>
+> O, I’ll leap up to my God! Who pulls me down?<br>
+> See, see where Christ’s blood streams in the firmament!<br>
+> One drop would save my soul, half a drop: ah, my Christ!—<br>
+> Ah, rend not my heart for naming of my Christ;<br>
+> Yet will I call on him. O spare me, Lucifer!—<br>
+> Where is it now? ’tis gone; and see where God<br>
+> Stretcheth out his arm, and bends his ireful brows!<br>
+> Mountains and hills, come, come, and fall on me,<br>
+> And hide me from the heavy wrath of God!<br>
+> No? then will I headlong run into the earth:<br>
+> Earth, gape! O no, it will not harbour me.<br>
+> You stars that reign’d at my nativity,<br>
+> Whose influence hath allotted death and hell,<br>
+> Now draw up Faustus, like a foggy mist,<br>
+> Into the entrails of yon labouring cloud,<br>
+> That when they vomit forth into the air<br>
+> My limbs may issue from their smoky mouths;<br>
+> But let my soul mount and ascend to heaven.<br>
+> The clock strikes twelve.<br>
+> O, it strikes, it strikes! Now, body, turn to air,<br>
+> Or Lucifer will bear thee quick to hell.<br>
+> O soul, be chang’d into small water-drops,<br>
+> And fall into the ocean, ne’er be found!<br>
+> Thunder and lightning.<br>
+> My God, my God, look not so fierce on me!<br>
+> Adders and serpents, let me breathe a while!<br>
+> Ugly hell, gape not! Come not, Lucifer!<br>
+> I’ll burn my books!—Ah, Mephistopheles!<br>
 
 Faustus begs for time and mercy as midnight approaches, collapsing from bombastic scholar to terrified child.
 

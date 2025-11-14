@@ -2,33 +2,33 @@
 
 ## Complete Text
 
-> Why, man, he doth bestride the narrow world
-> Like a Colossus, and we petty men
-> Walk under his huge legs and peep about
-> To find ourselves dishonourable graves.
-> Men at some time are masters of their fates:
-> The fault, dear Brutus, is not in our stars,
-> But in ourselves, that we are underlings.
-> Brutus and Caesar: what should be in that ‘Caesar’?
-> Why should that name be sounded more than yours?
-> Write them together, yours is as fair a name;
-> Sound them, it doth become the mouth as well;
-> Weigh them, it is as heavy; conjure with ’em,
-> ‘Brutus’ will start a spirit as soon as ‘Caesar’.
-> Now, in the names of all the gods at once,
-> Upon what meat doth this our Caesar feed
-> That he is grown so great? Age, thou art sham’d!
-> Rome, thou hast lost the breed of noble bloods!
-> When went there by an age, since the great flood,
-> But it was fam’d with more than with one man?
-> When could they say, till now, that talk’d of Rome,
-> That her wide walls encompass’d but one man?
-> Now is it Rome indeed, and room enough,
-> When there is in it but one only man.
-> O! you and I have heard our fathers say,
-> There was a Brutus once that would have brook’d
-> Th’ eternal devil to keep his state in Rome
-> As easily as a king.
+> Why, man, he doth bestride the narrow world<br>
+> Like a Colossus, and we petty men<br>
+> Walk under his huge legs and peep about<br>
+> To find ourselves dishonourable graves.<br>
+> Men at some time are masters of their fates:<br>
+> The fault, dear Brutus, is not in our stars,<br>
+> But in ourselves, that we are underlings.<br>
+> Brutus and Caesar: what should be in that ‘Caesar’?<br>
+> Why should that name be sounded more than yours?<br>
+> Write them together, yours is as fair a name;<br>
+> Sound them, it doth become the mouth as well;<br>
+> Weigh them, it is as heavy; conjure with ’em,<br>
+> ‘Brutus’ will start a spirit as soon as ‘Caesar’.<br>
+> Now, in the names of all the gods at once,<br>
+> Upon what meat doth this our Caesar feed<br>
+> That he is grown so great? Age, thou art sham’d!<br>
+> Rome, thou hast lost the breed of noble bloods!<br>
+> When went there by an age, since the great flood,<br>
+> But it was fam’d with more than with one man?<br>
+> When could they say, till now, that talk’d of Rome,<br>
+> That her wide walls encompass’d but one man?<br>
+> Now is it Rome indeed, and room enough,<br>
+> When there is in it but one only man.<br>
+> O! you and I have heard our fathers say,<br>
+> There was a Brutus once that would have brook’d<br>
+> Th’ eternal devil to keep his state in Rome<br>
+> As easily as a king.<br>
 
 Cassius inflames Brutus against Caesar by painting him as an overgrown colossus while they remain mere men.
 
