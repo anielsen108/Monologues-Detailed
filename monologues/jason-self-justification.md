@@ -1,5 +1,9 @@
 # Jason’s Self-Justification — Medea
 
+## Complete Text
+
+> It was not lust but foresight, Medea, that made me take the royal bed. I weighed the matter coolly: exile is a harsh tutor, and our sons needed a shelter stronger than the promise of a foreign mob. By wedding the princess I opened doors that no charm of yours could open—palaces, dowries, brothers-in-law seated upon thrones. You rage like a barbarian, counting only wounded pride. Consider instead the profit: you and the boys would have lived beside me, honoured, with new brothers born of noble blood. I, who rescued you from your savage land, who brought you to the hearths of Hellas, deserved gratitude rather than curses. What had you there but a father you betrayed and a brother whose blood still cries from the waves? Here I offered you refinement, justice, the fame of sharing in my achievements. But you women will sacrifice everything to jealousy. I sought to raise our house; you would rather drag it into the mud so that the world might applaud your temper. If you had endured in silence, all would have prospered. Blame me if you must, but remember: I risked myself for a future of plenty. It is you who now squander it in fury.
+
 Jason explains away his betrayal, cloaking ambition in reasonableness.
 
 ---

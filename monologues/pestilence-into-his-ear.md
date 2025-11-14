@@ -1,5 +1,35 @@
 # “I’ll pour this pestilence into his ear…” — Othello (Act 2, Scene 3)
 
+## Complete Text
+
+> And what’s he then that says I play the villain?
+> When this advice is free I give and honest,
+> Probal to thinking, and indeed the course
+> To win the Moor again? For ’tis most easy
+> Th’ inclining Desdemona to subdue
+> In any honest suit: she’s fram’d as fruitful
+> As the free elements. And then for her
+> To win the Moor—were’t to renounce his baptism,
+> All seals and symbols of redeem’d sin—
+> His soul is so enfetter’d to her love
+> That she may make, unmake, do what she list,
+> Even as her appetite shall play the god
+> With his weak function. How am I then a villain
+> To counsel Cassio to this parallel course,
+> Directly to his good? Divinity of hell!
+> When devils will the blackest sins put on,
+> They do suggest at first with heavenly shows,
+> As I do now: for whiles this honest fool
+> Plies Desdemona to repair his fortunes,
+> And she for him pleads strongly to the Moor,
+> I’ll pour this pestilence into his ear,
+> That she repeals him for her body’s lust;
+> And by how much she strives to do him good,
+> She shall undo her credit with the Moor.
+> So will I turn her virtue into pitch,
+> And out of her own goodness make the net
+> That shall enmesh them all.
+
 Iago outlines the plan to poison Othello’s trust, relishing psychological warfare.
 
 ---

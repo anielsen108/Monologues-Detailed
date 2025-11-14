@@ -1,5 +1,9 @@
 # “I am a Jew. Hath not a Jew eyes?” — Merchant of Venice (Act 3, Scene 1)
 
+## Complete Text
+
+> To bait fish withal: if it will feed nothing else, it will feed my revenge. He hath disgrac’d me, and hind’red me half a million; laugh’d at my losses, mock’d at my gains, scorn’d my nation, thwarted my bargains, cool’d my friends, heated mine enemies; and what’s his reason? I am a Jew. Hath not a Jew eyes? hath not a Jew hands, organs, dimensions, senses, affections, passions; fed with the same food, hurt with the same weapons, subject to the same diseases, heal’d by the same means, warm’d and cool’d by the same winter and summer as a Christian is? If you prick us, do we not bleed? if you tickle us, do we not laugh? if you poison us, do we not die? and if you wrong us, shall we not revenge? If we are like you in the rest, we will resemble you in that. If a Jew wrong a Christian, what is his humility? revenge. If a Christian wrong a Jew, what should his sufferance be by Christian example? why, revenge! The villainy you teach me I will execute; and it shall go hard but I will better the instruction.
+
 Shylock justifies revenge by insisting on shared humanity and mirrored retaliation.
 
 ---

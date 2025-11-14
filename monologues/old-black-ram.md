@@ -1,5 +1,22 @@
 # “Even now, now, very now, an old black ram…” — Othello (Act 1, Scene 1)
 
+## Complete Text
+
+> ’Zounds, sir, you’re robb’d; for shame, put on your gown;
+> Your heart is burst, you have lost half your soul;
+> Even now, now, very now, an old black ram
+> Is tupping your white ewe. Arise, arise;
+> Awake the snorting citizens with the bell,
+> Or else the devil will make a grandsire of you:
+> Arise, I say.
+>
+> ’Zounds, sir, you are one of those that will not serve God if the devil bid you.
+> Because we come to do you service, and you think we are ruffians,
+> You’ll have your daughter cover’d with a Barbary horse;
+> You’ll have your nephews neigh to you; you’ll have coursers for cousins and gennets for germans.
+> I am one, sir, that comes to tell you your daughter and the Moor
+> Are now making the beast with two backs.
+
 Iago goads Brabantio with racist imagery to incite rage against Othello.
 
 ---

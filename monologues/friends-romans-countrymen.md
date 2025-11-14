@@ -1,5 +1,131 @@
 # Friends, Romans, Countrymen — Julius Caesar (Act 3, Scene 2)
 
+## Complete Text
+
+> Friends, Romans, countrymen, lend me your ears;
+> I come to bury Caesar, not to praise him.
+> The evil that men do lives after them;
+> The good is oft interrèd with their bones;
+> So let it be with Caesar. The noble Brutus
+> Hath told you Caesar was ambitious:
+> If it were so, it was a grievous fault;
+> And grievously hath Caesar answer’d it.
+> Here, under leave of Brutus and the rest—
+> For Brutus is an honourable man;
+> So are they all, all honourable men—
+> Come I to speak in Caesar’s funeral.
+> He was my friend, faithful and just to me:
+> But Brutus says he was ambitious;
+> And Brutus is an honourable man.
+> He hath brought many captives home to Rome,
+> Whose ransoms did the general coffers fill:
+> Did this in Caesar seem ambitious?
+> When that the poor have cried, Caesar hath wept:
+> Ambition should be made of sterner stuff:
+> Yet Brutus says he was ambitious;
+> And Brutus is an honourable man.
+> You all did see that on the Lupercal
+> I thrice presented him a kingly crown,
+> Which he did thrice refuse: was this ambition?
+> Yet Brutus says he was ambitious;
+> And, sure, he is an honourable man.
+> I speak not to disprove what Brutus spoke,
+> But here I am to speak what I do know.
+> You all did love him once, not without cause:
+> What cause withholds you then to mourn for him?
+> O judgment! thou art fled to brutish beasts,
+> And men have lost their reason. Bear with me;
+> My heart is in the coffin there with Caesar,
+> And I must pause till it come back to me.
+>
+> But yesterday the word of Caesar might
+> Have stood against the world; now lies he there,
+> And none so poor to do him reverence.
+> O masters! if I were dispos’d to stir
+> Your hearts and minds to mutiny and rage,
+> I should do Brutus wrong, and Cassius wrong,
+> Who, you all know, are honourable men:
+> I will not do them wrong; I rather choose
+> To wrong the dead, to wrong myself and you,
+> Than I will wrong such honourable men.
+> But here’s a parchment with the seal of Caesar;
+> I found it in his closet, ’tis his will:
+> Let but the commons hear this testament—
+> Which, pardon me, I do not mean to read—
+> And they would go and kiss dead Caesar’s wounds
+> And dip their napkins in his sacred blood;
+> Yea, beg a hair of him for memory,
+> And, dying, mention it within their wills,
+> Bequeathing it as a rich legacy
+> Unto their issue.
+>
+> If you have tears, prepare to shed them now.
+> You all do know this mantle: I remember
+> The first time ever Caesar put it on;
+> ’Twas on a summer’s evening, in his tent,
+> That day he overcame the Nervii:
+> Look! in this place ran Cassius’ dagger through:
+> See what a rent the envious Casca made:
+> Through this the well-beloved Brutus stabb’d;
+> And as he pluck’d his cursèd steel away,
+> Mark how the blood of Caesar follow’d it,
+> As rushing out of doors, to be resolv’d
+> If Brutus so unkindly knock’d, or no;
+> For Brutus, as you know, was Caesar’s angel:
+> Judge, O you gods, how dearly Caesar lov’d him!
+> This was the most unkindest cut of all;
+> For when the noble Caesar saw him stab,
+> Ingratitude, more strong than traitors’ arms,
+> Quite vanquish’d him: then burst his mighty heart;
+> And, in his mantle muffling up his face,
+> Even at the base of Pompey’s statua,
+> Which all the while ran blood, great Caesar fell.
+> O what a fall was there, my countrymen!
+> Then I, and you, and all of us fell down,
+> Whilst bloody treason flourish’d over us.
+> O, now you weep; and, I perceive, you feel
+> The dint of pity: these are gracious drops.
+> Kind souls, what, weep you when you but behold
+> Our Caesar’s vesture wounded? Look you here,
+> Here is himself, marr’d, as you see, with traitors.
+>
+> Good friends, sweet friends, let me not stir you up
+> To such a sudden flood of mutiny.
+> They that have done this deed are honourable:
+> What private griefs they have, alas, I know not,
+> That made them do it: they are wise and honourable,
+> And will, no doubt, with reasons answer you.
+> I come not, friends, to steal away your hearts:
+> I am no orator, as Brutus is;
+> But, as you know me all, a plain blunt man,
+> That love my friend; and that they know full well
+> That gave me public leave to speak of him.
+> For I have neither wit, nor words, nor worth,
+> Action, nor utterance, nor the power of speech,
+> To stir men’s blood: I only speak right on;
+> I tell you that which you yourselves do know;
+> Show you sweet Caesar’s wounds, poor dumb mouths,
+> And bid them speak for me: but were I Brutus,
+> And Brutus Antony, there were an Antony
+> Would ruffle up your spirits, and put a tongue
+> In every wound of Caesar, that should move
+> The stones of Rome to rise and mutiny.
+>
+> Yet hear me, countrymen; yet hear me speak.
+> Why, friends, you go to do you know not what:
+> Wherein hath Caesar thus deserv’d your loves?
+> Alas, you know not: I must tell you then:
+> You have forgot the will I told you of.
+> Here is the will, and under Caesar’s seal.
+> To every Roman citizen he gives,
+> To every several man, seventy-five drachmas.
+> Moreover, he hath left you all his walks,
+> His private arbours, and new-planted orchards,
+> On this side Tiber; he hath left them you,
+> And to your heirs for ever; common pleasures,
+> To walk abroad, and recreate yourselves.
+> Here was a Caesar! when comes such another?
+
 Purpose statements and per-line analysis follow the required three-layer template.
 
 ---

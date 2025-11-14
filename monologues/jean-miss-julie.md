@@ -1,5 +1,9 @@
 # Jean (“Miss Julie”) Conflict Monologues — Miss Julie
 
+## Complete Text
+
+> I have polished your boots, uncorked your father’s wine, carried your hunting whip like a dog—and all the while I have watched the steps up to this house, counting them, tasting them, promising myself that one day I would stand above them. You laugh when I dream, Julie, but what else has a man to live on? I remember being a boy outside the churchyard wall, staring at the Count as he strode past, thinking, “If only I could change my skin like a snake, slip under his door, steal a little of his power.” And now you tease me with it: “Kiss my shoe, Jean. Dance with me, Jean.” You pull me up, you push me down, as though my heart were your skipping-rope. Do you think I am content to be your plaything? I have a head for figures, a tongue for languages; I could sit in a restaurant in Lugano and order in French for the finest ladies. But here I must bow, and thank you for tossing me a rose. Well, I am tired of roses. Give me the whole bush, thorns and all, or let me rip it out by the roots. Either make me your equal and fly with me, or crush me outright. I won’t crawl forever.
+
 Jean oscillates between servility and ambition as he argues with Julie.
 
 ---
