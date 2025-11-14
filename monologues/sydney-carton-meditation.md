@@ -2,7 +2,10 @@
 
 ## Complete Text
 
-> “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”<br>
+> I see a beautiful city and a brilliant people rising from this abyss;<br>
+> I see the evil of this time and of the previous time of which this is the natural birth, gradually making expiation for itself and wearing out.<br>
+> It is a far, far better thing that I do, than I have ever done;<br>
+> It is a far, far better rest that I go to than I have ever known.<br>
 
 Carton envisions the redemptive future secured by his sacrifice at the guillotine.
 

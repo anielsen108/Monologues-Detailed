@@ -2,7 +2,12 @@
 
 ## Complete Text
 
-> O chaste Artemis, mistress of the silver bow, I pace your shadowed grove with spotless feet. No shameful word has crossed my lips; no drunken glance has soiled my eyes. I keep my breath as cold as the streams that spring beneath your altar. Let others bend the knee to Cypris and her soft delights; I know the wreckage she has strewn through houses and thrones. Desire is a fever bred in night air—touch it, and honour melts like wax. But you, pure huntress, teach me the straight path, the taut bowstring, the unbroken oath. I have yoked my heart to discipline; I have given the reins of my youth into your hand. The herd of passion may bellow beyond the hill; it shall not break my fence. If men call me proud, let them—better pride in holiness than to wallow with the herd. I spit upon the bed of wantonness; I plant my spear in virgin earth and swear by this bright sky that no queen of lust shall ever conquer me. Live on, Artemis, within my marrow; keep me stainless, keep me stern, till death itself confesses me your faithful hunter.<br>
+> O chaste Artemis, I keep your grove unsullied;<br>
+> No shameful word has touched my lips.<br>
+> I drive desire away as one would scourge a plague.<br>
+> Look how they crawl, enslaved to beds and perfumes.<br>
+> Better to hunt with Artemis forever<br>
+> Than drown in honeyed rot.<br>
 
 Hippolytus celebrates chastity with arrogant disdain for Aphrodite’s realm.
 

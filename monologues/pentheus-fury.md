@@ -2,7 +2,13 @@
 
 ## Complete Text
 
-> This Lydian stranger—soft-faced, fragrant, trilling his womanish songs—has bewitched our women and unhinged the city. I, Pentheus, king of Thebes, will not endure it. They call his frenzy worship; I call it drunken riot, a disease that must be cut away. The matrons abandon their looms, the girls their dowry-chests, to leap on the mountains like fawns while that effeminate foreigner leads them by the thyrsus. They crown themselves with ivy and tear calves apart with bare hands. Law sleeps, shame is thrown to the winds, and they dare to say that Bacchus is a god! If he be divine, why does he hide in curls and veils? No, he is a conjurer, and I will seize him, chain him, and strip him before the people so that all may know how hollow his miracles are. Guards! shut every gate; scour the glens; bring me in irons every votary who chants his name. I will teach Thebes that sceptres are not reeds to be snapped by some foreign charlatan. Order will return, and the Bacchae will learn to tremble when Pentheus speaks.<br>
+> This Lydian stranger, soft-faced, fragrant,<br>
+> Has bewitched our women and unhinged the city.<br>
+> Shall I sit still while Bacchic howls profane<br>
+> My father’s throne?<br>
+> Chain him; lash him; teach him what Thebes obeys.<br>
+> I will uproot this madness vine by vine,<br>
+> Or fall in rightful struggle.<br>
 
 Pentheus rails against Dionysus’ cult, convinced that lawlessness must be crushed.
 

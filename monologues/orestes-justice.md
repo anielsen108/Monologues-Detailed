@@ -2,7 +2,13 @@
 
 ## Complete Text
 
-> The god has set this labour on my head; his oracle burns brighter than my fear. Shall I, Orestes, born of Atreus’ line, bow to the murderers who sit upon my father’s throne? Apollo spoke: “If you neglect this, you shall vomit forth your heart; the Furies shall drink your blood.” So I go, not as a willing butcher of my mother, but as the avenger of a king betrayed in his own bath. The serpent dream she told—was it not me? I have carried it in silence, sharpening the axe of justice. Let no one call me impious: she first polluted motherhood when she clasped the net about Agamemnon. A father’s blood cries louder than a mother’s milk. If I spare them, I betray both father and the gods. So I invoke Hermes of the shades, I call on my father’s spirit, I summon Earth to witness that this act is not of private malice but of holy necessity. When the stroke falls, let the house learn that Justice has children too. If I must wander afterward, hounded by black-winged Erinyes, so be it; better to suffer in obedience than to rot in cowardice. Strike! For the god commands it.<br>
+> The god has set this labor on my head;<br>
+> His oracle burns brighter than my fear.<br>
+> Shall I betray my father for my mother’s bed?<br>
+> Justice would hunt me like a hound.<br>
+> Let blood answer blood; the house already reeks.<br>
+> When I have struck, may Hermes guide my soul<br>
+> And keep the Erinyes at bay.<br>
 
 Orestes steels himself to avenge Agamemnon, arguing that divine command outweighs filial horror.
 

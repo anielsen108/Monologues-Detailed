@@ -2,7 +2,11 @@
 
 ## Complete Text
 
-> I only wanted to test whether I was a louse like the rest, or a man with the right to step over. Do you understand, Sonya? I killed her—the old pawnbroker—and Lizaveta as well. With an axe. I had the pledge in my pocket, the doors locked, everything calculated; yet the minute it was done I felt nothing but filth. For months I walked with that blood on me, talking of Napoleon, of the extraordinary man who may permit himself a crime if it serves a higher idea. I told myself I had done it for the good of humanity, to begin my career, to cast down a worthless, cruel woman and use her money for a hundred noble deeds. Lies! I killed because I dared, because I wanted to see if I was capable. And now I cannot endure the weight of it. I am choking. I came to you because you too have suffered, because you will not turn away. Do you hear? It was I who murdered her. Go to the authorities, tell them everything. I will go as well. I must kneel, kiss the earth I have desecrated, and confess aloud: “I killed!” There is no other road back to life.<br>
+> I only wanted to test whether I was a louse like the rest,<br>
+> Or a man with the right to step over.<br>
+> Blood? what of it? Power is taken, not given.<br>
+> I did it, Sonya. I killed the old pawnbroker and her sister.<br>
+> Do you understand now? I had to bow down to the suffering; there was no other road.<br>
 
 Raskolnikov wrestles with guilt and ideology before confessing to Sonya.
 

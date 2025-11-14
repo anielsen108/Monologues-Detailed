@@ -2,7 +2,14 @@
 
 ## Complete Text
 
-> Who am I? I am Jean Valjean. I say it now, before you all. That poor peasant whom you are about to brand for life—he is not the man you seek. You have before you a mayor, a manufacturer, a benefactor of his town; but beneath these names there is another which weighs like a chain. I stole a loaf of bread; I broke a window; I tried to escape. For that I passed nineteen years at the galleys. My number was 24601. When I came out the world rejected me, and I should have become a devil had not a saintly bishop taken me in and told me that I was a man. Since that hour I have struggled to be worthy of the candlesticks he placed in my hands. But if I allowed this Champmathieu to be condemned, all those efforts would be nothing but hypocrisy. I owe a debt to Fantine, who died trusting me with her child; I owe a debt to my own soul, which will not be silent. Gentlemen, I deliver myself up. Do with me what you will. Let the true culprit go free; I am the convict Jean Valjean.<br>
+> Who am I? Can I condemn this man to slavery<br>
+> Pretend I do not know?<br>
+> Must I lie? How can I ever face my fellow men<br>
+> Or ever face myself again?<br>
+> I am the man, no other.<br>
+> Let Javert do with me what law demands.<br>
+> God on high, take my life;<br>
+> Take me now, for I can keep my soul only by losing all.<br>
 
 Valjean agonizes over revealing his identity to save Champmathieu, weighing duty to Fantine and Cosette against self-preservation.
 

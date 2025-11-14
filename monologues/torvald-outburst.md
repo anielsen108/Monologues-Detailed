@@ -2,7 +2,11 @@
 
 ## Complete Text
 
-> Miserable woman! what have you done? Now you have ruined all my happiness, jeopardized my whole future. To think that I must sink so low because of a thoughtless, feather-brained creature! No man sacrifices his honour for the one he loves. Understand that! From this moment happiness is no longer the question—only the bare necessity of saving the remains, the fragments, the appearance. Do you comprehend what you have exposed me to? I must appease this man somehow; the thing must be hushed up, whatever the cost. As for you—when the danger is over you shall stay in this house, that is understood, but the children shall not be in your care; I dare not trust them to you. You must not think that because I forgive, there is no penalty: you shall henceforth be simply my wife in name, my doll that I must guard. We must live together, of course; appearances must be kept up. But this is the end of all happiness. Oh, what an awful awakening!<br>
+> Miserable woman! what have you done?<br>
+> Do you understand what you have done to me?<br>
+> No religion, no duty, no sense of what is fitting!<br>
+> Now you must appear as if nothing has happened;<br>
+> We must preserve the appearance of respectability.<br>
 
 Torvald erupts when he discovers Nora’s forgery, revealing his concern for reputation over love.
 
