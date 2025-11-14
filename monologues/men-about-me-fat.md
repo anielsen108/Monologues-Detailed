@@ -1,5 +1,29 @@
 # “Let me have men about me that are fat…” — Julius Caesar (Act 1, Scene 2)
 
+## Complete Text
+
+> Let me have men about me that are fat;
+> Sleek-headed men, and such as sleep o’ nights:
+> Yond Cassius has a lean and hungry look;
+> He thinks too much: such men are dangerous.
+> Would he were fatter! But I fear him not:
+> Yet if my name were liable to fear,
+> I do not know the man I should avoid
+> So soon as that spare Cassius. He reads much;
+> He is a great observer, and he looks
+> Quite through the deeds of men; he loves no plays,
+> As thou dost, Antony; he hears no music;
+> Seldom he smiles, and smiles in such a sort
+> As if he mock’d himself, and scorn’d his spirit
+> That could be mov’d to smile at anything.
+> Such men as he be never at heart’s ease
+> Whiles they behold a greater than themselves,
+> And therefore are they very dangerous.
+> I rather tell thee what is to be fear’d
+> Than what I fear; for always I am Caesar.
+> Come on my right hand, for this ear is deaf,
+> And tell me truly what thou think’st of him.
+
 Caesar confides to Antony his distrust of Cassius, using physical description to signal political danger.
 
 ---

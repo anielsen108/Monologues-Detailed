@@ -1,5 +1,36 @@
 # “If it were done when ’tis done…” — Macbeth (Act 1, Scene 7)
 
+## Complete Text
+
+> If it were done when ’tis done, then ’twere well
+> It were done quickly: if th’ assassination
+> Could trammel up the consequence, and catch
+> With his surcease success; that but this blow
+> Might be the be-all and the end-all here,
+> But here, upon this bank and shoal of time,
+> We’d jump the life to come. But in these cases
+> We still have judgment here; that we but teach
+> Bloody instructions, which, being taught, return
+> To plague th’ inventor: this even-handed justice
+> Commends th’ ingredients of our poison’d chalice
+> To our own lips. He’s here in double trust:
+> First, as I am his kinsman and his subject,
+> Strong both against the deed; then, as his host,
+> Who should against his murderer shut the door,
+> Not bear the knife myself. Besides, this Duncan
+> Hath borne his faculties so meek, hath been
+> So clear in his great office, that his virtues
+> Will plead like angels, trumpet-tongu’d, against
+> The deep damnation of his taking-off;
+> And pity, like a naked new-born babe,
+> Striding the blast, or heaven’s cherubins, hors’d
+> Upon the sightless couriers of the air,
+> Shall blow the horrid deed in every eye,
+> That tears shall drown the wind. I have no spur
+> To prick the sides of my intent, but only
+> Vaulting ambition, which o’erleaps itself
+> And falls on th’ other.
+
 Macbeth debates the consequences of murdering Duncan, weighing ambition against morality.
 
 ---

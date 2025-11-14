@@ -1,5 +1,9 @@
 # Ivan Karamazov’s Rebellion Monologue — The Brothers Karamazov
 
+## Complete Text
+
+> I do not deny God, Alyosha, only I most respectfully return him the ticket. Listen: I have taken these cases from the newspapers; they are not fairy tales. A general’s little son is beaten, flogged, ridden round the yard by grooms because he “misbehaved,” until they smear him with filth and lock him in an outhouse overnight. Another child—five years old—is torn to pieces by the hounds for no crime at all, merely to amuse a nobleman who has lost his temper. Mothers are forced to watch soldiers fire volleys at their babies. Can you understand that? Not the suffering of grown men—let them be guilty—but the tears of children who have done no wrong. They must pay for harmony, we are told, so that some final concord may be built on their bones. I tell you, if the price of eternal love is even one tear of that child who beat itself on its little breast and begged the soldiers, “Uncle, let me go to mother,” I refuse. I want no higher harmony. I want the suffering stopped this instant, with no compensation in some future heaven. Can you forgive such tormentors? I cannot. I will not accept the ticket. Let the architects of destiny keep their paradise; I return my entrance pass, and remain with my unavenged children.
+
 Ivan argues that a world built on innocent suffering cannot be accepted, even if God exists.
 
 ---

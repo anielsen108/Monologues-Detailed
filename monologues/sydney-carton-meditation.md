@@ -1,5 +1,9 @@
 # Sydney Carton’s Final Meditation — A Tale of Two Cities
 
+## Complete Text
+
+> “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.”
+
 Carton envisions the redemptive future secured by his sacrifice at the guillotine.
 
 ---
