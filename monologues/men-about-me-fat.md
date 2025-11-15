@@ -78,3 +78,51 @@ Performance Line
 
 **ToBI:** L*  L-L%
 
+---
+
+## SECTION 3 — ANATOMY OF DANGER
+
+**Purpose:** Catalogue Cassius’s threatening traits with hushed paranoia that belies Caesar’s bravado.
+
+**LINE:** “So soon as that spare Cassius. He reads much; / He is a great observer, and he looks / Quite through the deeds of men; he loves no plays, / As thou dost, Antony; he hears no music;”
+
+Performance Line
+[Rising suspicion, pinched vowels] ˧***So soon as that spare Cassius. He reads much*** L+H* | [Clinical inventory, thin breath] ˨**He is a great observer, and he looks quite through the deeds of men** H- | [Disparaging aside, dismissive flick] ˩**he loves no plays, as thou dost, Antony; he hears no music** L-L% ↓
+
+**IPA:** [soʊ sun æz ðæt spɛɹ ˈkæʃ.i.əs | hi ɹidz mʌtʃ | hi ɪz ə ɡɹeɪt əbˈzɝ.vɚ ænd hi lʊks kwaɪt θɹu ðə didz əv mɛn | hi lʌvz noʊ pleɪz | æz ðaʊ doʊst ˈæn.təˌni | hi hɪɹz noʊ ˈmjuː.zɪk]
+
+**ToBI:** L+H*  H-  L-L%
+
+---
+
+**LINE:** “Seldom he smiles, and smiles in such a sort / As if he mock’d himself, and scorn’d his spirit / That could be mov’d to smile at anything.”
+
+Performance Line
+[Quiet loathing, lip curl] ˧***Seldom he smiles, and smiles in such a sort*** H* | [Dry condemnation] ˨**As if he mock’d himself, and scorn’d his spirit that could be mov’d to smile at anything** L-L% ↓
+
+**IPA:** [ˈsɛl.dəm hi smaɪɫz ænd smaɪɫz ɪn sʌtʃ ə sɔɹt | æz ɪf hi mɑkt hɪmˈsɛlf ænd skɔɹnd hɪz ˈspɪ.ɹɪt ðæt kʊd bi muvd tə smaɪɫ æt ˈɛn.iˌθɪŋ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Such men as he be never at heart’s ease / Whiles they behold a greater than themselves, / And therefore are they very dangerous.”
+
+Performance Line
+[Warning growl] ˧***Such men as he be never at heart’s ease*** L+H* | [Grave conclusion] ˨**Whiles they behold a greater than themselves, and therefore are they very dangerous** L-L% ↓
+
+**IPA:** [sʌtʃ mɛn æz hi bi ˈnɛvɚ æt hɑɹts iz | waɪlz ðeɪ bɪˈhoʊɫd ə ˈɡreɪtɚ ðæn ðəmˈsɛɫvz | ænd ˈðɛɹ.fɔɹ ɑɹ ðeɪ ˈvɛɹ.i ˈdeɪn.dʒɚ.əs]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “I rather tell thee what is to be fear’d / Than what I fear; for always I am Caesar. / Come on my right hand, for this ear is deaf, / And tell me truly what thou think’st of him.”
+
+Performance Line
+[Self-mythologizing] ˧***I rather tell thee what is to be fear’d than what I fear; for always I am Caesar*** H* | [Confiding aside, lowered tessitura] ˨**Come on my right hand, for this ear is deaf, and tell me truly what thou think’st of him** L-L% ↓
+
+**IPA:** [aɪ ˈɹæðɚ tɛɫ ði wʌt ɪz tə bi fɪɹd ðæn wʌt aɪ fɪɹ | fɔɹ ˈɔɫˌweɪz aɪ æm ˈsiː.zɚ | kʌm ɑn maɪ ɹaɪt hænd fɔɹ ðɪs ɪɹ ɪz dɛf | ænd tɛɫ mi ˈtɹuːli wʌt ðaʊ θɪŋks təv hɪm]
+
+**ToBI:** H*  L-L%
+

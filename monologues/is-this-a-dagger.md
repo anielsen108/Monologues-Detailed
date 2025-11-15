@@ -66,9 +66,90 @@ Performance Line
 
 ---
 
-## SECTION 2 — STEELING HIMSELF
+## SECTION 2 — DEBATING THE PHANTOM
+
+**Purpose:** Test the reality of the vision, letting bewilderment churn into grim fascination.
+
+**LINE:** “I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressèd brain?”
+
+Performance Line
+[Shaken wonder] ˧***I have thee not, and yet I see thee still*** L+H* | [Interrogating cadence] ˨**Art thou not, fatal vision, sensible to feeling as to sight? or art thou but a dagger of the mind, a false creation, proceeding from the heat-oppressèd brain** L-L% ↓
+
+**IPA:** [aɪ hæv ði nɑt ænd jɛt aɪ ˈsiː ði stɪɫ | ɑɹt ðaʊ nɑt ˈfeɪ.təɫ ˈvɪʒ.ən ˈsɛn.sə.bəɫ tə ˈfiːl.ɪŋ æz tə saɪt | ɔɹ ɑɹt ðaʊ bʌt ə ˈdæ.ɡɚ əv ðə maɪnd | ə fɔɫs kɹiˈeɪ.ʃən pɹoʊˈsiːdɪŋ frəm ðə ˌhiːt əˈpɹɛst ˈbɹeɪn]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “I see thee yet, in form as palpable / As this which now I draw.”
+
+Performance Line
+[Amazed hush] ˧***I see thee yet, in form as palpable*** H* | [Dark relish] ˨**As this which now I draw** L-L% ↓
+
+**IPA:** [aɪ ˈsiː ði jɛt ɪn fɔɹm æz ˈpæl.pə.bəɫ | æz ðɪs wɪtʃ naʊ aɪ dɹɔ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Thou marshall’st me the way that I was going; / And such an instrument I was to use.”
+
+Performance Line
+[Grim acceptance] ˧***Thou marshall’st me the way that I was going*** L+H* | [Fatalistic shrug] ˨**And such an instrument I was to use** L-L% ↓
+
+**IPA:** [ðaʊ ˈmɑr.ʃəɫst mi ðə weɪ ðæt aɪ wəz ˈɡoʊ.ɪŋ | ænd sʌtʃ ən ˈɪn.strə.mənt aɪ wəz tə juz]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Mine eyes are made the fools o’ th’ other senses, / Or else worth all the rest: I see thee still; / And on thy blade and dudgeon gouts of blood, / Which was not so before.”
+
+Performance Line
+[Uneasy laugh] ˧***Mine eyes are made the fools o’ th’ other senses, or else worth all the rest: I see thee still*** H* | [Horror dawning] ˨**And on thy blade and dudgeon gouts of blood, which was not so before** L-L% ↓
+
+**IPA:** [maɪn aɪz ɑɹ meɪd ðə fuz ə ði ˈʌðɚ ˈsɛn.sɪz | ɔɹ ɛls wɝθ ɔɫ ðə ɹɛst | aɪ ˈsiː ði stɪɫ | ænd ɑn ðaɪ bleɪd ænd ˈdʌdʒ.ən ɡaʊts əv blʌd | wɪtʃ wəz nɑt soʊ bɪˈfɔɹ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Now o’er the one half-world / Nature seems dead, and wicked dreams abuse / The curtain’d sleep; witchcraft celebrates / Pale Hecate’s offerings; and wither’d Murder, / Alarm’d by his sentinel, the wolf, / Whose howl’s his watch, thus with his stealthy pace, / With Tarquin’s ravishing strides, towards his design / Moves like a ghost.”
+
+Performance Line
+[Chilled recitative] ˧***Now o’er the one half-world nature seems dead, and wicked dreams abuse the curtain’d sleep; witchcraft celebrates Pale Hecate’s offerings*** H- | [Murderous imagery surging] ˨**and wither’d Murder, alarm’d by his sentinel, the wolf, whose howl’s his watch, thus with his stealthy pace, with Tarquin’s ravishing strides, towards his design moves like a ghost** L-L% ↓
+
+**IPA:** [naʊ oʊɹ ði wʌn hæf wɝɫd ˈneɪ.tʃɚ simz dɛd | ænd ˈwɪk.ɪd dɹimz əˈbjuːz ðə ˈkɝː.tənd slip | ˈwɪtʃ.kræft ˈsɛ.ləˌbɹeɪts peɪl ˈhɛ.kəˌtiːz ˈɑ.fɚ.ɪŋz | ænd ˈwɪð.ɚd ˈmɝː.dɚ əˈlɑrmd baɪ hɪz ˈsɛn.tə.nɛl ðə wʊlf | huz haʊlz hɪz wɑtʃ | ðʌs wɪð hɪz ˈstɛl.θi peɪs | wɪð ˈtɑr.kwɪnz ˈræv.ɪʃ.ɪŋ straɪdz təˈwɔɹdz hɪz dɪˈzaɪn muvz laɪk ə ɡoʊst]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “Thou sure and firm-set earth, / Hear not my steps, which way they walk, for fear / Thy very stones prate of my whereabout, / And take the present horror from the time, / Which now suits with it. Whiles I threat, he lives: / Words to the heat of deeds too cold breath gives.”
+
+Performance Line
+[Suppressed urgency] ˧***Thou sure and firm-set earth, hear not my steps, which way they walk, for fear thy very stones prate of my whereabout*** L+H* | [Dark resolve] ˨**And take the present horror from the time, which now suits with it. Whiles I threat, he lives: words to the heat of deeds too cold breath gives** L-L% ↓
+
+**IPA:** [ðaʊ ʃʊɹ ænd fɝm sɛt ɝθ | hɪɹ nɑt maɪ stɛps wɪtʃ weɪ ðeɪ wɔk | fɔɹ fɪɹ ðaɪ ˈvɛɹ.i stoʊnz pɹeɪt əv maɪ ˈwɛɹ.əˌbaʊt | ænd teɪk ðə ˈprɛz.ənt ˈhɔː.ɹɚ frəm ðə taɪm | wɪtʃ naʊ suts wɪð ɪt | waɪlz aɪ θɹɛt hi lɪvz | wɝdz tə ðə hiːt əv didz tu koʊld bɹɛθ ɡɪvz]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+## SECTION 3 — STEELING HIMSELF
 
 **Purpose:** Transform fear into determination and align the apparition with fate.
+
+**LINE:** “I go, and it is done; the bell invites me.”
+
+Performance Line
+[Resigned march] ˧***I go, and it is done*** H* | [Tolling weight] ˨**the bell invites me** L-L% ↓
+
+**IPA:** [aɪ ɡoʊ ænd ɪt ɪz dʌn | ðə bɛl ɪnˈvaɪts mi]
+
+**ToBI:** H*  L-L%
+
+---
 
 **LINE:** “There’s no such thing: / It is the bloody business which informs / Thus to mine eyes.”
 
