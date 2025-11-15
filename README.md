@@ -6,23 +6,23 @@ Theatrical monologues marked up with detailed IPA, intention, and prosody.
 
 | Title | Source | Status |
 | --- | --- | --- |
-| [Friends, Romans, Countrymen](monologues/friends-romans-countrymen.md) | Julius Caesar, Act 3 Scene 2 | Complete |
-| [“To be, or not to be…”](monologues/to-be-or-not-to-be.md) | Hamlet, Act 3 Scene 1 | Complete |
-| [“O, what a rogue and peasant slave am I…”](monologues/o-what-a-rogue.md) | Hamlet, Act 2 Scene 2 | Complete |
-| [“Now is the winter of our discontent…”](monologues/now-is-the-winter.md) | Richard III, Act 1 Scene 1 | Complete |
-| [“Tomorrow, and tomorrow, and tomorrow…”](monologues/tomorrow-and-tomorrow.md) | Macbeth, Act 5 Scene 5 | Complete |
-| [“Is this a dagger which I see before me…”](monologues/is-this-a-dagger.md) | Macbeth, Act 2 Scene 1 | Complete |
-| [“All the world’s a stage…”](monologues/all-the-worlds-a-stage.md) | As You Like It, Act 2 Scene 7 | Complete |
-| [“Why, man, he doth bestride the narrow world…”](monologues/he-doth-bestride.md) | Julius Caesar, Act 1 Scene 2 | Complete |
-| [“Once more unto the breach…”](monologues/once-more-unto-the-breach.md) | Henry V, Act 3 Scene 1 | Complete |
-| [“St. Crispin’s Day Speech”](monologues/st-crispins-day.md) | Henry V, Act 4 Scene 3 | Complete |
-| [“If it were done when ’tis done…”](monologues/if-it-were-done.md) | Macbeth, Act 1 Scene 7 | Complete |
-| [“Let me have men about me that are fat…”](monologues/men-about-me-fat.md) | Julius Caesar, Act 1 Scene 2 | Complete |
+| [Friends, Romans, Countrymen](monologues/friends-romans-countrymen.md) | Julius Caesar, Act 3 Scene 2 | Selections |
+| [“To be, or not to be…”](monologues/to-be-or-not-to-be.md) | Hamlet, Act 3 Scene 1 | Selections |
+| [“O, what a rogue and peasant slave am I…”](monologues/o-what-a-rogue.md) | Hamlet, Act 2 Scene 2 | Selections |
+| [“Now is the winter of our discontent…”](monologues/now-is-the-winter.md) | Richard III, Act 1 Scene 1 | Selections |
+| [“Tomorrow, and tomorrow, and tomorrow…”](monologues/tomorrow-and-tomorrow.md) | Macbeth, Act 5 Scene 5 | Selections |
+| [“Is this a dagger which I see before me…”](monologues/is-this-a-dagger.md) | Macbeth, Act 2 Scene 1 | Selections |
+| [“All the world’s a stage…”](monologues/all-the-worlds-a-stage.md) | As You Like It, Act 2 Scene 7 | Selections |
+| [“Why, man, he doth bestride the narrow world…”](monologues/he-doth-bestride.md) | Julius Caesar, Act 1 Scene 2 | Selections |
+| [“Once more unto the breach…”](monologues/once-more-unto-the-breach.md) | Henry V, Act 3 Scene 1 | Selections |
+| [“St. Crispin’s Day Speech”](monologues/st-crispins-day.md) | Henry V, Act 4 Scene 3 | Selections |
+| [“If it were done when ’tis done…”](monologues/if-it-were-done.md) | Macbeth, Act 1 Scene 7 | Selections |
+| [“Let me have men about me that are fat…”](monologues/men-about-me-fat.md) | Julius Caesar, Act 1 Scene 2 | Selections |
 | [“I am a Jew. Hath not a Jew eyes?”](monologues/i-am-a-jew.md) | Merchant of Venice, Act 3 Scene 1 | Complete |
-| [“Even now, now, very now, an old black ram…”](monologues/old-black-ram.md) | Othello, Act 1 Scene 1 | Complete |
-| [“I’ll pour this pestilence into his ear…”](monologues/pestilence-into-his-ear.md) | Othello, Act 2 Scene 3 | Complete |
-| [Faustus’ Final Soliloquy](monologues/faustus-final-soliloquy.md) | Doctor Faustus, Act 5 | Complete |
-| [“Was this the face that launched a thousand ships…”](monologues/face-that-launched.md) | Doctor Faustus, Act 5 | Complete |
+| [“Even now, now, very now, an old black ram…”](monologues/old-black-ram.md) | Othello, Act 1 Scene 1 | Selections |
+| [“I’ll pour this pestilence into his ear…”](monologues/pestilence-into-his-ear.md) | Othello, Act 2 Scene 3 | Selections |
+| [Faustus’ Final Soliloquy](monologues/faustus-final-soliloquy.md) | Doctor Faustus, Act 5 | Selections |
+| [“Was this the face that launched a thousand ships…”](monologues/face-that-launched.md) | Doctor Faustus, Act 5 | Selections |
 | [Orestes’ Reflections on Justice](monologues/orestes-justice.md) | The Libation Bearers | Complete |
 | [Pentheus’ Righteous Fury](monologues/pentheus-fury.md) | The Bacchae | Complete |
 | [Jason’s Self-Justification](monologues/jason-self-justification.md) | Medea | Complete |
