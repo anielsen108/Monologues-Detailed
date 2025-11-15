@@ -77,3 +77,55 @@ Performance Line
 
 **ToBI:** H*  L-L%
 
+---
+
+## SECTION 3 — SWORN SERVICE
+
+**Purpose:** Bind Faustus to Helen through oaths of residence and battle fantasies.
+
+**LINE:** “Here will I dwell, for heaven is in these lips, / And all is dross that is not Helena.”
+
+Performance Line
+[Rapt surrender] ˧***Here will I dwell, for heaven is in these lips*** L+H* | [Absolute devotion] ˨**And all is dross that is not Helena** L-L% ↓
+
+**IPA:** [hɪɹ wɪl aɪ dwɛɫ | fɔɹ ˈhɛv.ən ɪz ɪn ðiz lɪps | ænd ɔɫ ɪz drɔs ðæt ɪz nɑt ˈhɛl.ə.nə]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “And I will combat with weak Menelaus, / And wear thy colours on my plumed crest; / Yea, I will wound Achilles in the heel, / And then return to Helen for a kiss.”
+
+Performance Line
+[Boastful fantasy, swelling chest] ˦***And I will combat with weak Menelaus, and wear thy colours on my plumed crest*** H* | [Sinful crescendo] ˧**Yea, I will wound Achilles in the heel, and then return to Helen for a kiss** L+H* L-L% ↓
+
+**IPA:** [ænd aɪ wɪl ˈkɑm.bæt wɪð wik ˌmɛnəˈleɪəs | ænd wɛɹ ðaɪ ˈkʌl.ɚz ɑn maɪ ˈplumd kɹɛst | jeɪ aɪ wɪl wund əˈkɪl.iːz ɪn ðə hil | ænd ðɛn ɹɪˈtɝn tə ˈhɛl.ən fɔɹ ə kɪs]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
+
+## SECTION 4 — HEAVENLY HYPERBOLE
+
+**Purpose:** Elevate Helen above gods, voice dissolving into intoxicated hush.
+
+**LINE:** “O thou art fairer than the evening air / Clad in the beauty of a thousand stars; / Brighter art thou than flaming Jupiter / When he appear’d to hapless Semele;”
+
+Performance Line
+[Breathless invocation] ˧***O thou art fairer than the evening air clad in the beauty of a thousand stars*** H- | [Mythic comparison] ˨**Brighter art thou than flaming Jupiter when he appear’d to hapless Semele** L-L% ↓
+
+**IPA:** [oʊ ðaʊ ɑɹ ˈfɛɹ.ɚ ðæn ði ˈiv.nɪŋ ɛɹ | klæd ɪn ðə ˈbju.ti əv ə ˈθaʊ.zənd stɑɹz | ˈbɹaɪ.tɚ ɑɹt ðaʊ ðæn ˈfleɪ.mɪŋ ˈdʒuː.pə.tɚ | wɛn hi əˈpɪɹd tə ˈhæp.ləs ˈsɛm.əˌli]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “More lovely than the monarch of the sky / In wanton Arethusa’s azur’d arms; / And none but thou shalt be my paramour!”
+
+Performance Line
+[Crescendoing awe] ˧***More lovely than the monarch of the sky in wanton Arethusa’s azur’d arms*** L+H* | [Fatal pledge] ˨**And none but thou shalt be my paramour** L-L% ↓
+
+**IPA:** [mɔɹ ˈlʌv.li ðæn ðə ˈmɑ.nɚk əv ðə skaɪ | ɪn ˈwɑn.tən ˌæ.ɹəˈθuː.zəz ˈæz.jɝd ɑɹmz | ænd nʌn bət ðaʊ ʃælt bi maɪ ˈpæ.ɹəˌmɔɹ]
+
+**ToBI:** L+H*  L-L%
+
