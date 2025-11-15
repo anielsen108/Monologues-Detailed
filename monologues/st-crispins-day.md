@@ -82,7 +82,70 @@ Performance Line
 
 ---
 
-## SECTION 2 — LEGACY BOND
+## SECTION 2 — PURGING MATERIAL TEMPTATION
+
+**Purpose:** Deepen the scarcity ethic by shaming any hunger for wealth or trappings.
+
+**LINE:** “By Jove, I am not covetous for gold; / Nor care I who doth feed upon my cost; / It yearns me not if men my garments wear; / Such outward things dwell not in my desires:”
+
+Performance Line
+[Laughing dismissal] ˧***By Jove, I am not covetous for gold*** H* | [Open-handed shrug] ˨**Nor care I who doth feed upon my cost** L- | [Offhand wave] ˧**It yearns me not if men my garments wear** L- | [Firm renunciation] ˦**Such outward things dwell not in my desires** L-L% ↓
+
+**IPA:** [baɪ dʒoʊv aɪ æm nɑt ˈkʌv.ə.təs fɔɹ goʊld | nɔɹ kɛɹ aɪ hu dʌθ fid əˈpɑn maɪ kɔst | ɪt jɝnz mi nɑt ɪf mɛn maɪ ˈɡɑɹ.mənts wɛɹ | sʌtʃ ˈaʊt.wɚd θɪŋz dwɛl nɑt ɪn maɪ dɪˈzaɪɹz]
+
+**ToBI:** H*  L-  L-  L-L%
+
+---
+
+**LINE:** “But if it be a sin to covet honour, / I am the most offending soul alive.”
+
+Performance Line
+[Conspiratorial whisper] ˧***But if it be a sin to covet honour*** L+H* | [Bright confession] ˦**I am the most offending soul alive** H* L-L% ↓
+
+**IPA:** [bʌt ɪf ɪt bi ə sɪn tə ˈkʌv.ət ˈɒ.nɚ | aɪ æm ðə moʊst əˈfɛn.dɪŋ soʊl əˈlaɪv]
+
+**ToBI:** L+H*  H*  L-L%
+
+---
+
+## SECTION 3 — CULLING THE RANKS
+
+**Purpose:** Throw open the gates to the faint-hearted so the remnant feels even rarer.
+
+**LINE:** “No, faith, my coz, wish not a man from England. / God’s peace! I would not lose so great an honour / As one man more methinks would share from me, / For the best hope I have. O! do not wish one more.”
+
+Performance Line
+[Playful rebuke] ˧***No, faith, my coz, wish not a man from England*** L+H* | [Steady oath] ˦**God’s peace! I would not lose so great an honour** H* | [Counting on fingers] ˨**As one man more methinks would share from me** L- | [Urgent hush] ˦**For the best hope I have. O! do not wish one more** H* L-L% ↓
+
+**IPA:** [noʊ feɪθ maɪ kʌz wɪʃ nɑt ə mæn frəm ˈɪŋ.ɡlənd | ɡɑdz pis aɪ wʊd nɑt luz soʊ ɡɹeɪt æn ˈɒ.nɚ | æz wʌn mæn mɔɹ məˈθɪŋks wʊd ʃɛɹ frəm mi | fɔɹ ðə bɛst hoʊp aɪ hæv oʊ du nɑt wɪʃ wʌn mɔɹ]
+
+**ToBI:** L+H*  H*  L-  H*  L-L%
+
+---
+
+**LINE:** “Rather proclaim it, Westmoreland, through my host, / That he which hath no stomach to this fight, / Let him depart; his passport shall be made / And crowns for convoy put into his purse:”
+
+Performance Line
+[Commanding breath] ˦***Rather proclaim it, Westmoreland, through my host*** H* | [Testing courage] ˧**That he which hath no stomach to this fight** L- | [Dismissive flick] ˨**Let him depart; his passport shall be made** L* | [Dry generosity] ˧**And crowns for convoy put into his purse** L-L% ↓
+
+**IPA:** [ˈɹæðɚ pɹoʊˈkleɪm ɪt ˈwɛstmɔɹˌlænd θɹu maɪ hoʊst | ðæt hi wɪtʃ hæθ noʊ ˈstʌmək tə ðɪs faɪt | lɛt ɪm dɪˈpɑɹt ɪz ˈpæs.pɔɹt ʃæl bi meɪd | ænd kɹaʊnz fɔɹ ˈkɒn.vɔɪ pʊt ɪn.tu hɪz pɝs]
+
+**ToBI:** H*  L-  L*  L-L%
+
+---
+
+**LINE:** “We would not die in that man’s company / That fears his fellowship to die with us.”
+
+Performance Line
+[Cold shoulder] ˨***We would not die in that man’s company*** L* | [Quiet steel] ˧**That fears his fellowship to die with us** L-L% ↓
+
+**IPA:** [wi wʊd nɑt daɪ ɪn ðæt mænz ˈkʌm.pə.ni | ðæt fɪɹz hɪz ˈfɛ.loʊʃɪp tə daɪ wɪð ʌs]
+
+**ToBI:** L*  L-L%
+
+---
+
+## SECTION 4 — LEGACY BOND
 
 **Purpose:** Promise immortality through story; tone warms into brotherhood.
 
@@ -97,12 +160,90 @@ Performance Line
 
 ---
 
-**LINE:** “We few, we happy few, we band of brothers; / For he to-day that sheds his blood with me / Shall be my brother.”
+**LINE:** “And rouse him at the name of Crispian.”
 
 Performance Line
-[Heart-full cadence] ˧***We few, we happy few, we band of brothers*** H* H- | [Intimate promise] ˨**For he to-day that sheds his blood with me shall be my brother** L-L% ↓
+[Drumbeat snap] ˦***And rouse him at the name of Crispian*** H* L-L% ↓
 
-**IPA:** [wi fju wi ˈhæ.pi fju wi bænd əv ˈbrʌ.ðɚz | fɔɹ hi təˈdeɪ ðæt ʃɛdz ɪz blʌd wɪð mi | ʃæl bi maɪ ˈbrʌ.ðɚ]
+**IPA:** [ænd ɹaʊz ɪm æt ðə neɪm əv ˈkɹɪs.pi.ən]
+
+**ToBI:** H*  L-L%
+
+---
+
+## SECTION 5 — RITUAL OF REMEMBRANCE
+
+**Purpose:** Describe the annual rites that make their scars sacred currency.
+
+**LINE:** “He that shall live this day, and see old age, / Will yearly on the vigil feast his neighbours, / And say ‘To-morrow is Saint Crispian.’ / Then will he strip his sleeve and show his scars, / And say ‘These wounds I had on Crispin’s day.’”
+
+Performance Line
+[Grandfatherly warmth] ˧***He that shall live this day, and see old age*** L+H* | [Festive toast] ˦**Will yearly on the vigil feast his neighbours** H* | [Childlike excitement] ˧**And say ‘To-morrow is Saint Crispian’** L- | [Proud reveal] ˨**Then will he strip his sleeve and show his scars** L* | [Soft awe] ˦**And say ‘These wounds I had on Crispin’s day’** H* L-L% ↓
+
+**IPA:** [hi ðæt ʃæl lɪv ðɪs deɪ ænd si oʊld eɪdʒ | wɪl ˈjɪəɹli ɑn ðə ˈvɪdʒ.əl fist hɪz ˈneɪ.bɚz | ænd seɪ təˈmɑɹoʊ ɪz seɪnt ˈkɹɪs.pi.ən | ðɛn wɪl hi stɹɪp ɪz sliv ænd ʃoʊ hɪz skɑɹz | ænd seɪ ðiz wundz aɪ hæd ɑn ˈkɹɪs.pɪnz deɪ]
+
+**ToBI:** L+H*  H*  L-  L*  H*  L-L%
+
+---
+
+**LINE:** “Old men forget; yet all shall be forgot, / But he’ll remember, with advantages, / What feats he did that day.”
+
+Performance Line
+[Gentle sigh] ˨***Old men forget; yet all shall be forgot*** L- | [Spark of pride] ˧**But he’ll remember, with advantages** L+H* | [Final tap] ˦**What feats he did that day** H* L-L% ↓
+
+**IPA:** [oʊld mɛn fərˈɡɛt jɛt ɑl ʃæl bi fərˈɡɑt | bət hil ɹɪˈmɛm.bɚ wɪð ædˈvæn.tɪ.dʒɪz | wʌt fits hi dɪd ðæt deɪ]
+
+**ToBI:** L-  L+H*  H*  L-L%
+
+---
+
+## SECTION 6 — ROLL CALL OF IMMORTALS
+
+**Purpose:** Fix their names inside communal rituals of drinking and teaching.
+
+**LINE:** “Then shall our names, / Familiar in their mouths as household words— / Harry the king, Bedford and Exeter, / Warwick and Talbot, Salisbury and Gloucester— / Be in their flowing cups freshly rememb’red.”
+
+Performance Line
+[Measured drum] ˧***Then shall our names, familiar in their mouths as household words*** L+H* | [Stately list] ˦**Harry the king, Bedford and Exeter, Warwick and Talbot, Salisbury and Gloucester** H* H- | [Effervescent close] ˨**Be in their flowing cups freshly rememb’red** L-L% ↓
+
+**IPA:** [ðɛn ʃæl aʊɹ neɪmz fəˈmɪl.jɚ ɪn ðɛɹ maʊθs æz ˈhaʊsˌhoʊld wɝdz | ˈhæ.ɹi ðə kɪŋ ˈbɛdfɚd ænd ˈɛksətɚ ˈwɔɹ.ɪk ænd ˈtæl.bət ˈsɔlzb(ə)ɹi ænd ˈɡlɒs.tɚ | bi ɪn ðɛɹ floʊɪŋ kʌps ˈfɹɛʃ.li ɹɪˈmɛm.bɚd]
+
+**ToBI:** L+H*  H* H-  L-L%
+
+---
+
+**LINE:** “This story shall the good man teach his son; / And Crispin Crispian shall ne’er go by, / From this day to the ending of the world, / But we in it shall be remember’d;”
+
+Performance Line
+[Pedagogic calm] ˧***This story shall the good man teach his son*** L- | [Steady promise] ˨**And Crispin Crispian shall ne’er go by** L- | [Expansive reach] ˦**From this day to the ending of the world** H* | [Soft eternity] ˧**But we in it shall be remember’d** L-L% ↓
+
+**IPA:** [ðɪs ˈstɔɹ.i ʃæl ðə ɡʊd mæn titʃ hɪz sʌn | ænd ˈkɹɪs.pɪn ˈkɹɪs.pi.ən ʃæl nɛɹ ɡoʊ baɪ | frəm ðɪs deɪ tə ði ˈɛndɪŋ əv ðə wɝld | bət wi ɪn ɪt ʃæl bi ɹɪˈmɛm.bɚd]
+
+**ToBI:** L-  L-  H*  L-L%
+
+---
+
+## SECTION 7 — BROTHERHOOD CONSECRATED
+
+**Purpose:** Seal the bond with gentle titles and shame for absentees.
+
+**LINE:** “We few, we happy few, we band of brothers; / For he to-day that sheds his blood with me / Shall be my brother; be he ne’er so vile,”
+
+Performance Line
+[Heart-full cadence] ˧***We few, we happy few, we band of brothers*** H* H- | [Intimate promise] ˨**For he to-day that sheds his blood with me shall be my brother; be he ne’er so vile** L-L% ↓
+
+**IPA:** [wi fju wi ˈhæ.pi fju wi bænd əv ˈbrʌ.ðɚz | fɔɹ hi təˈdeɪ ðæt ʃɛdz ɪz blʌd wɪð mi ʃæl bi maɪ ˈbrʌ.ðɚ bi hi nɛɹ soʊ vaɪl]
 
 **ToBI:** H*  H-  L-L%
+
+---
+
+**LINE:** “This day shall gentle his condition: / And gentlemen in England now a-bed / Shall think themselves accurs’d they were not here, / And hold their manhoods cheap whiles any speaks / That fought with us upon Saint Crispin’s day.”
+
+Performance Line
+[Royal benediction] ˦***This day shall gentle his condition*** H* | [Wide sweep] ˧**And gentlemen in England now a-bed** L- | [Scalding verdict] ˨**Shall think themselves accurs’d they were not here** L* | [Masculine standard] ˦**And hold their manhoods cheap whiles any speaks** H* | [Echoing finish] ˧**That fought with us upon Saint Crispin’s day** L-L% ↓
+
+**IPA:** [ðɪs deɪ ʃæl ˈdʒɛn.təl hɪz kənˈdɪʃ.ən | ænd ˈdʒɛntəlmən ɪn ˈɪŋ.ɡlənd naʊ ə ˈbɛd | ʃæl θɪŋk ðɛmˈsɛlvz əˈkɝst ðeɪ wɝ nɑt hɪr | ænd hoʊld ðɛɹ ˈmæn.hʊdz tʃip waɪlz ˈɛni spiks | ðæt fɔt wɪð ʌs əˈpɑn seɪnt ˈkɹɪs.pɪnz deɪ]
+
+**ToBI:** H*  L-  L*  H*  L-L%
 
