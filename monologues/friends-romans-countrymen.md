@@ -286,6 +286,1196 @@ L+H*  H-  L-L%
 
 ---
 
+# SECTION 6 — SLOW-BURN INCITEMENT (WILL PRELUDE)
+
+**Purpose:** Rebuild momentum through measured outrage; tease the will as accelerant.
+
+**LINE:** “But yesterday the word of Caesar might”
+
+Performance Line
+[Measured awe, Tessitura↗, Re-igniting authority] ˦***But yesterday*** H* |
+[Echoing grandeur, Controlled swell] ˧**the word of *Caesar* might** H- L-L% ↓
+
+**IPA:**
+[bʌt ˈjɛs.tɚˌdeɪ ðə ˈwɝːd əv ˈsiː.zɚ maɪ̯t]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Have stood against the world; now lies he there,”
+
+Performance Line
+[Granite firmness, Mid tessitura→, Emphatic consonants] ˧***Have *stood* against*** L* |
+[Falling sorrow, Visual gesture to corpse] ˨**the world; now lies he *there*** L-L% ↓
+
+**IPA:**
+[hæv ˈstʊd əˈɡɛnst ðə ˈwɝːɫd | naʊ̯ ˈlaɪ̯z hi ðɛɹ]
+
+**ToBI:**
+L*  L-L%
+
+---
+
+**LINE:** “And none so poor to do him reverence.”
+
+Performance Line
+[Cutting indictment, Tessitura↓, Bitter hush] ˩˧˥***And none so *poor**** L+H* |
+[Dismissive fall, Weighted consonants] ˧**to do him *reverence*** H* L-L% ↓
+
+**IPA:**
+[ænd nʌn soʊ ˈpʊɹ] [tə du hɪm ˈɹɛv.ɹəns]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “O masters! if I were dispos’d to stir”
+
+Performance Line
+[Appeal to crowd, Tessitura↗, Rallying color] ˥***O *masters*!*** H* |
+[Hypothetical restraint, Narrowed tone] ˦**if I were dispos’d to *stir*** H- L-L% ↓
+
+**IPA:**
+[oʊ ˈmæs.tɚz] [ɪf aɪ̯ wɝː dɪsˈpoʊzd tə stɝː]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Your hearts and minds to mutiny and rage,”
+
+Performance Line
+[Heart-grab gesture, Crescendo] ˦***Your hearts and *minds**** H* |
+[Leashed volatility, Rising bite] ˩˧˥**to *mutiny* and rage** L+H* H-H% ↑
+
+**IPA:**
+[jɔɹ ˈhɑɹts ænd ˈmaɪ̯ndz] [tə ˈmjuː.tən.i ænd ˈɹeɪ̯dʒ]
+
+**ToBI:**
+H*  L+H*  H-H%
+
+---
+
+**LINE:** “I should do Brutus wrong, and Cassius wrong,”
+
+Performance Line
+[Mock humility, Bright irony, Mid tessitura→] ˧***I should do *Brutus* wrong*** L* |
+[Paired indictment, Slight lift] ˦**and *Cassius* wrong** H- L-L% ↓
+
+**IPA:**
+[aɪ̯ ʃʊd du ˈbɹuː.təs ˈɹɔŋ] [ænd ˈkæʃ.i.əs ˈɹɔŋ]
+
+**ToBI:**
+L*  H-  L-L%
+
+---
+
+**LINE:** “Who, you all know, are honourable men:”
+
+Performance Line
+[Ironic courtesy, Light glide] ˦***Who, you all *know**** H* |
+[Hollow refrain echo] ˧**are *honourable* men** H- L-L% ↓
+
+**IPA:**
+[hu ju ˈɔɫ ˈnoʊ] [ɑɹ ˈɑ.nɚ.ə.bəɫ mɛn]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “I will not do them wrong; I rather choose”
+
+Performance Line
+[Poised restraint, Tessitura↗, Razor-soft] ˦***I will not do them *wrong*** H* |
+[Measured alternative, Controlled breath] ˧**I rather *choose*** H- L-L% ↓
+
+**IPA:**
+[aɪ̯ wɪl nɑt du ðɛm ˈɹɔŋ] [aɪ̯ ˈɹæð.ɚ tʃuːz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “To wrong the dead, to wrong myself and you,”
+
+Performance Line
+[Sardonic weight, Tessitura↓] ˩˧˥***To *wrong* the dead*** L+H* |
+[Shared culpability, Inclusive gesture] ˧**to wrong myself and *you*** H* L-L% ↓
+
+**IPA:**
+[tə ˈɹɔŋ ðə dɛd] [tə ˈɹɔŋ maɪ̯ˈsɛlf ænd ju]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “Than I will wrong such honourable men.”
+
+Performance Line
+[Irony thickening, Tone flattens] ˧***Than I will *wrong**** L* |
+[Refrain echo, Soft fall] ˨**such honourable *men*** L-L% ↓
+
+**IPA:**
+[ðæn aɪ̯ wɪl ˈɹɔŋ] [sʌtʃ ˈɑ.nɚ.ə.bəɫ mɛn]
+
+**ToBI:**
+L*  L-L%
+
+---
+
+**LINE:** “But here’s a parchment with the seal of Caesar;”
+
+Performance Line
+[Teasing reveal, Tessitura↗, Sparkling consonants] ˦***But here’s a *parchment**** H* |
+[Authority weight] ˧**with the seal of *Caesar*** H- L-L% ↓
+
+**IPA:**
+[bʌt hɪɹz ə ˈpɑɹtʃ.mənt] [wɪð ðə ˈsiː.zɚ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “I found it in his closet, ’tis his will:”
+
+Performance Line
+[Confidential tone, Tessitura→, Subtle hush] ˧***I found it in his *closet**** L* |
+[Pulse of danger, Slight rise] ˩˧˥**’tis his *will*** L+H* H- ↑
+
+**IPA:**
+[aɪ̯ ˈfaʊnd ɪt ɪn hɪz ˈklɑ.zɪt] [tɪz hɪz ˈwɪl]
+
+**ToBI:**
+L*  L+H*  H-
+
+---
+
+**LINE:** “Let but the commons hear this testament—”
+
+Performance Line
+[Crowd-tuning energy, Tessitura↗, Building suspense] ˦***Let but the *commons**** H* |
+[Promise of upheaval] ˩˧˥**hear this *testament*** L+H* H- (suspense)
+
+**IPA:**
+[lɛt bʌt ðə ˈkɑː.mənz] [hɪɹ ðɪs ˈtɛs.tə.mənt]
+
+**ToBI:**
+H*  L+H*  H-
+
+---
+
+**LINE:** “Which, pardon me, I do not mean to read—”
+
+Performance Line
+[Feign restraint, Tessitura↗, Mock modesty] ˦***Which, pardon *me**** H* |
+[Thin denial, Rising tease] ˩˧˥**I do not mean to *read*** L+H* H- (hold)
+
+**IPA:**
+[wɪtʃ ˈpɑɹ.dən miː] [aɪ̯ du nɑt ˈmin tə ˈɹiːd]
+
+**ToBI:**
+H*  L+H*  H-
+
+---
+
+**LINE:** “And they would go and kiss dead Caesar’s wounds”
+
+Performance Line
+[Painting frenzy, Tessitura↗, Swift articulation] ˦***And they would go*** H* |
+[Visceral image, Crescendo] ˩˧˥**and *kiss* dead Caesar’s wounds** L+H* H- ↑
+
+**IPA:**
+[ænd ðeɪ̯ wʊd ɡoʊ] [ənd kɪs dɛd ˈsiː.zɚz wundz]
+
+**ToBI:**
+H*  L+H*  H-
+
+---
+
+**LINE:** “And dip their napkins in his sacred blood;”
+
+Performance Line
+[Macabre allure, Tessitura↗, Vivid consonants] ˦***And dip their *napkins**** H* |
+[Holy horror, Resonant fall] ˧**in his sacred *blood*** H* L-L% ↓
+
+**IPA:**
+[ænd dɪp ðɛɹ ˈnæp.kɪnz] [ɪn hɪz ˈseɪ̯.kɹɪd ˈblʌd]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “Yea, beg a hair of him for memory,”
+
+Performance Line
+[Urgent pleading, Tessitura↗, Narrow vibrato] ˦***Yea, *beg* a hair*** H* |
+[Tender devotion] ˧**of him for *memory*** H- L-L% ↓
+
+**IPA:**
+[jeɪ̯ bɛɡ ə hɛɹ əv hɪm fɔɹ ˈmɛm.ɚ.i]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “And, dying, mention it within their wills,”
+
+Performance Line
+[Hypnotic foresight, Tessitura→] ˧***And, dying, *mention* it*** L* |
+[Legacy emphasis, Gentle fall] ˨**within their *wills*** L-L% ↓
+
+**IPA:**
+[ænd ˈdaɪ̯.ɪŋ ˈmɛn.ʃən ɪt] [wɪˈðɪn ðɛɹ wɪɫz]
+
+**ToBI:**
+L*  L-L%
+
+---
+
+**LINE:** “Bequeathing it as a rich legacy”
+
+Performance Line
+[Seductive generosity, Tessitura↗, Flowing pace] ˦***Bequeathing it*** H* |
+[Luxurious emphasis] ˧**as a *rich legacy*** H- L-L% ↓
+
+**IPA:**
+[bɪˈkwiː.ðɪŋ ɪt] [æz ə ɹɪtʃ ˈlɛɡ.ə.si]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Unto their issue.”
+
+Performance Line
+[Soft promise, Tessitura↓, Tapered release] ˩˧˥***Unto their *issue**** L+H* L-L% ↓
+
+**IPA:**
+[ʌnˈtu ðɛɹ ˈɪʃ.u]
+
+**ToBI:**
+L+H*  L-L%
+
+---
+
+# SECTION 7 — VISUAL WOUND CRESCENDO
+
+**Purpose:** Convert pity into visceral outrage; show the body and betrayals.
+
+**LINE:** “If you have tears, prepare to shed them now.”
+
+Performance Line
+[Commanding empathy, Tessitura↗, Drumbeat phrasing] ˦***If you have *tears**** H* |
+[Imminent grief] ˩˧˥**prepare to shed them *now*** L+H* L-L% ↓
+
+**IPA:**
+[ɪf ju hæv tɪɹz] [pɹɪˈpɛɹ tə ˈʃɛd ðɛm naʊ̯]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+**LINE:** “You all do know this mantle: I remember”
+
+Performance Line
+[Shared memory cue, Tessitura↗] ˦***You all do *know**** H* |
+[Personal recollection, Warm drop] ˧**this mantle: I *remember*** H- L-L% ↓
+
+**IPA:**
+[ju ˈɔl du ˈnoʊ] [ðɪs ˈmæn.tɫ̩ | aɪ̯ ɹɪˈmɛm.bɚ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “The first time ever Caesar put it on;”
+
+Performance Line
+[Reverent hush, Tessitura↓, Slower tempo] ˩˧˥***The first time *ever**** L+H* |
+[Gentle pride] ˧**Caesar put it *on*** H* L-L% ↓
+
+**IPA:**
+[ðə ˈfɝːst taɪ̯m ˈɛv.ɚ] [ˈsiː.zɚ pʊt ɪt ɑn]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “’Twas on a summer’s evening, in his tent,”
+
+Performance Line
+[Storytelling warmth, Tessitura↓] ˩˧˥***’Twas on a *summer’s* evening*** L+H* |
+[Heroic context, Soft glow] ˧**in his *tent*** H- L-L% ↓
+
+**IPA:**
+[twəz ɑn ə ˈsʌm.ɚz ˈiːv.nɪŋ] [ɪn hɪz tɛnt]
+
+**ToBI:**
+L+H*  H-  L-L%
+
+---
+
+**LINE:** “That day he overcame the Nervii:”
+
+Performance Line
+[Triumphant image, Tessitura↗] ˦***That day he *overcame**** H* |
+[Historical punch] ˩˧˥**the *Nervii*** L+H* L-L% ↓
+
+**IPA:**
+[ðæt deɪ̯ hi ˌoʊ.vɚˈkeɪ̯m] [ðə ˈnɝː.vi.aɪ̯]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+**LINE:** “Look! in this place ran Cassius’ dagger through:”
+
+Performance Line
+[Shock command, Tessitura↗↗, Sharp attack] ˥***Look!*** H* |
+[Pointing gesture, Violent clarity] ˦**in this place ran *Cassius’* dagger through** H- L-L% ↓
+
+**IPA:**
+[lʊk] [ɪn ðɪs pleɪ̯s ɹæn ˈkæʃ.i.əs ˈdæ.ɡɚ θɹu]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “See what a rent the envious Casca made:”
+
+Performance Line
+[Crowd focus, Tessitura↗, Cutting consonants] ˦***See what a *rent**** H* |
+[Blame accent, Angular fall] ˧**the envious *Casca* made** H* L-L% ↓
+
+**IPA:**
+[siː wʌt ə ɹɛnt] [ði ˈɛn.vi.əs ˈkæs.kə meɪ̯d]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “Through this the well-beloved Brutus stabb’d;”
+
+Performance Line
+[Betrayal reveal, Tessitura↗, Bitter burn] ˦***Through this the well-beloved *Brutus**** H* |
+[Harsh snap] ˧**stabb’d** L-L% ↓
+
+**IPA:**
+[θɹu ðɪs ðə ˈwɛɫ.bɪˌlʌvd ˈbɹuː.təs] [stæbd]
+
+**ToBI:**
+H*  L-L%
+
+---
+
+**LINE:** “And as he pluck’d his cursèd steel away,”
+
+Performance Line
+[Slow motion, Tessitura↗, Viscous articulation] ˦***And as he *pluck’d**** H* |
+[Horrified detail] ˧**his cursèd steel *away*** H- L-L% ↓
+
+**IPA:**
+[ænd æz hi plʌkt] [hɪz ˈkɝːsɪd stiːɫ əˈweɪ̯]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Mark how the blood of Caesar follow’d it,”
+
+Performance Line
+[Directive intensity, Tessitura↗, Flowing] ˦***Mark how the *blood**** H* |
+[Visual trail] ˧**of Caesar follow’d *it*** H* L-L% ↓
+
+**IPA:**
+[mɑɹk haʊ̯ ðə blʌd] [əv ˈsiː.zɚ ˈfɑl.oʊd ɪt]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “As rushing out of doors, to be resolv’d”
+
+Performance Line
+[Kinetic image, Rolling tempo] ˧***As rushing out of *doors**** L* |
+[Desperate curiosity, Lift at end] ˩˧˥**to be *resolv’d*** L+H* H-
+
+**IPA:**
+[æz ˈɹʌʃ.ɪŋ aʊ̯t əv dɔɹz] [tə bi ɹɪˈzɑɫvd]
+
+**ToBI:**
+L*  L+H*  H-
+
+---
+
+**LINE:** “If Brutus so unkindly knock’d, or no;”
+
+Performance Line
+[Edge of accusation, Tessitura↗] ˦***If *Brutus* so unkindly *knock’d**** H* |
+[Dry alternative, Falling] ˨**or no** L-L% ↓
+
+**IPA:**
+[ɪf ˈbɹuː.təs soʊ ʌnˈkaɪ̯nd.li nɑkt] [ɔɹ noʊ]
+
+**ToBI:**
+H*  L-L%
+
+---
+
+**LINE:** “For Brutus, as you know, was Caesar’s angel:”
+
+Performance Line
+[Bitter reverence, Tessitura↗, Controlled vibrato] ˦***For Brutus, as you *know**** H* |
+[Heavenly weight, Soft fall] ˧**was Caesar’s *angel*** H- L-L% ↓
+
+**IPA:**
+[fɔɹ ˈbɹuː.təs æz ju noʊ] [wəz ˈsiː.zɚz ˈeɪ̯n.dʒəɫ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Judge, O you gods, how dearly Caesar lov’d him!”
+
+Performance Line
+[Invocation, Tessitura↗↗, Ringing urgency] ˥***Judge, O you *gods**** H* |
+[Tender anguish] ˩˧˥**how dearly Caesar *lov’d* him** L+H* L-L% ↓
+
+**IPA:**
+[dʒʌdʒ oʊ ju ɡɑdz] [haʊ̯ ˈdɪəɹ.li ˈsiː.zɚ lʌvd ɪm]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+**LINE:** “This was the most unkindest cut of all;”
+
+Performance Line
+[Verdict slam, Tessitura↗, Hammered rhythm] ˦***This was the *most unkindest**** H* |
+[Final blow] ˩˧˥**cut of *all*** L+H* L-L% ↓
+
+**IPA:**
+[ðɪs wəz ðə ˈmoʊst ʌnˈkaɪ̯ndɪst] [kʌt əv ɔl]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+**LINE:** “For when the noble Caesar saw him stab,”
+
+Performance Line
+[Narrated slow motion, Tessitura↗] ˦***For when the noble *Caesar**** H* |
+[Shock image, Falling ache] ˧**saw him *stab*** H* L-L% ↓
+
+**IPA:**
+[fɔɹ wɛn ðə ˈnoʊ.bəɫ ˈsiː.zɚ] [sɑ hɪm stæb]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “Ingratitude, more strong than traitors’ arms,”
+
+Performance Line
+[Broader vowels, Tessitura↗, Rolling emphasis] ˦***Ingratitude, more strong**** H* |
+[Weight of betrayal] ˧**than traitors’ *arms*** H- L-L% ↓
+
+**IPA:**
+[ɪnˈɡɹæt.ɪˌtud mɔɹ stɹɔŋ] [ðæn ˈtɹeɪ̯.tɚz ɑɹmz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Quite vanquish’d him: then burst his mighty heart;”
+
+Performance Line
+[Cataclysmic swell, Tessitura↗↗] ˥***Quite *vanquish’d* him*** H* |
+[Heartbreak drop] ˩˧˥**then burst his *mighty* heart** L+H* L-L% ↓
+
+**IPA:**
+[kwaɪ̯t ˈvæŋ.kwɪʃt ɪm] [ðɛn bɝːst hɪz ˈmaɪ̯.ti hɑɹt]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+**LINE:** “And, in his mantle muffling up his face,”
+
+Performance Line
+[Tender hush, Tessitura↓] ˩˧˥***And, in his mantle *muffling**** L+H* |
+[Soft imagery] ˧**up his *face*** H- L-L% ↓
+
+**IPA:**
+[ænd ɪn hɪz ˈmæn.tɫ̩ ˈmʌf.lɪŋ] [ʌp hɪz feɪ̯s]
+
+**ToBI:**
+L+H*  H-  L-L%
+
+---
+
+**LINE:** “Even at the base of Pompey’s statua,”
+
+Performance Line
+[Historic placement, Tessitura↗, Marble-weight] ˦***Even at the *base**** H* |
+[Proper name prominence] ˧**of Pompey’s *statua*** H- L-L% ↓
+
+**IPA:**
+[ˈiːv.ən æt ðə beɪ̯s] [əv ˈpɑm.piz ˈstæ.tʃu.ə]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Which all the while ran blood, great Caesar fell.”
+
+Performance Line
+[Dark crescendo, Tessitura↗] ˦***Which all the while *ran blood**** H* |
+[Fatal drop] ˨**great Caesar *fell*** L-L% ↓
+
+**IPA:**
+[wɪtʃ ɔl ðə waɪ̯ɫ ɹæn blʌd] [ɡɹeɪ̯t ˈsiː.zɚ fɛl]
+
+**ToBI:**
+H*  L-L%
+
+---
+
+**LINE:** “O what a fall was there, my countrymen!”
+
+Performance Line
+[Exclamatory shock, Tessitura↗↗] ˥***O what a *fall**** H* |
+[Shared ruin, Sighing descent] ˧**was there, my *countrymen*** H- L-L% ↓
+
+**IPA:**
+[oʊ wʌt ə fɔɫ] [wəz ðɛɹ maɪ̯ ˈkʌn.tɹi.mɛn]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Then I, and you, and all of us fell down,”
+
+Performance Line
+[Inclusive collapse, Tessitura↓] ˩˧˥***Then I, and you, and *all* of us*** L+H* |
+[Weighty drop] ˧**fell *down*** H* L-L% ↓
+
+**IPA:**
+[ðɛn aɪ̯ ænd ju ænd ɔɫ əv ʌs] [fɛl daʊ̯n]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “Whilst bloody treason flourish’d over us.”
+
+Performance Line
+[Seething anger, Tessitura↗] ˦***Whilst bloody *treason**** H* |
+[Smothered fury] ˧**flourish’d *over us*** H- L-L% ↓
+
+**IPA:**
+[hwaɪ̯ɫst ˈblʌd.i ˈtɹiː.zən] [ˈflɝː.ɪʃt ˈoʊ.vɚ ʌs]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “O, now you weep; and, I perceive, you feel”
+
+Performance Line
+[Soft triumph, Tessitura↗, Gentle coaxing] ˦***O, now you *weep**** H* |
+[Observation, Floating fall] ˧**and, I perceive, you *feel*** H- L-L% ↓
+
+**IPA:**
+[oʊ naʊ̯ ju wip] [ænd aɪ̯ pɚˈsiv ju fil]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “The dint of pity: these are gracious drops.”
+
+Performance Line
+[Acknowledging tenderness, Tessitura↓] ˩˧˥***The *dint* of pity*** L+H* |
+[Blessing cadence] ˧**these are *gracious drops*** H* L-L% ↓
+
+**IPA:**
+[ðə dɪnt əv ˈpɪt.i] [ðiz ɑɹ ˈɡreɪ̯.ʃəs drɑps]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “Kind souls, what, weep you when you but behold”
+
+Performance Line
+[Caressing address, Tessitura↓, Soft lilt] ˩˧˥***Kind souls, what, *weep* you*** L+H* |
+[Guiding curiosity] ˧**when you but *behold*** H- L-L% ↓
+
+**IPA:**
+[kaɪ̯nd soʊɫz wʌt wip ju] [wɛn ju bʌt bɪˈhoʊld]
+
+**ToBI:**
+L+H*  H-  L-L%
+
+---
+
+**LINE:** “Our Caesar’s vesture wounded? Look you here,”
+
+Performance Line
+[Shock reveal, Tessitura↗] ˦***Our Caesar’s *vesture* wounded?*** H* H-H% |
+[Hand presentation] ˧**Look you *here*** H- L-L% ↓
+
+**IPA:**
+[aʊ̯ɚ ˈsiː.zɚz ˈvɛs.tʃɚ ˈwun.dɪd] [lʊk ju hɪɹ]
+
+**ToBI:**
+H*  H-H%  H-  L-L%
+
+---
+
+**LINE:** “Here is himself, marr’d, as you see, with traitors.”
+
+Performance Line
+[Climactic reveal, Tessitura↗↗, Heavy vibrato] ˥***Here is *himself**** H* |
+[Bitter verdict, Gravity] ˧**marr’d, as you see, with *traitors*** H- L-L% ↓
+
+**IPA:**
+[hɪɹ ɪz hɪmˈsɛlf] [mɑɹd æz ju si wɪð ˈtɹeɪ̯.tɚz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+# SECTION 8 — “PLAIN BLUNT MAN” PARADOX
+
+**Purpose:** Reassure while inciting; contrast humility with volcanic subtext.
+
+**LINE:** “Good friends, sweet friends, let me not stir you up”
+
+Performance Line
+[Soothing cadence, Tessitura↓, Rocking rhythm] ˩˧˥***Good friends, sweet *friends**** L+H* |
+[False restraint] ˧**let me not stir you *up*** H* L-L% ↓
+
+**IPA:**
+[ɡʊd fɹɛndz swit fɹɛndz] [lɛt mi nɑt stɝː ju ʌp]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “To such a sudden flood of mutiny.”
+
+Performance Line
+[Warning hush, Tessitura↓] ˩˧˥***To such a sudden *flood**** L+H* |
+[Word “mutiny” brightened] ˧**of *mutiny*** H* L-L% ↓
+
+**IPA:**
+[tə sʌtʃ ə ˈsʌd.n̩ flʌd] [əv ˈmjuː.tə.ni]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “They that have done this deed are honourable:”
+
+Performance Line
+[Refrain callback, Tessitura↗, Dry tone] ˦***They that have done this *deed**** H* |
+[Irony-laden fall] ˧**are *honourable*** H- L-L% ↓
+
+**IPA:**
+[ðeɪ̯ ðæt hæv dʌn ðɪs did] [ɑɹ ˈɑ.nɚ.ə.bəɫ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “What private griefs they have, alas, I know not,”
+
+Performance Line
+[Confidential sympathy, Tessitura↗, Rolling phrasing] ˦***What private *griefs**** H* |
+[Feign ignorance] ˧**they have, alas, I *know* not** H* L-L% ↓
+
+**IPA:**
+[wʌt ˈpɹaɪ̯vət ɡɹifs] [ðeɪ̯ hæv əˈlæs aɪ̯ noʊ nɑt]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “That made them do it: they are wise and honourable,”
+
+Performance Line
+[Measured cadence, Tessitura↗] ˦***That made them *do* it*** H* |
+[Brittle compliment, Extended fall] ˧**they are wise and *honourable*** H- L-L% ↓
+
+**IPA:**
+[ðæt meɪ̯d ðɛm du ɪt] [ðeɪ̯ ɑɹ waɪ̯z ænd ˈɑ.nɚ.ə.bəɫ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “And will, no doubt, with reasons answer you.”
+
+Performance Line
+[Sarcastic assurance, Tessitura↗, Controlled pace] ˦***And will, no doubt,*** H* |
+[Pointed conclusion] ˧**with reasons *answer you*** H- L-L% ↓
+
+**IPA:**
+[ænd wɪl noʊ daʊ̯t] [wɪð ˈɹiː.zənz ˈæn.sɚ ju]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “I come not, friends, to steal away your hearts:”
+
+Performance Line
+[Gentle denial, Tessitura↓] ˩˧˥***I come not, *friends**** L+H* |
+[Honest cadence] ˧**to steal away your *hearts*** H* L-L% ↓
+
+**IPA:**
+[aɪ̯ kʌm nɑt fɹɛndz] [tə ˈstiːl əˈweɪ̯ jɔɹ hɑɹts]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “I am no orator, as Brutus is;”
+
+Performance Line
+[Humility posture, Tessitura↓, Slight smile] ˩˧˥***I am no *orator**** L+H* |
+[Comparative nod] ˧**as *Brutus* is** H* L-L% ↓
+
+**IPA:**
+[aɪ̯ æm noʊ ˈɔɹ.ə.tɚ] [æz ˈbɹuː.təs ɪz]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “But, as you know me all, a plain blunt man,”
+
+Performance Line
+[Homey warmth, Tessitura↓, Chest resonance] ˩˧˥***But, as you know me *all**** L+H* |
+[Self-portrait, Firm landing] ˧**a plain blunt *man*** H* L-L% ↓
+
+**IPA:**
+[bʌt æz ju noʊ mi ɑl] [ə pleɪ̯n blʌnt mæn]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “That love my friend; and that they know full well”
+
+Performance Line
+[Tender confession, Tessitura↓] ˩˧˥***That love my *friend**** L+H* |
+[Firm reminder] ˧**and that they know full *well*** H* L-L% ↓
+
+**IPA:**
+[ðæt lʌv maɪ̯ fɹɛnd] [ænd ðæt ðeɪ̯ noʊ fʊɫ wɛɫ]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “That gave me public leave to speak of him.”
+
+Performance Line
+[License reminder, Tessitura↗ slightly] ˦***That gave me *public* leave*** H* |
+[Gentle fall] ˧**to speak of *him*** H- L-L% ↓
+
+**IPA:**
+[ðæt ɡeɪ̯v mi ˈpʌb.lɪk liv] [tə ˈspiːk əv hɪm]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “For I have neither wit, nor words, nor worth,”
+
+Performance Line
+[Counting cadence, Tessitura↓, Self-effacing] ˩˧˥***For I have neither *wit**** L+H* |
+[Triplet listing, Soft drop] ˧**nor words, nor *worth*** H* L-L% ↓
+
+**IPA:**
+[fɔɹ aɪ̯ hæv ˈniː.ðɚ wɪt] [nɔɹ wɝːdz nɔɹ wɝːθ]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “Action, nor utterance, nor the power of speech,”
+
+Performance Line
+[Self-deprecation continues, Tessitura↓] ˩˧˥***Action, nor *utterance**** L+H* |
+[Final clause, Gentle fall] ˧**nor the power of *speech*** H* L-L% ↓
+
+**IPA:**
+[ˈæk.ʃən nɔɹ ˈʌ.tɚ.əns] [nɔɹ ðə ˈpaʊ̯.ɚ əv spiːtʃ]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “To stir men’s blood: I only speak right on;”
+
+Performance Line
+[Assumed limitation, Tessitura↓] ˩˧˥***To stir men’s *blood**** L+H* |
+[Plain assertion] ˧**I only speak right *on*** H* L-L% ↓
+
+**IPA:**
+[tə stɝː mɛnz blʌd] [aɪ̯ ˈoʊn.li spiːk ɹaɪ̯t ɑn]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “I tell you that which you yourselves do know;”
+
+Performance Line
+[Factual insistence, Tessitura↗ slightly] ˦***I tell you that which *you**** H* |
+[Mirror back to crowd] ˧**yourselves do *know*** H- L-L% ↓
+
+**IPA:**
+[aɪ̯ tɛɫ ju ðæt wɪtʃ ju] [jɔɹˈsɛlvz du noʊ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Show you sweet Caesar’s wounds, poor dumb mouths,”
+
+Performance Line
+[Demonstrative gesture, Tessitura↗] ˦***Show you sweet *Caesar’s* wounds*** H* |
+[Metaphoric tenderness] ˧**poor dumb *mouths*** H- L-L% ↓
+
+**IPA:**
+[ʃoʊ ju swit ˈsiː.zɚz wundz] [pʊɹ dʌm maʊ̯ðz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “And bid them speak for me: but were I Brutus,”
+
+Performance Line
+[Suppressed fury, Tessitura↗] ˦***And bid them *speak* for me*** H* |
+[Conditional spark] ˩˧˥**but were I *Brutus*** L+H* H-
+
+**IPA:**
+[ænd bɪd ðɛm spik fɔɹ mi] [bʌt wɝː aɪ̯ ˈbɹuː.təs]
+
+**ToBI:**
+H*  L+H*  H-
+
+---
+
+**LINE:** “And Brutus Antony, there were an Antony”
+
+Performance Line
+[Role reversal fantasy, Tessitura↗↗] ˥***And Brutus *Antony**** H* |
+[Promise of fire] ˩˧˥**there were an *Antony*** L+H* H-
+
+**IPA:**
+[ænd ˈbɹuː.təs ˈæn.tə.ni] [ðɛɹ wɝː ən ˈæn.tə.ni]
+
+**ToBI:**
+H*  L+H*  H-
+
+---
+
+**LINE:** “Would ruffle up your spirits, and put a tongue”
+
+Performance Line
+[Energetic swell, Tessitura↗] ˦***Would ruffle up your *spirits**** H* |
+[Momentum carry] ˧**and put a *tongue*** H- L-L% ↓
+
+**IPA:**
+[wʊd ˈɹʌf.əɫ ʌp jɔɹ ˈspɪɹ.ɪts] [ænd pʊt ə tʌŋ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “In every wound of Caesar, that should move”
+
+Performance Line
+[Enumerative urgency, Tessitura↗] ˦***In *every* wound of *Caesar**** H* |
+[Cranking energy] ˧**that should *move*** H- L-L% ↓
+
+**IPA:**
+[ɪn ˈɛv.ɹi wund əv ˈsiː.zɚ] [ðæt ʃʊd muv]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “The stones of Rome to rise and mutiny.”
+
+Performance Line
+[Implacable image, Tessitura↗↗, Powerful swell] ˥***The *stones* of Rome**** H* |
+[Revolt endpoint, Falling slam] ˩˧˥**to rise and *mutiny*** L+H* L-L% ↓
+
+**IPA:**
+[ðə stoʊnz əv ɹoʊm] [tə ɹaɪ̯z ænd ˈmjuː.tə.ni]
+
+**ToBI:**
+H*  L+H*  L-L%
+
+---
+
+# SECTION 9 — WILL REVEAL AND FINAL HOOK
+
+**Purpose:** Deliver tangible rewards; cinch loyalty with the testament.
+
+**LINE:** “Yet hear me, countrymen; yet hear me speak.”
+
+Performance Line
+[Re-centering call, Tessitura↗, Firm pulse] ˦***Yet hear me, *countrymen**** H* |
+[Insistent repeat] ˧**yet hear me *speak*** H- L-L% ↓
+
+**IPA:**
+[jɛt hɪɹ mi ˈkʌn.tɹi.mɛn] [jɛt hɪɹ mi spiːk]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Why, friends, you go to do you know not what:”
+
+Performance Line
+[Alarmed affection, Tessitura↗] ˦***Why, friends, you go to *do**** H* |
+[Chiding fall] ˧**you know not *what*** H- L-L% ↓
+
+**IPA:**
+[waɪ̯ fɹɛndz ju ɡoʊ tə du] [ju noʊ nɑt wʌt]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Wherein hath Caesar thus deserv’d your loves?”
+
+Performance Line
+[Interrogative lift, Tessitura↗] ˦***Wherein hath *Caesar**** H* |
+[Appeal landing] ˧**thus deserv’d your *loves*** H* L-L% ↓
+
+**IPA:**
+[wɛɹˈɪn hæθ ˈsiː.zɚ] [ðʌs dɪˈzɝːvd jɔɹ lʌvz]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “Alas, you know not: I must tell you then:”
+
+Performance Line
+[Pitying sigh, Tessitura↓] ˩˧˥***Alas, you *know* not*** L+H* |
+[Promise of revelation] ˧**I must tell you *then*** H- L-L% ↓
+
+**IPA:**
+[əˈlæs ju noʊ nɑt] [aɪ̯ mʌst tɛɫ ju ðɛn]
+
+**ToBI:**
+L+H*  H-  L-L%
+
+---
+
+**LINE:** “You have forgot the will I told you of.”
+
+Performance Line
+[Chiding reminder, Tessitura↗] ˦***You have for*got* the will*** H* |
+[Soft drop] ˧**I told you *of*** H- L-L% ↓
+
+**IPA:**
+[ju hæv fɚˈɡɑt ðə wɪɫ] [aɪ̯ toʊld ju ʌv]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “Here is the will, and under Caesar’s seal.”
+
+Performance Line
+[Tangible reveal, Tessitura↗↗, Crisp diction] ˥***Here is the *will**** H* |
+[Authority echo] ˧**and under Caesar’s *seal*** H- L-L% ↓
+
+**IPA:**
+[hɪɹ ɪz ðə wɪɫ] [ænd ˈʌn.dɚ ˈsiː.zɚz siːɫ]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “To every Roman citizen he gives,”
+
+Performance Line
+[Measured generosity, Tessitura↗] ˦***To every Roman *citizen**** H* |
+[Gift landing] ˧**he *gives*** H- L-L% ↓
+
+**IPA:**
+[tə ˈɛv.ɹi ˈroʊ.mən ˈsɪ.t̬ə.zən] [hi ɡɪvz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “To every several man, seventy-five drachmas.”
+
+Performance Line
+[Counting cadence, Tessitura↗, Clear numerals] ˦***To every several *man**** H* |
+[Precise figure] ˧**seventy-five *drachmas*** H* L-L% ↓
+
+**IPA:**
+[tə ˈɛv.ɹi ˈsɛv.ɹəl mæn] [ˌsɛv.ən.ti ˈfaɪ̯v ˈdrɑk.məz]
+
+**ToBI:**
+H*  H*  L-L%
+
+---
+
+**LINE:** “Moreover, he hath left you all his walks,”
+
+Performance Line
+[Lavish layering, Tessitura↗, Fluid phrasing] ˦***Moreover, he hath *left**** H* |
+[Generous sweep] ˧**you all his *walks*** H- L-L% ↓
+
+**IPA:**
+[mɔrˈoʊ.vɚ hi hæθ lɛft] [ju ɔl hɪz wɔks]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “His private arbours, and new-planted orchards,”
+
+Performance Line
+[Garden imagery, Tessitura↗, Gentle legato] ˦***His private *arbours**** H* |
+[Lush addition] ˧**and new-planted *orchards*** H- L-L% ↓
+
+**IPA:**
+[hɪz ˈpɹaɪ̯vət ˈɑɹ.bɚz] [ænd ˌnuː ˈplæn.tɪd ˈɔɹ.tʃɚdz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “On this side Tiber; he hath left them you,”
+
+Performance Line
+[Locational sweep, Tessitura↗] ˦***On this side *Tiber**** H* |
+[Gift reiteration] ˧**he hath left them *you*** H- L-L% ↓
+
+**IPA:**
+[ɑn ðɪs saɪ̯d ˈtaɪ̯.bɚ] [hi hæθ lɛft ðɛm ju]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “And to your heirs for ever; common pleasures,”
+
+Performance Line
+[Future promise, Tessitura↗] ˦***And to your *heirs* for ever*** H* |
+[Communal delight] ˧**common *pleasures*** H- L-L% ↓
+
+**IPA:**
+[ænd tə jɔɹ ɛɹz fɔɹ ˈɛv.ɚ] [ˈkɑ.mən ˈplɛʒ.ɚz]
+
+**ToBI:**
+H*  H-  L-L%
+
+---
+
+**LINE:** “To walk abroad, and recreate yourselves.”
+
+Performance Line
+[Generous imagery, Tessitura↓, Relaxed pacing] ˩˧˥***To walk a*broad**** L+H* |
+[Restful cadence] ˧**and recreate your*selves*** H* L-L% ↓
+
+**IPA:**
+[tə wɔk əˈbɹɔd] [ænd ˈrɛ.kɹiːˌeɪ̯t jɔɹˈsɛlvz]
+
+**ToBI:**
+L+H*  H*  L-L%
+
+---
+
+**LINE:** “Here was a Caesar! when comes such another?”
+
+Performance Line
+[Triumphant cry, Tessitura↗↗, Vibrant] ˥***Here was a *Caesar*!*** H* |
+[Demanding close, Rising question] ˩˧˥**when comes such a*nother?*** L+H* H-H% ↑
+
+**IPA:**
+[hɪɹ wəz ə ˈsiː.zɚ] [wɛn kʌmz sʌtʃ əˈnʌð.ɚ]
+
+**ToBI:**
+H*  L+H*  H-H%
+
+---
 **LINE:** “So are they all, all honourable men—”
 
 Performance Line
