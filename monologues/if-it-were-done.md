@@ -61,14 +61,47 @@ Performance Line
 
 ---
 
-**LINE:** “With his surcease success; that but this blow / Might be the be-all and the end-all here, / But here, upon this bank and shoal of time, / We’d jump the life to come.”
+**LINE:** “With his surcease success; that but this blow”
 
 Performance Line
-[Ledger-like weighing] ˧***With his surcease success; that but this blow might be the be-all and the end-all here*** H* | [Leap over consequence] ˨**But here, upon this bank and shoal of time, we’d jump the life to come** L-L% ↓
+[Ledger-like weighing] ˧***With his surcease success; that but this blow*** H* L-L% ↓
 
-**IPA:** [wɪð hɪz sɝːˈsis səkˈsɛs | ðæt bʌt ðɪs bloʊ maɪt bi ðə ˈbiːˌɑɫ ænd ði ˈɛndˌɑɫ hɪɹ | bʌt hɪɹ əˈpɑn ðɪs bæŋk ænd ʃoʊɫ əv taɪm | wid dʒʌmp ðə laɪf tə kʌm]
+**IPA:** [wɪð hɪz sɝːˈsis səkˈsɛs ðæt bʌt ðɪs bloʊ]
 
 **ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Might be the be-all and the end-all here,”
+
+Performance Line
+[Ledger-like weighing] ˧***Might be the be-all and the end-all here*** H* L-L% ↓
+
+**IPA:** [maɪt bi ðə ˈbiːˌɑɫ ænd ði ˈɛndˌɑɫ hɪɹ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “But here, upon this bank and shoal of time,”
+
+Performance Line
+[Leap over consequence] ˨**But here, upon this bank and shoal of time** L+H* H- ↓
+
+**IPA:** [bʌt hɪɹ əˈpɑn ðɪs bæŋk ænd ʃoʊɫ əv taɪm]
+
+**ToBI:** L+H*  H-
+
+---
+
+**LINE:** “We’d jump the life to come.”
+
+Performance Line
+[Leap over consequence] ˩**We’d jump the life to come** L* L-L% ↓
+
+**IPA:** [wid dʒʌmp ðə laɪf tə kʌm]
+
+**ToBI:** L*  L-L%
 
 ---
 
