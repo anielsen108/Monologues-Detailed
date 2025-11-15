@@ -43,6 +43,17 @@ Performance Line
 
 ---
 
+**LINE:** “And all our yesterdays have lighted fools / The way to dusty death. Out, out, brief candle!”
+
+Performance Line
+[Ashen retrospection] ˧***And all our yesterdays have lighted fools*** H- | [Dusty drop] ˨**The way to dusty death** L* | [Sudden flare] ˦**Out, out, brief candle!** L+H* !H% ↗
+
+**IPA:** [ænd ɔɫ aʊɚ ˈjɛs.tɚ.deɪz hæv ˈlaɪ.tɪd fuz | ðə weɪ tə ˈdʌs.ti dɛθ | aʊt aʊt bɹif ˈkæn.dəɫ]
+
+**ToBI:** H-  L*  L+H* !H%
+
+---
+
 ## SECTION 2 — FUTILITY IMAGE
 
 **Purpose:** Let the imagery of stage and candle briefly sharpen before dropping into nihilism.
@@ -58,12 +69,12 @@ Performance Line
 
 ---
 
-**LINE:** “It is a tale / Told by an idiot, full of sound and fury, / Signifying nothing.”
+**LINE:** “And then is heard no more. It is a tale / Told by an idiot, full of sound and fury, / Signifying nothing.”
 
 Performance Line
-[Harsh articulation, clipped contempt] ˧***It is a tale told by an idiot*** H* H- | [Swell to bitterness] ˦**full of sound and fury** L+H* | [Hollow landing] ˨**Signifying nothing** L-L% ↓
+[Harsh articulation, clipped contempt] ˧***And then is heard no more; it is a tale told by an idiot*** H* H- | [Swell to bitterness] ˦**full of sound and fury** L+H* | [Hollow landing] ˨**Signifying nothing** L-L% ↓
 
-**IPA:** [ɪt ɪz ə teɪl | toʊld baɪ ən ˈɪd.i.ət | fʊɫ əv saʊnd ænd ˈfjʊɹ.i | ˈsɪɡ.nəˌfaɪ.ɪŋ ˈnʌ.θɪŋ]
+**IPA:** [ænd ðɛn ɪz hɝd noʊ mɔɹ | ɪt ɪz ə teɪl | toʊld baɪ ən ˈɪd.i.ət | fʊɫ əv saʊnd ænd ˈfjʊɹ.i | ˈsɪɡ.nəˌfaɪ.ɪŋ ˈnʌ.θɪŋ]
 
 **ToBI:** H*  H-  L+H*  L-L%
 

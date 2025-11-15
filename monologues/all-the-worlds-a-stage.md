@@ -76,12 +76,78 @@ Performance Line
 
 ---
 
-**LINE:** “Last scene of all, / That ends this strange eventful history, / Is second childishness and mere oblivion.”
+**LINE:** “And then the whining schoolboy, with his satchel / And shining morning face, creeping like snail / Unwillingly to school.”
 
 Performance Line
-[Soft gloom, narrowing tessitura] ˧***Last scene of all*** L* | [Storybook cadence] ˨**That ends this strange eventful history** H- | [Fade to nothing] ˩**Is second childishness and mere oblivion** L-L% ↓
+[Teasing affection] ˧***And then the whining schoolboy, with his satchel and shining morning face*** L+H* | [Drawn-out gait] ˨**creeping like snail unwillingly to school** L-L% ↓
 
-**IPA:** [læst sin əv ɔɫ | ðæt ɛndz ðɪs ˈstreɪndʒ ɪˈvɛnt.fəl ˈhɪs.tə.ɹi | ɪz ˈsɛk.ənd ˈtʃaɪld.ɪʃ.nəs ænd ˈmɪɹ oʊˈblɪv.i.ən]
+**IPA:** [ænd ðɛn ðə ˈwaɪ.nɪŋ ˈskuɫ.bɔɪ wɪð hɪz ˈsætʃ.əɫ ænd ˈʃaɪ.nɪŋ ˈmɔɹ.nɪŋ feɪs | ˈkɹiː.pɪŋ laɪk sneɪɫ ʌnˈwɪ.lɪŋ.li tə skul]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “And then the lover, / Sighing like furnace, with a woeful ballad / Made to his mistress’ eyebrow.”
+
+Performance Line
+[Breathy ardor] ˧***And then the lover, sighing like furnace*** H* | [Mocking flourish] ˨**with a woeful ballad made to his mistress’ eyebrow** L-L% ↓
+
+**IPA:** [ænd ðɛn ðə ˈlʌ.vɚ | ˈsaɪ.ɪŋ laɪk ˈfɝ.nəs | wɪð ə ˈwoʊ.fəɫ ˈbæl.əd meɪd tə hɪz ˈmɪs.trəs ˈaɪˌbɹaʊ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Then a soldier, / Full of strange oaths, and bearded like the pard, / Jealous in honour, sudden and quick in quarrel, / Seeking the bubble reputation / Even in the cannon’s mouth.”
+
+Performance Line
+[Martial snap] ˦***Then a soldier, full of strange oaths, and bearded like the pard*** H* | [Cresting bravado] ˧**Jealous in honour, sudden and quick in quarrel, seeking the bubble reputation even in the cannon’s mouth** L+H* L-L% ↓
+
+**IPA:** [ðɛn ə ˈsoʊl.dʒɚ | fʊɫ əv streɪndʒ oʊθs ænd ˈbɪɹ.dɪd laɪk ðə pɑɹd | ˈdʒɛ.ləs ɪn ˈɑ.nɚ ˈsʌd.ən ænd kwɪk ɪn ˈkwɔɹ.əɫ | ˈsiː.kɪŋ ðə ˈbʌb.əɫ ˌrɛp.jəˈteɪ.ʃən | ˈiv.ən ɪn ðə ˈkæn.ənz maʊθ]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
+
+**LINE:** “And then the justice, / In fair round belly with good capon lin’d, / With eyes severe and beard of formal cut, / Full of wise saws and modern instances; / And so he plays his part.”
+
+Performance Line
+[Portly assurance] ˧***And then the justice in fair round belly with good capon lin’d*** H* | [Pedantic cadence] ˨**with eyes severe and beard of formal cut, full of wise saws and modern instances; and so he plays his part** L-L% ↓
+
+**IPA:** [ænd ðɛn ðə ˈdʒʌs.tɪs | ɪn fɛɹ ɹaʊnd ˈbɛ.li wɪð ɡʊd ˈkeɪ.pən laɪnd | wɪð aɪz səˈvɪɹ ænd bɪɹd əv ˈfɔɹ.məɫ kʌt | fʊɫ əv waɪz sɔz ænd ˈmɑ.dɚn ˈɪn.stən.sɪz | ænd soʊ hi pleɪz hɪz pɑɹt]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “The sixth age shifts / Into the lean and slipper’d pantaloon, / With spectacles on nose and pouch on side; / His youthful hose, well sav’d, a world too wide / For his shrunk shank;”
+
+Performance Line
+[Creaking tone] ˧***The sixth age shifts into the lean and slipper’d pantaloon*** L+H* | [Fussy detail] ˨**With spectacles on nose and pouch on side; his youthful hose, well sav’d, a world too wide for his shrunk shank** L-L% ↓
+
+**IPA:** [ðə sɪksθ eɪdʒ ʃɪfts | ˈɪn.tu ðə lin ænd ˈslɪ.pɚd ˈpæn.təˌlun | wɪð ˈspɛk.tə.kəɫz ɑn noʊz ænd paʊtʃ ɑn saɪd | hɪz ˈjuθ.fəɫ hoʊz wɛɫ seɪvd ə wɝɫd tu waɪd fɔɹ hɪz ʃɹʌŋk ʃæŋk]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “And his big manly voice, / Turning again toward childish treble, pipes / And whistles in his sound.”
+
+Performance Line
+[Hollow wobble] ˧***And his big manly voice*** H- | [Thin reediness] ˨**Turning again toward childish treble, pipes and whistles in his sound** L-L% ↓
+
+**IPA:** [ænd hɪz bɪɡ ˈmæn.li vɔɪs | ˈtɝ.nɪŋ əˈɡɛn tɔɹd ˈtʃaɪl.dɪʃ ˈtɹɛ.bəɫ | paɪps ænd ˈwɪs.əɫz ɪn hɪz saʊnd]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “Last scene of all, / That ends this strange eventful history, / Is second childishness and mere oblivion, / Sans teeth, sans eyes, sans taste, sans everything.”
+
+Performance Line
+[Soft gloom, narrowing tessitura] ˧***Last scene of all*** L* | [Storybook cadence] ˨**That ends this strange eventful history** H- | [Fade to nothing] ˩**Is second childishness and mere oblivion, sans teeth, sans eyes, sans taste, sans everything** L-L% ↓
+
+**IPA:** [læst sin əv ɔɫ | ðæt ɛndz ðɪs ˈstreɪndʒ ɪˈvɛnt.fəɫ ˈhɪs.tə.ɹi | ɪz ˈsɛk.ənd ˈtʃaɪld.ɪʃ.nəs ænd ˈmɪɹ oʊˈblɪv.i.ən | sɑ̃ ˈtiːθ sɑ̃z aɪz sɑ̃z teɪst sɑ̃z ˈɛv.ɹiˌθɪŋ]
 
 **ToBI:** L*  H-  L-L%
 
