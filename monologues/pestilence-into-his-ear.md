@@ -84,3 +84,47 @@ Performance Line
 
 **ToBI:** H*  L-L%
 
+
+**LINE:** “And what’s he then that says I play the villain? When this advice is free I give and honest, / Probal to thinking, the course to win the Moor again.”
+
+Performance Line
+[Mock innocence] ˧***And what’s he then that says I play the villain?*** H* | [Silky reasoning] ˨**When this advice is free I give and honest, probal to thinking, the course to win the Moor again** L-L% ↓
+
+**IPA:** [ænd wʌts hi ðɛn ðæt seɪz aɪ pleɪ ðə ˈvɪl.ən | wɛn ðɪs ədˈvaɪs ɪz fri aɪ ɡɪv ænd ˈɑ.nɪst ˈproʊ.bəɫ tə ˈθɪŋ.kɪŋ ðə kɔɹs tə wɪn ðə mʊɹ əˈɡɛn]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “For ’tis most easy th’ inclining Desdemona to subdue in any honest suit; she’s framed as fruitful as the free elements. / His soul is so enfetter’d to her love that she may make, unmake, do what she list.”
+
+Performance Line
+[Clinical appraisal] ˧***For ’tis most easy the inclining Desdemona to subdue in any honest suit; she’s framed as fruitful as the free elements*** L+H* | [Predator’s smile] ˨**His soul is so enfetter’d to her love that she may make, unmake, do what she list** L-L% ↓
+
+**IPA:** [fɔɹ tɪz moʊst ˈiː.zi ði ɪnˈklaɪnɪŋ ˌdɛz.dəˈmoʊ.nə tə səbˈdu ɪn ˈɛ.ni ˈɑ.nəst sut | ʃiz fɹeɪmd æz ˈfruːt.fəɫ æz ðə fri ˈɛl.ə.mənts | hɪz soʊl ɪz soʊ ɛnˈfɛtɚd tə hɚ lʌv ðæt ʃi meɪ meɪk ʌnˈmeɪk du wʌt ʃi lɪst]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “How am I then a villain to counsel Cassio to this parallel course, directly to his good? Divinity of hell! / When devils will the blackest sins put on, they do suggest at first with heavenly shows, as I do now.”
+
+Performance Line
+[Feigning virtue, sudden exultation] ˧***How am I then a villain to counsel Cassio to this parallel course, directly to his good?*** H* | [Blasphemous relish] ˨**Divinity of hell! When devils will the blackest sins put on, they do suggest at first with heavenly shows, as I do now** L-L% ↓
+
+**IPA:** [haʊ æm aɪ ðɛn ə ˈvɪl.ən tə ˈkaʊn.səl ˈkæ.sioʊ tə ðɪs ˈpæɹ.əˌlɛl kɔɹs dɪˈrɛkt.li tə hɪz ɡʊd | dɪˈvɪ.nə.ti əv hɛl | wɛn ˈdɛv.əɫz wɪl ðə ˈblæk.ɪst sɪnz pʊt ɑn ðeɪ du səˈdʒɛst æt fɝst wɪð ˈhɛv.ənli ʃoʊz æz aɪ du naʊ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “For whiles this honest fool plies Desdemona to repair his fortunes, and she pleads strongly to the Moor, / I’ll whisper that she pleads for lust; the more she strives to help him, the more she shall undo her credit.”
+
+Performance Line
+[Cold calculation] ˧***For whiles this honest fool plies Desdemona to repair his fortunes, and she pleads strongly to the Moor*** H- | [Cruel twist] ˨**I’ll whisper that she pleads for lust; the more she strives to help him, the more she shall undo her credit** L-L% ↓
+
+**IPA:** [fɔɹ waɪlz ðɪs ˈɑn.əst fuɫ plaɪz ˌdɛz.dəˈmoʊ.nə tə ɹɪˈpɛɹ hɪz ˈfɔɹ.tʃənz ænd ʃi plidz ˈstɹɔŋ.li tə ðə mʊɹ | aɪl ˈwɪs.pɚ ðæt ʃi plidz fɔɹ lʌst | ðə mɔɹ ʃi stɹaɪvz tə hɛlp hɪm ðə mɔɹ ʃi ʃæl ʌnˈdu hɚ ˈkɹɛd.ɪt]
+
+**ToBI:** H-  L-L%
+
+---

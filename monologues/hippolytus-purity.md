@@ -34,6 +34,28 @@ Performance Line
 
 ---
 
+**LINE:** “I keep my breath as cold as the streams that spring beneath your altar; / Let others bend the knee to Cypris and her soft delights—I know the wreckage she has strewn.”
+
+Performance Line
+[Frosted breath] ˧***I keep my breath as cold as the streams that spring beneath your altar*** L+H* | [Scorn for Aphrodite] ˨**Let others bend the knee to Cypris and her soft delights—I know the wreckage she has strewn** L-L% ↓
+
+**IPA:** [aɪ kip maɪ bɹɛθ æz koʊld æz ðə stɹimz ðæt spɹɪŋ bɪˈniːθ jɔɹ ˈɔl.tɚ | lɛt ˈʌð.ɚz bɛnd ðə ni tə ˈsɪ.pɹɪs ænd hɚ sɑft dɪˈlaɪts | aɪ noʊ ðə ˈrɛk.ɪdʒ ʃi hæz stɹun]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Desire is a fever bred in night air—touch it, and honour melts like wax; / But you, pure huntress, teach me the straight path, the taut bowstring, the unbroken oath.”
+
+Performance Line
+[Didactic flare] ˦***Desire is a fever bred in night air—touch it, and honour melts like wax*** H* | [Devotional cadence] ˧**But you, pure huntress, teach me the straight path, the taut bowstring, the unbroken oath** L-L% ↓
+
+**IPA:** [dɪˈzaɪɚ ɪz ə ˈfiː.vɚ bɹɛd ɪn naɪt ɛɹ tʌtʃ ɪt ænd ˈɑ.nɚ mɛɫts laɪk wæks | bət ju pjʊɹ ˈhʌn.tɹɪs titʃ mi ðə stɹeɪt pæθ ðə tɔt ˈboʊ.stɹɪŋ ði ʌnˈbɹoʊ.kən oʊθ]
+
+**ToBI:** H*  L-L%
+
+---
+
 ## SECTION 2 — CONTEMPT FOR PASSION
 
 **Purpose:** Ridicule lovers as weak, using sharp consonants.
@@ -58,3 +80,58 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “I have yoked my heart to discipline; I have given the reins of my youth into your hand.”
+
+Performance Line
+[Supplicant pride] ˧***I have yoked my heart to discipline*** L+H* | [Pledged surrender] ˨**I have given the reins of my youth into your hand** L-L% ↓
+
+**IPA:** [aɪ hæv joʊkt maɪ hɑɹt tə ˈdɪ.sə.plɪn | aɪ hæv ˈɡɪv.ən ðə ɹeɪnz əv maɪ juθ ˈɪn.tu jɔɹ hænd]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “The herd of passion may bellow beyond the hill; it shall not break my fence.”
+
+Performance Line
+[Mocking the masses] ˦***The herd of passion may bellow beyond the hill*** H* | [Iron-bar finish] ˧**it shall not break my fence** L-L% ↓
+
+**IPA:** [ðə hɝd əv ˈpæʃ.ən meɪ ˈbɛ.loʊ biˈjɑnd ðə hɪl | ɪt ʃæl nɑt bɹeɪk maɪ fɛns]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “If men call me proud, let them—better pride in holiness than to wallow with the herd.”
+
+Performance Line
+[Snapping retort] ˧***If men call me proud, let them*** L+H* | [Measured disdain] ˨**better pride in holiness than to wallow with the herd** L-L% ↓
+
+**IPA:** [ɪf mɛn kɔl mi pɹaʊd lɛt ðɛm | ˈbɛtɚ pɹaɪd ɪn ˈhoʊ.li.nəs ðæn tə ˈwɑ.loʊ wɪð ðə hɝd]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “I spit upon the bed of wantonness; I plant my spear in virgin earth and swear by this bright sky / That no queen of lust shall ever conquer me.”
+
+Performance Line
+[Visceral gesture] ˦***I spit upon the bed of wantonness; I plant my spear in virgin earth*** H* | [Final oath] ˧**and swear by this bright sky that no queen of lust shall ever conquer me** L-L% ↓
+
+**IPA:** [aɪ spɪt əˈpɑn ðə bɛd əv ˈwɑn.tən.nəs | aɪ plænt maɪ spɪɹ ɪn ˈvɝ.dʒɪn ɝθ | ænd swɛɹ baɪ ðɪs bɹaɪt skaɪ ðæt noʊ kwin əv lʌst ʃæl ˈɛv.ɚ ˈkɑŋ.kɚ mi]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Live on, Artemis, within my marrow; keep me stainless, keep me stern, / Till death itself confesses me your faithful hunter.”
+
+Performance Line
+[Quiet invocation] ˧***Live on, Artemis, within my marrow; keep me stainless, keep me stern*** L* | [Soft vow] ˨**Till death itself confesses me your faithful hunter** L-L% ↓
+
+**IPA:** [lɪv ɑn ˈɑːɹ.tə.mɪs wɪˈðɪn maɪ ˈmæɹ.oʊ | kip mi ˈsteɪn.ləs kip mi stɝn | tɪl dɛθ ɪtˈsɛlf kənˈfɛs.ɪz mi jɔɹ ˈfeɪθ.fəɫ ˈhʌn.tɚ]
+
+**ToBI:** L*  L-L%
+
+---

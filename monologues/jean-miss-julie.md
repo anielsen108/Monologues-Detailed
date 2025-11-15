@@ -58,3 +58,36 @@ Performance Line
 
 **ToBI:** H*  L-L%
 
+
+**LINE:** “I have watched the steps up to this house, counting them, promising myself I would stand above them; / I remember as a boy outside the churchyard wall staring at the Count and wishing I could change my skin, slip under his door, steal his power.”
+
+Performance Line
+[Slow confession] ˧***I have watched the steps up to this house, counting them, promising myself I would stand above them*** H* | [Childhood hunger] ˨**I remember as a boy outside the churchyard wall… wishing I could change my skin, slip under his door, steal his power** L-L% ↓
+
+**IPA:** [aɪ hæv wɑtʃt ðə stɛps ʌp tə ðɪs haʊs ˈkaʊn.tɪŋ ðɛm ˈpɹɑ.mɪsɪŋ maɪˈsɛlf aɪ wʊd stænd əˈbʌv ðɛm | aɪ ɹɪˈmɛmbɚ æz ə bɔɪ aʊtˈsaɪd ðə ˈtʃɝtʃ.jɑrd wɔɫ ˈstɛə.ɹɪŋ æt ðə kaʊnt ænd ˈwɪʃɪŋ aɪ kʊd tʃeɪndʒ maɪ skɪn slɪp ˈʌndɚ hɪz dɔɹ stiɫ hɪz ˈpaʊɚ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “And now you tease me: ‘Kiss my shoe, Jean. Dance with me, Jean.’ You pull me up, you push me down; / I have a head for figures, a tongue for languages—I could sit in Lugano with the finest ladies, but here I must bow and thank you for a rose.”
+
+Performance Line
+[Mocking mimicry into proud claim] ˧***And now you tease me: ‘Kiss my shoe, Jean. Dance with me, Jean.’ You pull me up, you push me down*** L+H* | [Boastful protest] ˨**I have a head for figures… I could sit in Lugano with the finest ladies, but here I must bow and thank you for a rose** L-L% ↓
+
+**IPA:** [ænd naʊ ju tiz mi kɪs maɪ ʃu ʒɑ̃ dæns wɪð mi ʒɑ̃ | ju pʊɫ mi ʌp ju pʊʃ mi daʊn | aɪ hæv ə hɛd fɔɹ ˈfɪɡ.jɚz ə tʌŋ fɔɹ ˈlæŋ.ɡwɪdʒɪz | aɪ kʊd sɪt ɪn luˈɡɑ.noʊ wɪð ðə ˈfaɪ.nəst ˈleɪ.diz bət hɪɹ aɪ mʌst baʊ ænd θæŋk ju fɔɹ ə ɹoʊz]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Well, I am tired of roses. Give me the whole bush, thorns and all, or let me rip it out by the roots. / Either make me your equal and fly with me, or crush me outright—I won’t crawl forever.”
+
+Performance Line
+[Demand sharpening to threat] ˧***Well, I am tired of roses. Give me the whole bush, thorns and all, or let me rip it out by the roots*** H* | [Ultimatum] ˨**Either make me your equal and fly with me, or crush me outright—I won’t crawl forever** L-L% ↓
+
+**IPA:** [wɛɫ aɪ æm taɪɚd əv ˈroʊ.zɪz | ɡɪv mi ðə hoʊl bʊʃ θɔɹnz ænd ɔɫ ɔɹ lɛt mi ɹɪp ɪt aʊt baɪ ðə ɹuːts | ˈiðɚ meɪk mi jɔɹ ˈiː.kwəɫ ænd flaɪ wɪð mi ɔɹ kɹʌʃ mi aʊtˈɹaɪt | aɪ woʊnt kɹɔl fɚˈɛv.ɚ]
+
+**ToBI:** H*  L-L%
+
+---

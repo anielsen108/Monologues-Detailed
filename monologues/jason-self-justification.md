@@ -34,6 +34,28 @@ Performance Line
 
 ---
 
+**LINE:** “Exile is a harsh tutor; our sons needed a shelter stronger than a foreign mob. / By wedding the princess I opened palaces, dowries, brothers-in-law seated upon thrones.”
+
+Performance Line
+[Reasoned defense] ˧***Exile is a harsh tutor; our sons needed a shelter stronger than a foreign mob*** H- | [Self-congratulation] ˨**By wedding the princess I opened palaces, dowries, brothers-in-law seated upon thrones** L-L% ↓
+
+**IPA:** [ˈɛɡ.zaɪɫ ɪz ə hɑɹʃ ˈtuː.tɚ | aʊɹ sʌnz ˈniː.dɪd ə ˈʃɛl.tɚ ˈstɹɔŋɡɚ ðæn ə ˈfɔɹ.ən mɑb | baɪ ˈwɛd.ɪŋ ðə ˈprɪn.sɛs aɪ ˈoʊ.pənd ˈpæl.ə.sɪz ˈdaʊ.ɹiz ˈbrʌ.ðɚz ɪn lɔ siːtəd əˈpɑn θroʊnz]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “You rage like a barbarian over wounded pride; consider instead the profit— / You and the boys would have lived beside me, honoured, with new brothers born of noble blood.”
+
+Performance Line
+[Light rebuke] ˧***You rage like a barbarian over wounded pride*** L+H* | [Painted promise] ˨**consider instead the profit… you and the boys would have lived beside me, honoured, with new brothers of noble blood** L-L% ↓
+
+**IPA:** [ju ɹeɪdʒ laɪk ə bɑɹˈbɛə.ɹi.ən ˈoʊvɚ ˈwun.dɪd pɹaɪd | kənˈsɪd.ɚ ɪnˈstɛd ðə ˈpɹɑ.fɪt | ju ænd ðə bɔɪz wʊd hæv lɪvd bɪˈsaɪd mi ˈɑ.nɚd wɪð nu ˈbrʌ.ðɚz bɔɹn əv ˈnoʊ.bəɫ blʌd]
+
+**ToBI:** L+H*  L-L%
+
+---
+
 ## SECTION 2 — BLAMING MEDEA
 
 **Purpose:** Turn tenderness into criticism without raising the voice.
@@ -58,3 +80,36 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “I rescued you from your savage land, brought you to the hearths of Hellas, / Deserved gratitude rather than curses for the brother’s blood you left behind.”
+
+Performance Line
+[Self-martyring tone] ˧***I rescued you from your savage land, brought you to the hearths of Hellas*** H* | [Accusatory memory] ˨**Deserved gratitude rather than curses for the brother’s blood you left behind** L-L% ↓
+
+**IPA:** [aɪ ˈrɛs.kjud ju fɹʌm jɔɹ ˈsæ.vɪdʒ lænd bɹɔt ju tə ðə hɑɹθs əv ˈhɛ.ləs | dɪˈzɝvd ˈɡɹæt.əˌtud ˈɹæð.ɚ ðæn ˈkɝː.sɪz fɔɹ ðə ˈbrʌ.ðɚz blʌd ju lɛft bɪˈhaɪnd]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “What had you there but a father betrayed and a brother slain? Here I offered refinement, justice, fame in my achievements. / But you would sacrifice all to jealousy, dragging our house into the mud so the world applauds your temper.”
+
+Performance Line
+[Reasonable persuasion curdling to contempt] ˧***What had you there but a father betrayed and a brother slain? Here I offered refinement, justice, fame*** L+H* | [Scathing finale] ˨**But you would sacrifice all to jealousy, dragging our house into the mud so the world applauds your temper** L-L% ↓
+
+**IPA:** [wʌt hæd ju ðɛɹ bət ə ˈfɑ.ðɚ bɪˈtɹeɪd ænd ə ˈbrʌ.ðɚ sleɪn | hɪɹ aɪ ˈɔ.fɚd ɹɪˈfaɪn.mənt ˈdʒʌs.tɪs feɪm ɪn maɪ əˈtʃiv.mənts | bət ju wʊd ˈsæ.kɹɪˌfaɪs ɔl tə ˈdʒɛ.lə.si ˈdɹæ.ɡɪŋ aʊɹ haʊs ˈɪn.tu ðə mʌd soʊ ðə wɝɫd əˈplɔdz jɔɹ ˈtɛm.pɚ]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “If you had endured in silence, all would have prospered. Blame me if you must; I risked myself for plenty. / It is you who squander everything now in fury.”
+
+Performance Line
+[Cold ultimatum] ˧***If you had endured in silence, all would have prospered. Blame me if you must; I risked myself for plenty*** H- | [Final accusation] ˨**It is you who squander everything now in fury** L-L% ↓
+
+**IPA:** [ɪf ju hæd ɪnˈdʊɹd ɪn ˈsaɪ.ləns ɔɫ wʊd hæv ˈprɑ.spɚd | bleɪm mi ɪf ju mʌst | aɪ ɹɪskt maɪˈsɛlf fɔɹ ˈplɛn.ti | ɪt ɪz ju hu ˈskwɑn.dɚ ˈɛv.ɹiˌθɪŋ naʊ ɪn ˈfjʊɹ.i]
+
+**ToBI:** H-  L-L%
+
+---

@@ -25,6 +25,17 @@ Performance Line
 
 ---
 
+**LINE:** “How can the prisoner reach outside except by thrusting through the wall? / To me, the white whale is that wall, shoved near to me.”
+
+Performance Line
+[Driving logic, knuckles rapping the air] ˦***How can the prisoner reach outside except by thrusting through the wall?*** H* | [Fixated conviction] ˧**To me, the white whale is that wall, shoved near to me** L+H* L-L% ↓
+
+**IPA:** [haʊ kæn ðə ˈpɹɪ.zə.nɚ ɹitʃ ˈaʊtˌsaɪd ɪkˈsɛpt baɪ ˈθɹʌstɪŋ θɹu ðə wɑɫ | tə mi ðə waɪt weɪl ɪz ðæt wɑɫ ʃʌvd nɪɚ tə mi]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
+
 **LINE:** “Sometimes I think there’s naught beyond. But ’tis enough.”
 
 Performance Line
@@ -36,9 +47,42 @@ Performance Line
 
 ---
 
+**LINE:** “He tasks me; he heaps me; I see in him outrageous strength with an inscrutable malice; / That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him; / Talk not to me of blasphemy, man; I’d strike the sun if it insulted me.”
+
+Performance Line
+[Voice cracking, obsession mounting] ˦***He tasks me; he heaps me; I see in him outrageous strength with inscrutable malice*** H* !H- | [Furious oath] ˧**Talk not to me of blasphemy, man; I’d strike the sun if it insulted me** L+H* L-L% ↓
+
+**IPA:** [hi tæsks mi hi hɪps mi aɪ si ɪn hɪm aʊtˈɹeɪ.dʒəs stɹɛŋkθ wɪð ɪnˈskɹuː.tə.bəɫ ˈmæ.lɪs | ðæt ɪnˈskɹuː.tə.bəɫ θɪŋ ɪz ˈtʃif.li wʌt aɪ heɪt ænd bi ðə waɪt weɪl ˈeɪ.dʒənt ɔɹ bi ðə waɪt weɪl ˈpɹɪn.sə.pəɫ aɪ wɪl wik ðæt heɪt əˈpɑn hɪm | tɔk nɑt tə mi əv ˈblæs.fə.mi mæn | aɪd stɹaɪk ðə sʌn ɪf ɪt ɪnˈsʌl.tɪd mi]
+
+**ToBI:** H*  !H-  L+H*  L-L%
+
+---
+
+**LINE:** “For could the sun do that, then could I do the other; / Who’s over me? Truth hath no confines.”
+
+Performance Line
+[Mocking challenge, chin lifted] ˦***For could the sun do that, then could I do the other*** H* | [Defiant crescendo] ˧**Who’s over me? Truth hath no confines** L+H* L-L% ↓
+
+**IPA:** [fɔɹ kʊd ðə sʌn du ðæt ðɛn kʊd aɪ du ði ˈʌðɚ | huz ˈoʊvɚ mi truːθ hæθ noʊ kənˈfaɪnz]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
+
 ## SECTION 2 — FINAL CURSE
 
 **Purpose:** Elevate rage to mythic defiance.
+
+**LINE:** “Towards thee I roll, thou all-destroying but unconquering whale; / To the last I grapple with thee.”
+
+Performance Line
+[Charged lunge, shoulders pitching forward] ˦***Towards thee I roll, thou all-destroying but unconquering whale*** H* | [Battle vow] ˧**To the last I grapple with thee** L+H* L-L% ↓
+
+**IPA:** [tɔɹdz ði aɪ ɹoʊɫ ðaʊ ɔɫ dɪˈstɹɔɪ.ɪŋ bət ʌnˈkɑŋ.kɚ.ɪŋ weɪɫ | tə ðə læst aɪ ˈɡɹæ.pəɫ wɪð ði]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
 
 **LINE:** “From hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee.”
 
@@ -51,12 +95,23 @@ Performance Line
 
 ---
 
-**LINE:** “Sink all coffins and all hearses to one common pool! and since neither can be mine, let me then tow to pieces.”
+**LINE:** “Sink all coffins and all hearses to one common pool! and since neither can be mine, let me then tow to pieces, while still chasing thee, though tied to thee, thou damned whale!”
 
 Performance Line
 [Wild exaltation, rolling thunder] ˦***Sink all coffins and all hearses to one common pool!*** H* !H% | [Ragged determination] ˧**and since neither can be mine, let me then tow to pieces** L-L% ↓
 
-**IPA:** [sɪŋk ɔɫ ˈkɑ.fənz ænd ɔɫ ˈhɝː.sɪz tə wʌn ˈkɑ.mən puɫ | ænd sɪns ˈniðɚ kæn bi maɪn lɛt mi ðɛn toʊ tə ˈpis.əz]
+**IPA:** [sɪŋk ɔɫ ˈkɑ.fənz ænd ɔɫ ˈhɝː.sɪz tə wʌn ˈkɑ.mən puɫ | ænd sɪns ˈniðɚ kæn bi maɪn lɛt mi ðɛn toʊ tə ˈpis.əz | waɪɫ stɪɫ ˈtʃeɪ.sɪŋ ði ðoʊ taɪd tə ði ðaʊ dæmd weɪl]
 
 **ToBI:** H*  !H%  L-L%
+
+---
+
+**LINE:** “Thus, I give up the spear!”
+
+Performance Line
+[Spent breath, final hiss] ˨***Thus, I give up the spear*** L* L-L% ↓
+
+**IPA:** [ðʌs aɪ ɡɪv ʌp ðə spɪɚ]
+
+**ToBI:** L*  L-L%
 
