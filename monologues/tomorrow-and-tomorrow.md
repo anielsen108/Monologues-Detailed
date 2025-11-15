@@ -21,14 +21,25 @@ Macbeth processes Lady Macbeth’s death with fatalistic monotony, letting time 
 
 **Purpose:** Establish the droning march of days with minimal inflection.
 
-**LINE:** “Tomorrow, and tomorrow, and tomorrow, / Creeps in this petty pace from day to day,”
+**LINE:** “Tomorrow, and tomorrow, and tomorrow,”
 
 Performance Line
-[Flat affect, hushed mezzo piano] ˧***Tomorrow, and tomorrow, and tomorrow*** H- | [Dragging phrase] ˨**Creeps in this petty pace from day to day** L-L% ↓
+[Flat affect, hushed mezzo piano] ˧***Tomorrow, and tomorrow, and tomorrow*** H- L-L% ↓
 
-**IPA:** [təˈmɑː.ɹoʊ ænd təˈmɑː.ɹoʊ ænd təˈmɑː.ɹoʊ | ˈkɹips ɪn ðɪs ˈpɛ.ti ˈpeɪs fɹəm ˈdeɪ tə ˈdeɪ]
+**IPA:** [təˈmɑː.ɹoʊ ænd təˈmɑː.ɹoʊ ænd təˈmɑː.ɹoʊ]
 
 **ToBI:** H-  L-L%
+
+---
+
+**LINE:** “Creeps in this petty pace from day to day”
+
+Performance Line
+[Dragging phrase, breath barely moving] ˨**Creeps in this petty pace from day to day** L* L-L% ↓
+
+**IPA:** [ˈkɹips ɪn ðɪs ˈpɛ.ti ˈpeɪs fɹəm ˈdeɪ tə ˈdeɪ]
+
+**ToBI:** L*  L-L%
 
 ---
 
@@ -43,14 +54,25 @@ Performance Line
 
 ---
 
-**LINE:** “And all our yesterdays have lighted fools / The way to dusty death. Out, out, brief candle!”
+**LINE:** “And all our yesterdays have lighted fools”
 
 Performance Line
-[Ashen retrospection] ˧***And all our yesterdays have lighted fools*** H- | [Dusty drop] ˨**The way to dusty death** L* | [Sudden flare] ˦**Out, out, brief candle!** L+H* !H% ↗
+[Ashen retrospection, dim resonance] ˧***And all our yesterdays have lighted fools*** H* L-L% ↓
 
-**IPA:** [ænd ɔɫ aʊɚ ˈjɛs.tɚ.deɪz hæv ˈlaɪ.tɪd fuz | ðə weɪ tə ˈdʌs.ti dɛθ | aʊt aʊt bɹif ˈkæn.dəɫ]
+**IPA:** [ænd ɔɫ aʊɚ ˈjɛs.tɚ.deɪz hæv ˈlaɪ.tɪd fuz]
 
-**ToBI:** H-  L*  L+H* !H%
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “The way to dusty death. Out, out, brief candle!”
+
+Performance Line
+[Dust-choked drop] ˨**The way to dusty death** L* | [Sudden flare] ˦**Out, out, brief candle!** L+H* !H% ↗
+
+**IPA:** [ðə weɪ tə ˈdʌs.ti dɛθ | aʊt aʊt bɹif ˈkæn.dəɫ]
+
+**ToBI:** L*  L+H* !H%
 
 ---
 
@@ -58,23 +80,56 @@ Performance Line
 
 **Purpose:** Let the imagery of stage and candle briefly sharpen before dropping into nihilism.
 
-**LINE:** “Life’s but a walking shadow, a poor player / That struts and frets his hour upon the stage;”
+**LINE:** “Life’s but a walking shadow, a poor player”
 
 Performance Line
-[Slight expansion, bitter awe] ˧***Life’s but a walking shadow, a poor player*** L+H* | [Dismissive fall] ˨**That struts and frets his hour upon the stage** L-L% ↓
+[Slight expansion, bitter awe] ˧***Life’s but a walking shadow, a poor player*** L+H* L-L% ↓
 
-**IPA:** [laɪfs bət ə ˈwɔː.kɪŋ ˈʃæ.doʊ ə ˈpʊɹ ˈpleɪ.ɚ | ðæt ˈstɹʌts ænd ˈfɹɛts hɪz ˈaʊɚ əˈpɑn ðə ˈsteɪdʒ]
+**IPA:** [laɪfs bət ə ˈwɔː.kɪŋ ˈʃæ.doʊ ə ˈpʊɹ ˈpleɪ.ɚ]
 
 **ToBI:** L+H*  L-L%
 
 ---
 
-**LINE:** “And then is heard no more. It is a tale / Told by an idiot, full of sound and fury, / Signifying nothing.”
+**LINE:** “That struts and frets his hour upon the stage”
 
 Performance Line
-[Harsh articulation, clipped contempt] ˧***And then is heard no more; it is a tale told by an idiot*** H* H- | [Swell to bitterness] ˦**full of sound and fury** L+H* | [Hollow landing] ˨**Signifying nothing** L-L% ↓
+[Dismissive fall, frayed patience] ˨**That struts and frets his hour upon the stage** L* L-L% ↓
 
-**IPA:** [ænd ðɛn ɪz hɝd noʊ mɔɹ | ɪt ɪz ə teɪl | toʊld baɪ ən ˈɪd.i.ət | fʊɫ əv saʊnd ænd ˈfjʊɹ.i | ˈsɪɡ.nəˌfaɪ.ɪŋ ˈnʌ.θɪŋ]
+**IPA:** [ðæt ˈstɹʌts ænd ˈfɹɛts hɪz ˈaʊɚ əˈpɑn ðə ˈsteɪdʒ]
 
-**ToBI:** H*  H-  L+H*  L-L%
+**ToBI:** L*  L-L%
+
+---
+
+**LINE:** “And then is heard no more. It is a tale”
+
+Performance Line
+[Harsh articulation, clipped contempt] ˧***And then is heard no more*** H* | [Storybook hush] ˨**It is a tale** L- L-L% ↓
+
+**IPA:** [ænd ðɛn ɪz hɝd noʊ mɔɹ | ɪt ɪz ə teɪl]
+
+**ToBI:** H*  L-  L-L%
+
+---
+
+**LINE:** “Told by an idiot, full of sound and fury,”
+
+Performance Line
+[Swell to bitterness, cutting resonance] ˦**Told by an idiot, full of sound and fury** L+H* L-L% ↓
+
+**IPA:** [toʊld baɪ ən ˈɪd.i.ət | fʊɫ əv saʊnd ænd ˈfjʊɹ.i]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Signifying nothing.”
+
+Performance Line
+[Hollow landing, breath spent] ˨**Signifying nothing** L* L-L% ↓
+
+**IPA:** [ˈsɪɡ.nəˌfaɪ.ɪŋ ˈnʌ.θɪŋ]
+
+**ToBI:** L*  L-L%
 
