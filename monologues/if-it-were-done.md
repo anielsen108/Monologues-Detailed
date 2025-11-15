@@ -50,25 +50,47 @@ Performance Line
 
 ---
 
-**LINE:** “If the assassination / Could trammel up the consequence, and catch / With his surcease success;”
+**LINE:** “If th’ assassination / Could trammel up the consequence,”
 
 Performance Line
-[Muscular phrasing, heavier breath] ˧***If the assassination could trammel up the consequence*** L+H* | [Dark glint] ˨**and catch with his surcease success** L-L% ↓
+[Muscular phrasing, heavier breath] ˧***If th’ assassination could trammel up the consequence*** L+H* L-L% ↓
 
-**IPA:** [ɪf ði ˌæs.əˌneɪ.ʃən kʊd ˈtɹæ.məɫ ʌp ðə ˈkɑn.sə.kwɛns | ænd kætʃ wɪθ ɪz sɝːˈsis səkˈsɛs]
+**IPA:** [ɪf ði ˌæs.əˌneɪ.ʃən kʊd ˈtɹæ.məɫ ʌp ðə ˈkɑn.sə.kwɛns]
 
 **ToBI:** L+H*  L-L%
 
 ---
 
-**LINE:** “With his surcease success; that but this blow / Might be the be-all and the end-all here, / But here, upon this bank and shoal of time, / We’d jump the life to come.”
+**LINE:** “And catch / With his surcease success;”
 
 Performance Line
-[Ledger-like weighing] ˧***With his surcease success; that but this blow might be the be-all and the end-all here*** H* | [Leap over consequence] ˨**But here, upon this bank and shoal of time, we’d jump the life to come** L-L% ↓
+[Predatory gleam, clipped sibilants] ˦***And catch*** H* | [Silken savor] ˧**With his surcease success** L-L% ↓
 
-**IPA:** [wɪð hɪz sɝːˈsis səkˈsɛs | ðæt bʌt ðɪs bloʊ maɪt bi ðə ˈbiːˌɑɫ ænd ði ˈɛndˌɑɫ hɪɹ | bʌt hɪɹ əˈpɑn ðɪs bæŋk ænd ʃoʊɫ əv taɪm | wid dʒʌmp ðə laɪf tə kʌm]
+**IPA:** [ænd kætʃ | wɪð hɪz sɝːˈsis səkˈsɛs]
 
 **ToBI:** H*  L-L%
+
+---
+
+**LINE:** “That but this blow / Might be the be-all and the end-all here;”
+
+Performance Line
+[Ledger-like weighing] ˧***That but this blow might be the be-all*** H* | [Resolute seal] ˨**and the end-all here** L-L% ↓
+
+**IPA:** [ðæt bʌt ðɪs bloʊ maɪt bi ðə ˈbiːˌɑɫ | ænd ði ˈɛndˌɑɫ hɪɹ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “But here, upon this bank and shoal of time, / We’d jump the life to come.”
+
+Performance Line
+[Leap over consequence] ˦***But here, upon this bank and shoal of time*** L+H* | [Breathless gamble] ˨**We’d jump the life to come** L-L% ↓
+
+**IPA:** [bʌt hɪɹ əˈpɑn ðɪs bæŋk ænd ʃoʊɫ əv taɪm | wid dʒʌmp ðə laɪf tə kʌm]
+
+**ToBI:** L+H*  L-L%
 
 ---
 
