@@ -61,6 +61,28 @@ Performance Line
 
 ---
 
+**LINE:** “And one man in his time plays many parts,”
+
+Performance Line
+[Finger-counting sweep] ˧***And one man in his time plays many parts*** L+H* L-L% ↓
+
+**IPA:** [ænd wʌn mæn ɪn hɪz taɪm pleɪz ˈmɛ.ni pɑɹts]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “His acts being seven ages.”
+
+Performance Line
+[Measuring cadence, poised hand] ˧***His acts being seven ages*** H* L-L% ↓
+
+**IPA:** [hɪz ækts ˈbi.ɪŋ ˈsɛv.ən ˈeɪ.dʒɪz]
+
+**ToBI:** H*  L-L%
+
+---
+
 ## SECTION 2 — AGES IN MINIATURE
 
 **Purpose:** Paint vivid character sketches while staying detached.
@@ -109,14 +131,25 @@ Performance Line
 
 ---
 
-**LINE:** “And then the justice, / In fair round belly with good capon lin’d, / With eyes severe and beard of formal cut, / Full of wise saws and modern instances; / And so he plays his part.”
+**LINE:** “And then the justice, / In fair round belly with good capon lin’d, / With eyes severe and beard of formal cut, / Full of wise saws and modern instances;”
 
 Performance Line
-[Portly assurance] ˧***And then the justice in fair round belly with good capon lin’d*** H* | [Pedantic cadence] ˨**with eyes severe and beard of formal cut, full of wise saws and modern instances; and so he plays his part** L-L% ↓
+[Portly assurance] ˧***And then the justice in fair round belly with good capon lin’d*** H* | [Pedantic cadence] ˨**with eyes severe and beard of formal cut, full of wise saws and modern instances** L-L% ↓
 
-**IPA:** [ænd ðɛn ðə ˈdʒʌs.tɪs | ɪn fɛɹ ɹaʊnd ˈbɛ.li wɪð ɡʊd ˈkeɪ.pən laɪnd | wɪð aɪz səˈvɪɹ ænd bɪɹd əv ˈfɔɹ.məɫ kʌt | fʊɫ əv waɪz sɔz ænd ˈmɑ.dɚn ˈɪn.stən.sɪz | ænd soʊ hi pleɪz hɪz pɑɹt]
+**IPA:** [ænd ðɛn ðə ˈdʒʌs.tɪs | ɪn fɛɹ ɹaʊnd ˈbɛ.li wɪð ɡʊd ˈkeɪ.pən laɪnd | wɪð aɪz səˈvɪɹ ænd bɪɹd əv ˈfɔɹ.məɫ kʌt | fʊɫ əv waɪz sɔz ænd ˈmɑ.dɚn ˈɪn.stən.sɪz]
 
 **ToBI:** H*  L-L%
+
+---
+
+**LINE:** “And so he plays his part.”
+
+Performance Line
+[Curt nod, closing cadence] ˧***And so he plays his part*** L* L-L% ↓
+
+**IPA:** [ænd soʊ hi pleɪz hɪz pɑɹt]
+
+**ToBI:** L*  L-L%
 
 ---
 
