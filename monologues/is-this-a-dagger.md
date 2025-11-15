@@ -70,12 +70,56 @@ Performance Line
 
 **Purpose:** Test the reality of the vision, letting bewilderment churn into grim fascination.
 
-**LINE:** “I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind, a false creation, / Proceeding from the heat-oppressèd brain?”
+**LINE:** “I have thee not, and yet I see thee still.”
 
 Performance Line
-[Shaken wonder] ˧***I have thee not, and yet I see thee still*** L+H* | [Interrogating cadence] ˨**Art thou not, fatal vision, sensible to feeling as to sight? or art thou but a dagger of the mind, a false creation, proceeding from the heat-oppressèd brain** L-L% ↓
+[Shaken wonder] ˧***I have thee not, and yet I see thee still*** L+H* L-L% ↓
 
-**IPA:** [aɪ hæv ði nɑt ænd jɛt aɪ ˈsiː ði stɪɫ | ɑɹt ðaʊ nɑt ˈfeɪ.təɫ ˈvɪʒ.ən ˈsɛn.sə.bəɫ tə ˈfiːl.ɪŋ æz tə saɪt | ɔɹ ɑɹt ðaʊ bʌt ə ˈdæ.ɡɚ əv ðə maɪnd | ə fɔɫs kɹiˈeɪ.ʃən pɹoʊˈsiːdɪŋ frəm ðə ˌhiːt əˈpɹɛst ˈbɹeɪn]
+**IPA:** [aɪ hæv ði nɑt ænd jɛt aɪ ˈsiː ði stɪɫ]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Art thou not, fatal vision, sensible”
+
+Performance Line
+[Beseeching the apparition] ˧***Art thou not, fatal vision, sensible*** L+H* H-
+
+**IPA:** [ɑɹt ðaʊ nɑt ˈfeɪ.təɫ ˈvɪʒ.ən ˈsɛn.sə.bəɫ]
+
+**ToBI:** L+H*  H-
+
+---
+
+**LINE:** “To feeling as to sight? or art thou but”
+
+Performance Line
+[Probing for proof] ˧***To feeling as to sight?*** L+H* L- | [Skeptical drop] ˨**or art thou but** L-L% ↓
+
+**IPA:** [tə ˈfiː.lɪŋ æz tə saɪt | ɔɹ ɑɹt ðaʊ bʌt]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “A dagger of the mind, a false creation,”
+
+Performance Line
+[Naming the fear] ˧***A dagger of the mind*** H* | [Spitting denial] ˨**a false creation** L-L% ↓
+
+**IPA:** [ə ˈdæ.ɡɚ əv ðə maɪnd | ə fɔɫs kɹiˈeɪ.ʃən]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Proceeding from the heat-oppressèd brain?”
+
+Performance Line
+[Dread confirmation] ˧***Proceeding from the heat-oppressèd brain*** L+H* L-L% ↓
+
+**IPA:** [pɹoʊˈsiːdɪŋ frəm ðə ˌhiːt əˈpɹɛst ˈbɹeɪn]
 
 **ToBI:** L+H*  L-L%
 
