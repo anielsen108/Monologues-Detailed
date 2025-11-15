@@ -92,36 +92,212 @@ Performance Line
 **ToBI:** H*  !H%
 
 
-**LINE:** “Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage; / Let the eye pry like brass cannon, the brow o’erwhelm it as a galled rock o’erhangs the ocean.”
+**LINE:** “Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage;”
 
 Performance Line
-[Physical coaching] ˧***Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage*** H* | [Epic imagery] ˨**Let the eye pry like brass cannon, the brow o’erwhelm it as a galled rock o’erhangs the ocean** L-L% ↓
+[Physical coaching] ˦***Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage*** H* !H- ↓
 
-**IPA:** [ˈstɪf.ən ðə ˈsɪ.njuːz ˈsʌm.ən ʌp ðə blʌd dɪsˈɡaɪz fɛɹ ˈneɪ.tʃɚ wɪð hɑrd ˈfeɪ.vɚd ɹeɪdʒ | lɛt ði aɪ pɹaɪ laɪk bɹæs ˈkæn.ən ðə bɹaʊ oʊɹˈwɛɫm ɪt æz ə ɡɔɫd rɑk oʊɹˈhæŋz ði ˈoʊ.ʃən]
+**IPA:** [ˈstɪf.ən ðə ˈsɪ.njuːz ˈsʌm.ən ʌp ðə blʌd dɪsˈɡaɪz fɛɹ ˈneɪ.tʃɚ wɪð hɑrd ˈfeɪ.vɚd ɹeɪdʒ]
+
+**ToBI:** H*  !H-
+
+---
+
+**LINE:** “Then lend the eye a terrible aspect;”
+
+Performance Line
+[Predatory mask, pupils blazing] ˦***Then lend the eye a terrible aspect*** H* !H- ↓
+
+**IPA:** [ðɛn lɛnd ði aɪ ə ˈtɛɹ.ə.bəl ˈæs.pɛkt]
+
+**ToBI:** H*  !H-
+
+---
+
+**LINE:** “Let it pry through the portage of the head”
+
+Performance Line
+[Piercing stare, focused breath] ˧***Let it pry through the portage of the head*** L+H* H- →
+
+**IPA:** [lɛt ɪt pɹaɪ θɹu ðə ˈpɔɹ.tɪdʒ əv ðə hɛd]
+
+**ToBI:** L+H*  H-
+
+---
+
+**LINE:** “Like the brass cannon; let the brow o’erwhelm it”
+
+Performance Line
+[Hefting martial image] ˦***Like the brass cannon; let the brow o’erwhelm it*** H* L-L% ↓
+
+**IPA:** [laɪk ðə bɹæs ˈkæn.ən | lɛt ðə bɹaʊ oʊɹˈwɛɫm ɪt]
 
 **ToBI:** H*  L-L%
 
 ---
 
-**LINE:** “Now set the teeth, stretch the nostril wide, hold hard the breath and bend up every spirit / To his full height. On, on, you noblest English, whose blood is fet from fathers of war-proof!”
+**LINE:** “As fearfully as doth a galled rock”
 
 Performance Line
-[Breathless urging] ˧***Now set the teeth, stretch the nostril wide, hold hard the breath and bend up every spirit to his full height*** H* | [Ancestral appeal] ˨**On, on, you noblest English, whose blood is fet from fathers of war-proof** L-L% ↓
+[Somber awe] ˧***As fearfully as doth a galled rock*** H* L- →
 
-**IPA:** [naʊ sɛt ðə tiːθ stɹɛtʃ ðə ˈnɑs.tɹɪl waɪd hoʊld hɑrd ðə bɹɛθ ænd bɛnd ʌp ˈɛv.ɹi ˈspɪɹ.ɪt tə hɪz fʊɫ haɪt | ɑn ɑn ju ˈnoʊ.bləst ˈɪŋ.ɡlɪʃ huz blʌd ɪz fɛt fɹʌm ˈfɑ.ðɚz əv wɔɹ pɹuf]
+**IPA:** [æz ˈfɪɹ.fə.li æz dʌθ ə ɡɔɫd ɹɑk]
 
-**ToBI:** H*  L-L%
+**ToBI:** H*  L-
 
 ---
 
-**LINE:** “Dishonour not your mothers; be copy now to men of grosser blood, and teach them how to war. / Good yeomen, whose limbs were made in England, show us the mettle of your pasture, swear you are worth your breeding.”
+**LINE:** “O’erhang and jutty his confounded base,”
 
 Performance Line
-[Chiding warmth] ˧***Dishonour not your mothers; be copy now to men of grosser blood, and teach them how to war*** L+H* | [Rousing reassurance] ˨**Good yeomen… show us the mettle of your pasture; swear you are worth your breeding** L-L% ↓
+[Driving the image home] ˧***O’erhang and jutty his confounded base*** L+H* L-L% ↓
 
-**IPA:** [dɪsˈɑ.nɚ nɑt jɔɹ ˈmʌðɚz | bi ˈkɑ.pi naʊ tə mɛn əv ˈɡroʊ.sɚ blʌd ænd titʃ ðɛm haʊ tə wɔɹ | ɡʊd ˈjoʊ.mən huz lɪmz wɚ meɪd ɪn ˈɪŋ.ɡlənd ʃoʊ ʌs ðə ˈmɛt.ɫ̩ əv jɔɹ ˈpæs.tʃɚ swɛɹ ju ɑɹ wɝθ jɔɹ ˈbɹiː.dɪŋ]
+**IPA:** [oʊɹˈhæŋ ænd ˈdʒʌ.ti hɪz kənˈfaʊn.dɪd beɪs]
 
 **ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Swill’d with the wild and wasteful ocean.”
+
+Performance Line
+[Wave-crash resonance] ˦***Swill’d with the wild and wasteful ocean*** H* L-L% ↓
+
+**IPA:** [swɪld wɪð ðə waɪɫd ænd ˈweɪst.fəɫ ˈoʊ.ʃən]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Now set the teeth and stretch the nostril wide,”
+
+Performance Line
+[Snapped drill command] ˥***Now set the teeth and stretch the nostril wide*** H* !H- ↓
+
+**IPA:** [naʊ sɛt ðə tiːθ ænd stɹɛtʃ ðə ˈnɑs.tɹɪl waɪd]
+
+**ToBI:** H*  !H-
+
+---
+
+**LINE:** “Hold hard the breath and bend up every spirit”
+
+Performance Line
+[Contained tremor, sinews locked] ˧***Hold hard the breath and bend up every spirit*** L+H* H- →
+
+**IPA:** [hoʊld hɑɹd ðə bɹɛθ ænd bɛnd ʌp ˈɛv.ɹi ˈspɪɹ.ɪt]
+
+**ToBI:** L+H*  H-
+
+---
+
+**LINE:** “To his full height. On, on, you noblest English.”
+
+Performance Line
+[Cresting lift] ˦***To his full height*** H* H- → | [Relentless cadence] ˥**On, on, you noblest English** H*!H% ↑
+
+**IPA:** [tə hɪz fʊɫ haɪt | ɑn ɑn ju ˈnoʊ.bləst ˈɪŋ.ɡlɪʃ]
+
+**ToBI:** H*  H-  H*!H%
+
+---
+
+**LINE:** “Whose blood is fet from fathers of war-proof!”
+
+Performance Line
+[Bloodline invocation] ˥***Whose blood is fet from fathers of war-proof*** H* !H% ↑
+
+**IPA:** [huz blʌd ɪz fɛt fɹʌm ˈfɑ.ðɚz əv wɔɹ pɹuf]
+
+**ToBI:** H*  !H%
+
+---
+
+**LINE:** “Fathers that, like so many Alexanders,”
+
+Performance Line
+[Storyteller’s swell] ˧***Fathers that, like so many Alexanders*** L+H* H- →
+
+**IPA:** [ˈfɑ.ðɚz ðæt laɪk soʊ ˈmɛ.ni ˌæ.lɛɡˈzæn.dɚz]
+
+**ToBI:** L+H*  H-
+
+---
+
+**LINE:** “Have in these parts from morn till even fought”
+
+Performance Line
+[Rolling chronicle] ˦***Have in these parts from morn till even fought*** H* !H- →
+
+**IPA:** [hæv ɪn ðiz pɑɹts fɹʌm mɔɹn tɪl ˈiː.vən fɔt]
+
+**ToBI:** H*  !H-
+
+---
+
+**LINE:** “And sheath’d their swords for lack of argument.”
+
+Performance Line
+[Dry, dangerous smile] ˧***And sheath’d their swords for lack of argument*** H* L-L% ↓
+
+**IPA:** [ænd ʃiðd ðɛɹ sɔɹdz fɔɹ læk əv ˈɑɹɡ.jə.mənt]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Dishonour not your mothers; now attest”
+
+Performance Line
+[Point-blank rebuke] ˥***Dishonour not your mothers; now attest*** H* !H- ↓
+
+**IPA:** [dɪsˈɑ.nɚ nɑt jɔɹ ˈmʌðɚz | naʊ əˈtɛst]
+
+**ToBI:** H*  !H-
+
+---
+
+**LINE:** “That those whom you call’d fathers did beget you.”
+
+Performance Line
+[Demand for proof] ˧***That those whom you call’d fathers did beget you*** L+H* L-L% ↓
+
+**IPA:** [ðæt ðoʊz hum ju kɔld ˈfɑ.ðɚz dɪd bɪˈɡɛt ju]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Be copy now to men of grosser blood,”
+
+Performance Line
+[Model-setting urgency] ˦***Be copy now to men of grosser blood*** H* L-L% ↓
+
+**IPA:** [bi ˈkɑ.pi naʊ tə mɛn əv ˈɡroʊ.sɚ blʌd]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “And teach them how to war.”
+
+Performance Line
+[Resolute finish to the charge] ˦***And teach them how to war*** H* L-L% ↓
+
+**IPA:** [ænd titʃ ðɛm haʊ tə wɔɹ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “And you, good yeomen, whose limbs were made in England, show us here / The mettle of your pasture; let us swear / That you are worth your breeding; which I doubt not; / For there is none of you so mean and base, / That hath not noble lustre in your eyes.”
+
+Performance Line
+[Grounded camaraderie] ˧***And you, good yeomen… show us here the mettle of your pasture; let us swear*** L+H* H- → | [Assuring finish] ˨**That you are worth your breeding; which I doubt not; for there is none of you so mean and base, that hath not noble lustre in your eyes** H* L-L% ↓
+
+**IPA:** [ænd ju ɡʊd ˈjoʊ.mən huz lɪmz wɚ meɪd ɪn ˈɪŋ.ɡlənd ʃoʊ ʌs hɪɹ | ðə ˈmɛt.ɫ̩ əv jɔɹ ˈpæs.tʃɚ lɛt ʌs swɛɹ | ðæt ju ɑɹ wɝθ jɔɹ ˈbɹiː.dɪŋ wɪtʃ aɪ daʊt nɑt | fɔɹ ðɛɹ ɪz nʌn əv ju soʊ min ænd beɪs | ðæt hæθ nɑt ˈnoʊ.bəɫ ˈlʌs.tɚ ɪn jɔɹ aɪz]
+
+**ToBI:** L+H*  H-  H*  L-L%
 
 ---
 
