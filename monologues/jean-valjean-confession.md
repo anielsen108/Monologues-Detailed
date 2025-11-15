@@ -58,3 +58,47 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “Who am I? I am Jean Valjean. That poor peasant you would brand for life is not the man you seek; / You have before you a mayor, a benefactor, but beneath those names lies another that weighs like a chain.”
+
+Performance Line
+[Voice quavering, then firm] ˧***Who am I? I am Jean Valjean. That poor peasant you would brand for life is not the man you seek*** H* | [Grim revelation] ˨**You have before you a mayor… but beneath those names lies another that weighs like a chain** L-L% ↓
+
+**IPA:** [hu æm aɪ aɪ æm ʒɑ̃ valˈʒɑ̃ | ðæt pʊɹ ˈpɛ.zənt ju wʊd brænd fɔɹ laɪf ɪz nɑt ðə mæn ju sik | ju hæv bɪˈfɔɹ ju ə ˈmeɪ.ɚ ə ˌbɛn.əˈfæk.tɚ bət bəˈniːθ ðoʊz neɪmz laɪz əˈnʌðɚ ðæt weɪz laɪk ə tʃeɪn]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “I stole a loaf, broke a window, tried to escape; for that I passed nineteen years at the galleys—my number 24601. / When I came out the world rejected me until a bishop took me in and told me I was a man.”
+
+Performance Line
+[Measured confession] ˧***I stole a loaf, broke a window, tried to escape; for that I passed nineteen years at the galleys—my number 24601*** L+H* | [Soft gratitude] ˨**When I came out the world rejected me until a bishop took me in and told me I was a man** L-L% ↓
+
+**IPA:** [aɪ stoʊl ə loʊf bɹoʊk ə ˈwɪn.doʊ tɹaɪd tu ɪˈskeɪp | fɔɹ ðæt aɪ pæst ˈnaɪnˌtin jɪɹz æt ðə ˈgæ.liz | maɪ ˈnʌm.bɚ tu fɔɹ sɪks oʊ wʌn | wɛn aɪ keɪm aʊt ðə wɝɫd ɹɪˈdʒɛk.tɪd mi ənˈtɪl ə ˈbɪʃ.əp tʊk mi ɪn ænd toʊld mi aɪ wʌz ə mæn]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Since that hour I have struggled to be worthy of the candlesticks he placed in my hands; / If I let Champmathieu be condemned, all is hypocrisy.”
+
+Performance Line
+[Humble recollection] ˧***Since that hour I have struggled to be worthy of the candlesticks he placed in my hands*** H- | [Moral verdict] ˨**If I let Champmathieu be condemned, all is hypocrisy** L-L% ↓
+
+**IPA:** [sɪns ðæt aʊɚ aɪ hæv ˈstrʌɡ.əɫd tə bi ˈwɝ.ði əv ðə ˈkænd.ləˌstɪks hi pleɪst ɪn maɪ hændz | ɪf aɪ lɛt ʃɑ̃p.maˈtjø bi kənˈdɛmd ɔɫ ɪz hɪˈpɑ.krə.si]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “I owe Fantine a debt; I owe a debt to my own soul. Gentlemen, I deliver myself up—do with me what you will. / Let the true culprit go free; I am the convict Jean Valjean.”
+
+Performance Line
+[Steeled offering] ˧***I owe Fantine a debt; I owe a debt to my own soul. Gentlemen, I deliver myself up*** H* | [Final surrender] ˨**Do with me what you will. Let the true culprit go free; I am the convict Jean Valjean** L-L% ↓
+
+**IPA:** [aɪ oʊ fɑnˈtin ə dɛt aɪ oʊ ə dɛt tə maɪ oʊn soʊl | ˈdʒɛn.təl.mɛn aɪ dɪˈlɪv.ɚ maɪˈsɛlf ʌp | du wɪð mi wʌt ju wɪl | lɛt ðə tru ˈkʌl.prɪt ɡoʊ fri | aɪ æm ðə ˈkɑn.vɪkt ʒɑ̃ valˈʒɑ̃]
+
+**ToBI:** H*  L-L%
+
+---

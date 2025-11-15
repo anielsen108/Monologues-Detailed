@@ -58,3 +58,36 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “They crown themselves with ivy, tear calves apart with bare hands; law sleeps, shame is thrown to the winds, / And they dare to call this drunken riot a god.”
+
+Performance Line
+[Disgusted crescendo] ˧***They crown themselves with ivy, tear calves apart with bare hands*** H* | [Seething verdict] ˨**Law sleeps, shame is thrown to the winds, and they dare to call this drunken riot a god** L-L% ↓
+
+**IPA:** [ðeɪ kɹaʊn ðɛmˈsɛlvz wɪð ˈaɪ.vi tɛɹ kævz əˈpɑɹt wɪð bɛɹ hændz | lɔ slips ʃeɪm ɪz θroʊn tə ðə wɪndz ænd ðeɪ dɛɹ tə kɔl ðɪs ˈdrʌŋ.kən ˈraɪ.ət ə ɡɑd]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “If he be divine, why does he hide in curls and veils? No—he is a conjurer. / I will seize him, chain him, strip him before the people so all may know how hollow his miracles are.”
+
+Performance Line
+[Sneering skepticism] ˧***If he be divine, why does he hide in curls and veils? No—he is a conjurer*** L+H* | [Threatening promise] ˨**I will seize him, chain him, strip him before the people so all may know how hollow his miracles are** L-L% ↓
+
+**IPA:** [ɪf hi bi dɪˈvaɪn waɪ dʌz hi haɪd ɪn kɝlz ænd veɪlz | noʊ hi ɪz ə ˈkɑn.dʒɚ.ɚ | aɪ wɪl siz hɪm tʃeɪn hɪm stɹɪp hɪm bɪˈfɔɹ ðə ˈpipəɫ soʊ ɔɫ meɪ noʊ haʊ ˈhɑ.loʊ hɪz ˈmɪɹ.ə.kəɫz ɑɹ]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Guards! shut every gate; scour the glens; bring me in irons every votary who chants his name. / I will teach Thebes that sceptres are not reeds to be snapped by some foreign charlatan; order will return, the Bacchae will tremble when Pentheus speaks.”
+
+Performance Line
+[Command bark] ˧***Guards! shut every gate; scour the glens; bring me in irons every votary who chants his name*** H* !H% | [Triumphant certainty] ˨**I will teach Thebes that sceptres are not reeds to be snapped by some foreign charlatan; order will return, the Bacchae will tremble when Pentheus speaks** L-L% ↓
+
+**IPA:** [ɡɑrdz ʃʌt ˈɛv.ɹi ɡeɪt skaʊɚ ðə ɡlɛnz bɹɪŋ mi ɪn ˈaɪ.ɚnz ˈɛv.ɹi ˈvoʊ.tə.ɹi hu tʃænts hɪz neɪm | aɪ wɪl titʃ θibz ðæt ˈsɛp.tɚz ɑɹ nɑt rɪdz tə bi snæpt baɪ sʌm ˈfɔr.ən ˈʃɑɹ.lə.tæn | ˈɔɹ.dɚ wɪl ɹɪˈtɝn ðə ˈbæk.eɪ wɪl ˈtɹɛm.bəl wɛn ˈpɛn.θjuːs spiːks]
+
+**ToBI:** H*  !H%  L-L%
+
+---

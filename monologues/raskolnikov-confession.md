@@ -58,3 +58,47 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “With an axe, Sonya; the doors locked, the pledge in my pocket, everything calculated—yet the minute it was done I felt nothing but filth.”
+
+Performance Line
+[Haunted recollection] ˧***With an axe, Sonya; the doors locked, the pledge in my pocket, everything calculated*** H* | [Self-disgust] ˨**yet the minute it was done I felt nothing but filth** L-L% ↓
+
+**IPA:** [wɪð ən æks ˈsoʊ.njə ðə dɔɹz lɑkt ðə plɛdʒ ɪn maɪ ˈpɑ.kɪt ˈɛv.ɹiˌθɪŋ ˈkæɫ.kjəˌleɪ.tɪd | jɛt ðə ˈmɪ.nət ɪt wəz dʌn aɪ fɛlt ˈnʌθɪŋ bət fɪɫθ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “For months I walked with that blood on me, babbling of Napoleon, of the extraordinary man who may permit himself a crime; / I told myself I had done it for humanity, to cast down a cruel woman and use her money for noble deeds—lies!”
+
+Performance Line
+[Half-delirious argument collapsing] ˧***For months I walked with that blood on me, babbling of Napoleon, of the extraordinary man who may permit himself a crime*** L+H* | [Sudden self-accusation] ˨**I told myself I had done it for humanity… lies!** L-L% ↓
+
+**IPA:** [fɔɹ mʌnθs aɪ wɔkt wɪð ðæt blʌd ɑn mi ˈbæb.lɪŋ əv nəˈpoʊ.li.ən əv ði ɪkˈstrɔr.dəˌnɛr.i mæn hu meɪ pɚˈmɪt hɪmˈsɛlf ə kraɪm | aɪ toʊld maɪˈsɛlf aɪ hæd dʌn ɪt fɔɹ hjuˈmæn.ə.ti tə kæst daʊn ə ˈkru.əɫ ˈwu.mən ænd juz hɚ ˈmʌni fɔɹ ˈnoʊ.bəɫ didz | laɪz]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “I killed because I dared, because I wanted to see if I was capable. And now I cannot endure the weight of it; I am choking. / I came to you because you too have suffered, because you will not turn away—go to the authorities, tell them everything.”
+
+Performance Line
+[Raw honesty] ˧***I killed because I dared, because I wanted to see if I was capable. And now I cannot endure the weight of it; I am choking*** H* | [Desperate instruction] ˨**I came to you because you too have suffered, because you will not turn away—go to the authorities, tell them everything** L-L% ↓
+
+**IPA:** [aɪ kɪld bɪˈkɔz aɪ dɛrd bɪˈkɔz aɪ ˈwɑn.tɪd tə si ɪf aɪ wəz ˈkeɪ.pə.bəɫ | ænd naʊ aɪ ˈkæ.nɑt ɪnˈdʊɹ ðə weɪt əv ɪt aɪ æm ˈtʃoʊ.kɪŋ | aɪ keɪm tə ju bɪˈkɔz ju tu hæv ˈsʌf.ɚd bɪˈkɔz ju wɪl nɑt tɝn əˈweɪ | ɡoʊ tə ði əˈθɔɹ.ə.tiz tɛl ðɛm ˈɛv.ɹiˌθɪŋ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “I will go as well; I must kneel, kiss the earth I have desecrated, and confess aloud, ‘I killed!’ / There is no other road back to life.”
+
+Performance Line
+[Resigned resolve] ˧***I will go as well; I must kneel, kiss the earth I have desecrated, and confess aloud, ‘I killed!’*** L+H* | [Quiet certainty] ˨**There is no other road back to life** L-L% ↓
+
+**IPA:** [aɪ wɪl ɡoʊ æz wɛl aɪ mʌst niɫ kɪs ði ɝθ aɪ hæv ˈdɛs.əˌkreɪ.tɪd ænd kənˈfɛs əˈlaʊd aɪ kɪld | ðɛɹ ɪz noʊ ˈʌð.ɚ ɹoʊd bæk tə laɪf]
+
+**ToBI:** L+H*  L-L%
+
+---

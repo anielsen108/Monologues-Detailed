@@ -23,6 +23,28 @@ Performance Line
 
 ---
 
+**LINE:** “A general’s little son is flogged and smeared with filth for ‘misbehaving,’ locked in an outhouse; / Another child is torn to pieces by hounds, mothers forced to watch soldiers fire at their babies.”
+
+Performance Line
+[Journalistic fury] ˧***A general’s little son is flogged and smeared with filth for ‘misbehaving,’ locked in an outhouse*** H* | [Voice breaking] ˨**Another child is torn to pieces by hounds, mothers forced to watch soldiers fire at their babies** L-L% ↓
+
+**IPA:** [ə ˈdʒɛn.əɹəlz ˈlɪt.ɫ̩ sʌn ɪz flɔɡd ænd smɪɹd wɪð fɪɫθ fɔɹ ˌmɪsbɪˈheɪ.vɪŋ lɑkt ɪn ən ˈaʊtˌhaʊs | əˈnʌð.ɚ tʃaɪld ɪz tɔɹn tə ˈpis.ɪz baɪ haʊndz | ˈmʌð.ɚz fɔɹst tə wɑtʃ ˈsoʊl.dʒɚz faɪɹ æt ðɛɹ ˈbeɪ.biz]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Not the suffering of grown men—let them be guilty—but the tears of blameless children. / They must pay for harmony, they tell us, so some final concord may be built on their bones.”
+
+Performance Line
+[Trembling restraint] ˧***Not the suffering of grown men—let them be guilty—but the tears of blameless children*** L+H* | [Condemning the bargain] ˨**They must pay for harmony, so some final concord may be built on their bones** L-L% ↓
+
+**IPA:** [nɑt ðə ˈsʌf.ɚ.ɪŋ əv ɡroʊn mɛn lɛt ðɛm bi ˈɡɪl.ti bət ðə tɪɹz əv ˈbleɪm.ləs ˈtʃɪl.drən | ðeɪ mʌst peɪ fɔɹ ˈhɑɹ.mə.ni soʊ sʌm ˈfaɪ.nəɫ ˈkɑn.kɔɹd meɪ bi bɪlt ɑn ðɛɹ boʊnz]
+
+**ToBI:** L+H*  L-L%
+
+---
+
 **LINE:** “Can you forgive them for the tear of one tortured child?”
 
 Performance Line
@@ -31,6 +53,17 @@ Performance Line
 **IPA:** [kæn ju fɚˈɡɪv ðɛm fɔɹ ðə tɪɹ əv wʌn ˈtɔɹ.tʃɚd tʃaɪld]
 
 **ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “If the price of eternal love is even one tear of that child begging, ‘Uncle, let me go to mother,’ I refuse; / I want no higher harmony, I want the suffering stopped this instant with no heavenly compensation.”
+
+Performance Line
+[Voice cracking with remembered plea] ˧***If the price of eternal love is even one tear of that child begging, ‘Uncle, let me go to mother,’ I refuse*** H* | [Flat demand] ˨**I want no higher harmony, I want the suffering stopped this instant with no heavenly compensation** L-L% ↓
+
+**IPA:** [ɪf ðə pɹaɪs əv ɪˈtɝ.nəɫ lʌv ɪz ˈivən wʌn tɪɹ əv ðæt tʃaɪld ˈbɛɡɪŋ ˈʌŋkəɫ lɛt mi ɡoʊ tə ˈmʌðɚ aɪ ɹɪˈfjuz | aɪ wɑnt noʊ ˈhaɪ.ɚ ˈhɑɹ.mə.ni aɪ wɑnt ðə ˈsʌf.ɚ.ɪŋ stɑpt ðɪs ˈɪn.stənt wɪð noʊ ˌhɛv.ən.li ˌkɑm.pənˈseɪ.ʃən]
+
+**ToBI:** H*  L-L%
 
 ---
 
@@ -58,3 +91,14 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “Let the architects of destiny keep their paradise; I return my entrance pass / And remain with the unavenged children.”
+
+Performance Line
+[Flat defiance] ˧***Let the architects of destiny keep their paradise; I return my entrance pass*** H* | [Quiet loyalty] ˨**And remain with the unavenged children** L-L% ↓
+
+**IPA:** [lɛt ði ˈɑːɹ.kɪˌtɛkts əv ˈdɛs.tə.ni kip ðɛɹ ˈpɛr.əˌdaɪs | aɪ ɹɪˈtɝn maɪ ˈɛn.trəns pæs ænd ɹɪˈmeɪn wɪð ði ˌʌnəˈvɛndʒd ˈtʃɪl.drən]
+
+**ToBI:** H*  L-L%
+
+---

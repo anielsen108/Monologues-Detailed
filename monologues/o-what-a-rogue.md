@@ -114,3 +114,58 @@ Performance Line
 
 **ToBI:** L+H*  H*  L-L%
 
+
+**LINE:** “Could force his soul to his own conceit; tears in his eyes, distraction in his aspect, a broken voice, his whole function suiting / And all for nothing—for Hecuba! What’s Hecuba to him, or he to Hecuba, that he should weep for her?”
+
+Performance Line
+[Admiring fury] ˧***Could force his soul to his own conceit; tears in his eyes, distraction in his aspect, a broken voice*** H* | [Scoffing crescendo] ˨**and all for nothing—for Hecuba! What’s Hecuba to him, or he to Hecuba, that he should weep for her?** L-L% ↓
+
+**IPA:** [kʊd fɔɹs hɪz soʊl tə hɪz oʊn kənˈsit tɪɹz ɪn hɪz aɪz dɪsˈtɹæk.ʃən ɪn hɪz ˈæs.pɛkt ə ˈbroʊ.kən vɔɪs | ænd ɔɫ fɔɹ ˈnʌθɪŋ fɔɹ ˈhɛk.jʊ.bə | wʌts ˈhɛk.jʊ.bə tə hɪm ɔɹ hi tə ˈhɛk.jʊ.bə ðæt hi ʃʊd wip fɔɹ hɝ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Had he the motive and the cue for passion that I have, he would drown the stage with tears, make mad the guilty, appal the free; / Yet I, a dull and muddy-mettled rascal, peak like John-a-dreams, unpregnant of my cause, and can say nothing.”
+
+Performance Line
+[Hypothetical awe] ˧***Had he the motive and the cue for passion that I have, he would drown the stage with tears, make mad the guilty, appal the free*** H* | [Self-scorn] ˨**Yet I, a dull and muddy-mettled rascal… can say nothing** L-L% ↓
+
+**IPA:** [həd hi ðə ˈmoʊ.tɪv ænd ðə kju fɔɹ ˈpæ.ʃən ðæt aɪ hæv hi wʊd dɹaʊn ðə steɪdʒ wɪð tɪɹz | meɪk mæd ðə ˈɡɪl.ti əˈpɔɫ ðə fri | jɛt aɪ ə dʌɫ ænd ˈmʌd.i ˈmɛt.əɫ ˈɹæs.kəɫ pik laɪk ˈdʒɑn ə dɹimz ʌnˈpɹɛɡ.nənt əv maɪ kɔz | ænd kæn seɪ ˈnʌθɪŋ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Who calls me villain? breaks my pate? gives me the lie i’ the throat? ’Swounds, I should take it; / But I am pigeon-liver’d and lack gall, or ere this I should have fatted all the region kites with this slave’s offal—Bloody, bawdy villain!”
+
+Performance Line
+[Taunting challenge] ˧***Who calls me villain? breaks my pate? gives me the lie in the throat? ’Swounds, I should take it*** H* !H% | [Volcanic self-censure] ˨**But I am pigeon-liver’d… I should have fatted all the region kites with this slave’s offal—Bloody, bawdy villain!** L-L% ↓
+
+**IPA:** [hu kɔɫz mi ˈvɪl.ən bɹeɪks maɪ peɪt ɡɪvz mi ðə laɪ ɪn ðə θɹoʊt | swʊndz aɪ ʃʊd teɪk ɪt | bət aɪ æm ˈpɪdʒ.ən ˈlɪv.ɚd ænd læk ɡɔɫ | ɔr ɛr ðɪs aɪ ʃʊd hæv ˈfæt.ɪd ɔɫ ðə ˈriː.dʒən kaɪts wɪð ðɪs sleɪvz ˈɔ.fəɫ | ˈblʌ.di ˈbɑ.di ˈvɪl.ən]
+
+**ToBI:** H*  !H%  L-L%
+
+---
+
+**LINE:** “Why, what an ass am I! Prompted to revenge by heaven and hell, must I unpack my heart with words / And fall a-cursing like a very drab? Fie upon’t! About, my brains! I’ll have these players catch the king.”
+
+Performance Line
+[Self-mockery to plan] ˧***Why, what an ass am I! Prompted to revenge by heaven and hell, must I unpack my heart with words*** H- | [Quick pivot] ˨**And fall a-cursing like a drab? Fie upon’t! About, my brains! I’ll have these players catch the king** L-L% ↓
+
+**IPA:** [waɪ wʌt ən æs æm aɪ ˈpɹɑmp.təd tə ɹɪˈvɛndʒ baɪ ˈhɛv.ən ænd hɛɫ mʌst aɪ ʌnˈpæk maɪ hɑɹt wɪð wɝdz | ænd fɔɫ ə ˈkɝ.sɪŋ laɪk ə dræb | faɪ əˈpɑnt əˈbaʊt maɪ bɹeɪnz | aɪl hæv ðiːz ˈpleɪ.ɚz kætʃ ðə kɪŋ]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “If he but blench, I know my course; the spirit I have seen may be the devil, who, out of my weakness and melancholy, / Abuses me to damn me—so I’ll have grounds more relative than this: the play’s the thing wherein I’ll catch the conscience of the king.”
+
+Performance Line
+[Analytical coolness returning] ˧***If he but blench, I know my course; the spirit I have seen may be the devil, who out of my weakness and melancholy abuses me to damn me*** H* | [Clipped finale] ˨**So I’ll have grounds more relative than this: the play’s the thing wherein I’ll catch the conscience of the king** L-L% ↓
+
+**IPA:** [ɪf hi bət blɛntʃ aɪ noʊ maɪ kɔɹs | ðə ˈspɪr.ɪt aɪ hæv sin meɪ bi ðə ˈdɛv.əɫ hu aʊt əv maɪ ˈwik.nəs ænd ˈmɛl.əˌkɑ.li əˈbjus.ɪz mi tə dæm mi | soʊ aɪl hæv ɡɹaʊndz mɔɹ ˈrɛ.lə.tɪv ðæn ðɪs ðə ˈpleɪz ðə ˈθɪŋ wɛɹˈɪn aɪl kætʃ ðə ˈkɑn.ʃəns əv ðə kɪŋ]
+
+**ToBI:** H*  L-L%
+
+---

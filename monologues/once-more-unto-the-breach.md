@@ -91,3 +91,47 @@ Performance Line
 
 **ToBI:** H*  !H%
 
+
+**LINE:** “Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage; / Let the eye pry like brass cannon, the brow o’erwhelm it as a galled rock o’erhangs the ocean.”
+
+Performance Line
+[Physical coaching] ˧***Stiffen the sinews, summon up the blood, disguise fair nature with hard-favour’d rage*** H* | [Epic imagery] ˨**Let the eye pry like brass cannon, the brow o’erwhelm it as a galled rock o’erhangs the ocean** L-L% ↓
+
+**IPA:** [ˈstɪf.ən ðə ˈsɪ.njuːz ˈsʌm.ən ʌp ðə blʌd dɪsˈɡaɪz fɛɹ ˈneɪ.tʃɚ wɪð hɑrd ˈfeɪ.vɚd ɹeɪdʒ | lɛt ði aɪ pɹaɪ laɪk bɹæs ˈkæn.ən ðə bɹaʊ oʊɹˈwɛɫm ɪt æz ə ɡɔɫd rɑk oʊɹˈhæŋz ði ˈoʊ.ʃən]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Now set the teeth, stretch the nostril wide, hold hard the breath and bend up every spirit / To his full height. On, on, you noblest English, whose blood is fet from fathers of war-proof!”
+
+Performance Line
+[Breathless urging] ˧***Now set the teeth, stretch the nostril wide, hold hard the breath and bend up every spirit to his full height*** H* | [Ancestral appeal] ˨**On, on, you noblest English, whose blood is fet from fathers of war-proof** L-L% ↓
+
+**IPA:** [naʊ sɛt ðə tiːθ stɹɛtʃ ðə ˈnɑs.tɹɪl waɪd hoʊld hɑrd ðə bɹɛθ ænd bɛnd ʌp ˈɛv.ɹi ˈspɪɹ.ɪt tə hɪz fʊɫ haɪt | ɑn ɑn ju ˈnoʊ.bləst ˈɪŋ.ɡlɪʃ huz blʌd ɪz fɛt fɹʌm ˈfɑ.ðɚz əv wɔɹ pɹuf]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Dishonour not your mothers; be copy now to men of grosser blood, and teach them how to war. / Good yeomen, whose limbs were made in England, show us the mettle of your pasture, swear you are worth your breeding.”
+
+Performance Line
+[Chiding warmth] ˧***Dishonour not your mothers; be copy now to men of grosser blood, and teach them how to war*** L+H* | [Rousing reassurance] ˨**Good yeomen… show us the mettle of your pasture; swear you are worth your breeding** L-L% ↓
+
+**IPA:** [dɪsˈɑ.nɚ nɑt jɔɹ ˈmʌðɚz | bi ˈkɑ.pi naʊ tə mɛn əv ˈɡroʊ.sɚ blʌd ænd titʃ ðɛm haʊ tə wɔɹ | ɡʊd ˈjoʊ.mən huz lɪmz wɚ meɪd ɪn ˈɪŋ.ɡlənd ʃoʊ ʌs ðə ˈmɛt.ɫ̩ əv jɔɹ ˈpæs.tʃɚ swɛɹ ju ɑɹ wɝθ jɔɹ ˈbɹiː.dɪŋ]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “I see you stand like greyhounds in the slips, straining upon the start. The game’s afoot: / Follow your spirit, and upon this charge cry ‘God for Harry, England, and Saint George!’”
+
+Performance Line
+[Electric imagery] ˧***I see you stand like greyhounds in the slips, straining upon the start. The game’s afoot*** H* | [Final command] ˨**Follow your spirit, and upon this charge cry ‘God for Harry, England, and Saint George!’** L-L% ↓
+
+**IPA:** [aɪ si ju stænd laɪk ˈɡreɪ.haʊndz ɪn ðə slɪps ˈstɹeɪ.nɪŋ əˈpɑn ðə stɑɹt | ðə ɡeɪmz əˈfʊt | ˈfɑ.loʊ jɔɹ ˈspɪɹ.ɪt ænd əˈpɑn ðɪs tʃɑɹdʒ kɹaɪ ɡɑd fɔɹ ˈhæɹ.i ˈɪŋ.ɡlənd ænd seɪnt dʒɔɹdʒ]
+
+**ToBI:** H*  L-L%
+
+---

@@ -60,6 +60,50 @@ Performance Line
 
 ---
 
+**LINE:** “Write them together, yours is as fair a name; sound them, it doth become the mouth as well; / Weigh them, it is as heavy; conjure with ’em, ‘Brutus’ will start a spirit as soon as ‘Caesar’.”
+
+Performance Line
+[Measured logic, coaxing pride] ˧***Write them together, yours is as fair a name; sound them, it doth become the mouth as well*** H* | [Triumphant finish] ˨**Weigh them, it is as heavy; conjure with ’em, ‘Brutus’ will start a spirit as soon as ‘Caesar’** L+H* L-L% ↓
+
+**IPA:** [ɹaɪt ðɛm təˈɡɛðɚ jɔɹz ɪz æz fɛɹ ə neɪm | saʊnd ðɛm ɪt dʌθ bɪˈkʌm ðə maʊθ æz wɛɫ | weɪ ðɛm ɪt ɪz æz ˈhɛvi | ˈkɑn.dʒɚ wɪð əm ˈbɹuː.təs wɪl stɑɹt ə ˈspɪɹɪt æz sun æz ˈsiː.zɚ]
+
+**ToBI:** H*  L+H*  L-L%
+
+---
+
+**LINE:** “Now, in the names of all the gods at once, upon what meat doth this our Caesar feed / That he is grown so great? Age, thou art sham’d! Rome, thou hast lost the breed of noble bloods!”
+
+Performance Line
+[Mock invocation, swelling outrage] ˦***Now, in the names of all the gods at once, upon what meat doth this our Caesar feed that he is grown so great?*** H* !H- | [Lamenting cry] ˧**Age, thou art sham’d! Rome, thou hast lost the breed of noble bloods** L-L% ↓
+
+**IPA:** [naʊ ɪn ðə neɪmz əv ɔɫ ðə ɡɑdz æt wʌns əˈpɑn wʌt mit dʌθ ðɪs aʊɹ ˈsiːzɚ fid ðæt hi ɪz ɡroʊn soʊ ɡreɪt | eɪdʒ ðaʊ ɑɹt ʃeɪmd ɹoʊm ðaʊ hæst lɔst ðə bɹid əv ˈnoʊ.bəɫ blʌdz]
+
+**ToBI:** H*  !H-  L-L%
+
+---
+
+**LINE:** “When went there by an age, since the great flood, but it was fam’d with more than with one man? / When could they say, till now, that talk’d of Rome, that her wide walls encompass’d but one man?”
+
+Performance Line
+[Rhetorical pounding] ˧***When went there by an age, since the great flood, but it was fam’d with more than with one man*** H* | [Bewildered disgust] ˨**When could they say, till now, that talk’d of Rome, that her wide walls encompass’d but one man** L-L% ↓
+
+**IPA:** [wɛn wɛnt ðɛɹ baɪ ən eɪdʒ sɪns ðə ɡreɪt flʌd bət ɪt wʌz feɪmd wɪð mɔɹ ðæn wɪð wʌn mæn | wɛn kʊd ðeɪ seɪ tɪl naʊ ðæt tɔkt əv ɹoʊm ðæt hɚ waɪd wɑɫz ɪnˈkʌm.pəst bət wʌn mæn]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “O! you and I have heard our fathers say there was a Brutus once that would have brook’d / Th’ eternal devil to keep his state in Rome as easily as a king.”
+
+Performance Line
+[Soft, conspiratorial tone] ˧***O! you and I have heard our fathers say there was a Brutus once that would have brook’d*** L+H* | [Steel in the whisper] ˨**Th’ eternal devil to keep his state in Rome as easily as a king** L-L% ↓
+
+**IPA:** [oʊ ju ænd aɪ hæv hɝd ɑɹ ˈfɑ.ðɚz seɪ ðɛɹ wʌz ə ˈbɹuː.təs wʌns ðæt wʊd hæv bɹʊkt | ði ɪˈtɝ.nəɫ ˈdɛv.əɫ tə kip hɪz steɪt ɪn ɹoʊm æz ˈiː.zə.li æz ə kɪŋ]
+
+**ToBI:** L+H*  L-L%
+
+---
+
 ## SECTION 2 — CALL TO ACTION
 
 **Purpose:** Harden Brutus’s spine; the speech darkens and slows for emphasis.

@@ -98,3 +98,47 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “Our brows bound with wreaths, our bruised arms hung for monuments; grim-visaged war hath smoothed his wrinkled front / And now capers in a lady’s chamber to the lascivious pleasing of a lute.”
+
+Performance Line
+[Public pomp shading into mockery] ˧***Our brows bound with wreaths, our bruised arms hung for monuments; grim-visaged war hath smoothed his wrinkled front*** H* | [Leering punch line] ˨**And now he capers in a lady’s chamber to the lascivious pleasing of a lute** L-L% ↓
+
+**IPA:** [aʊɹ bɹaʊz baʊnd wɪð ɹiːðz aʊɹ bɹuzd ɑɹmz hʌŋ fɔɹ ˈmɑn.jə.mənts | ɡɹɪm ˈvɪz.ɪdʒd wɔɹ hæθ smuːðd hɪz ˈɹɪŋkəɫd fɹʌnt | ænd naʊ hi ˈkeɪ.pɚz ɪn ə ˈleɪdiz ˈtʃeɪm.bɚ tə ðə ləˈsɪv.i.əs ˈplizɪŋ əv ə lut]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “I, that am curtail’d of fair proportion, cheated of feature by dissembling nature, deform’d, unfinish’d, sent before my time; / Dogs bark at me as I halt, and in this weak piping time of peace I have no delight save to spy my shadow and descant on my deformity.”
+
+Performance Line
+[Self-laceration rising] ˧***I, that am curtail’d of fair proportion, cheated of feature, deform’d, unfinish’d, sent before my time*** L+H* | [Bleak humor] ˨**Dogs bark as I halt; in this weak piping time of peace I spy my shadow and descant on my deformity** L-L% ↓
+
+**IPA:** [aɪ ðæt æm kɝˈteɪld əv fɛɹ pɹəˈpɔɹʃən ˈtʃiːtɪd əv ˈfiː.tʃɚ baɪ dɪˈsɛm.blɪŋ ˈneɪ.tʃɚ dɪˈfɔɹmd ʌnˈfɪn.ɪʃt sɛnt bɪˈfɔɹ maɪ taɪm | dɔɡz bɑɹk ət mi æz aɪ hɔɫt | ɪn ðɪs wik ˈpaɪ.pɪŋ taɪm əv pis aɪ hæv noʊ dɪˈlaɪt sɛv tə spaɪ maɪ ˈʃæ.doʊ ænd ˈdɛs.kænt ɑn maɪ dɪˈfɔɹ.mə.ti]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “And therefore, since I cannot prove a lover to entertain these fair days, / I am determined to prove a villain and hate their idle pleasures; plots have I laid, inductions dangerous, by drunken prophecies, libels and dreams.”
+
+Performance Line
+[Plan unfolding] ˧***And therefore, since I cannot prove a lover to entertain these fair days*** H- | [Schemer’s relish] ˨**I am determined to prove a villain… plots have I laid, inductions dangerous, by drunken prophecies, libels and dreams** L-L% ↓
+
+**IPA:** [ænd ˈðɛɹ.fɔɹ sɪns aɪ ˈkæn.ɑt ˈpɹuv ə ˈlʌvɚ tʊ ˌɛn.tɚˈteɪn ðiz fɛɹ deɪz | aɪ æm dɪˈtɝ.mɪnd tə pɹuv ə ˈvɪlən | plɑts hæv aɪ leɪd ɪnˈdʌk.ʃənz ˈdeɪn.dʒɚ.əs baɪ ˈdrʌŋ.kən ˈpɹɑ.fəˌsiz ˈlaɪ.bəɫz ænd dɹimz]
+
+**ToBI:** H-  L-L%
+
+---
+
+**LINE:** “To set my brother Clarence and the king in deadly hate; if King Edward be as true and just as I am subtle, false, treacherous, / This day shall Clarence be mewed up about a prophecy which says that ‘G’ of Edward’s heirs the murderer shall be—dive, thoughts, down to my soul: here Clarence comes.”
+
+Performance Line
+[Whispered conspiracy to sudden readiness] ˧***To set my brother Clarence and the king in deadly hate; if King Edward be as true and just as I am subtle, false, treacherous*** H* | [Snap to action] ˨**This day shall Clarence be mewed up… dive, thoughts, down to my soul: here Clarence comes** L-L% ↓
+
+**IPA:** [tə sɛt maɪ ˈbrʌ.ðɚ ˈklɛɹ.əns ænd ðə kɪŋ ɪn ˈdɛd.li heɪt | ɪf kɪŋ ˈɛd.wɚd bi æz tru ænd dʒʌst æz aɪ æm ˈsʌt.əɫ fɔls ˈtɹɛtʃ.ɚ.əs | ðɪs deɪ ʃæl ˈklɛɹ.əns bi mjud ʌp əˈbaʊt ə ˈpɹɑ.fəˌsi wɪtʃ seɪz ðæt dʒi əv ˈɛd.wɚdz ɛɹz ðə ˈmɝ.dɚɚ ʃæl bi | daɪv θɑts daʊn tə maɪ soʊl hɪɹ ˈklɛɹ.əns kʌmz]
+
+**ToBI:** H*  L-L%
+
+---

@@ -58,3 +58,47 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+
+**LINE:** “Apollo spoke: ‘If you neglect this, you shall vomit forth your heart; the Furies shall drink your blood.’ / I go not as a willing butcher of my mother, but as avenger of a king betrayed in his own bath.”
+
+Performance Line
+[Oracle echo] ˧***Apollo spoke: ‘If you neglect this, you shall vomit forth your heart; the Furies shall drink your blood’*** H* | [Tense justification] ˨**I go not as a willing butcher of my mother, but as avenger of a king betrayed in his own bath** L-L% ↓
+
+**IPA:** [əˈpɑ.loʊ spoʊk ɪf ju nɪˈlɛkt ðɪs ju ʃæl ˈvɑ.mɪt fɔɹθ jɔɹ hɑɹt | ðə ˈfjʊɹ.iz ʃæl dɹɪŋk jɔɹ blʌd | aɪ ɡoʊ nɑt æz ə ˈwɪl.ɪŋ ˈbʊ.tʃɚ əv maɪ ˈmʌðɚ bət æz əˈvɛn.dʒɚ əv ə kɪŋ bɪˈtɹeɪd ɪn hɪz oʊn bæθ]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “The serpent dream she told—was it not me? I have carried it in silence, sharpening the axe of justice. / Let no one call me impious: she first polluted motherhood when she clasped the net about Agamemnon.”
+
+Performance Line
+[Ominous reminder] ˧***The serpent dream she told—was it not me? I have carried it in silence, sharpening the axe of justice*** L+H* | [Accusation] ˨**Let no one call me impious: she first polluted motherhood when she clasped the net about Agamemnon** L-L% ↓
+
+**IPA:** [ðə ˈsɝ.pənt dɹim ʃi toʊld wʌz ɪt nɑt mi | aɪ hæv ˈkæɹ.id ɪt ɪn ˈsaɪ.ləns ˈʃɑɹ.pən.ɪŋ ði æks əv ˈdʒʌs.tɪs | lɛt noʊ wʌn kɔl mi ɪmˈpaɪ.əs ʃi fɝst pəˈlu.tɪd ˈmʌð.ɚˌhʊd wɛn ʃi klæspt ðə nɛt əˈbaʊt ˌæ.ɡəˈmɛm.nɑn]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “If I spare them, I betray both father and gods. So I invoke Hermes, I call on my father’s spirit, I summon Earth to witness / That this act is not private malice but holy necessity.”
+
+Performance Line
+[Prayerful incantation] ˧***If I spare them, I betray both father and gods; so I invoke Hermes, call on my father’s spirit, summon Earth to witness*** H* | [Sacral assurance] ˨**That this act is not private malice but holy necessity** L-L% ↓
+
+**IPA:** [ɪf aɪ spɛɹ ðɛm aɪ bɪˈtɹeɪ boʊθ ˈfɑ.ðɚ ænd ɡɑdz | soʊ aɪ ɪnˈvoʊk ˈhɝːmiz kɔl ɑn maɪ ˈfɑ.ðɚz ˈspɪɹ.ɪt ˈsʌm.ən ɝθ tə ˈwɪt.nəs | ðæt ðɪs ækt ɪz nɑt ˈpɹaɪ.vət ˈmæ.lɪs bət ˈhoʊ.li nəˈsɛs.ə.ti]
+
+**ToBI:** H*  L-L%
+
+---
+
+**LINE:** “When the stroke falls, let the house learn that Justice has children too; / If I must wander hounded by Erinyes, so be it—better obedience than cowardice. Strike! For the god commands it.”
+
+Performance Line
+[Prophetic warning] ˧***When the stroke falls, let the house learn that Justice has children too*** H* | [Defiant close] ˨**If I must wander hounded by Erinyes, so be it—better obedience than cowardice. Strike! For the god commands it** L-L% ↓
+
+**IPA:** [wɛn ðə stɹoʊk fɔɫz lɛt ðə haʊs lɝn ðæt ˈdʒʌs.tɪs hæz ˈtʃɪl.drən tu | ɪf aɪ mʌst ˈwɑn.dɚ ˈhaʊn.dɪd baɪ ɛˈrɪ.niːz soʊ bi ɪt ˈbɛt.ɚ oʊˈbiː.di.əns ðæn ˈkaʊ.ɚ.dɪs | stɹaɪk fɔɹ ðə ɡɑd kəˈmændz ɪt]
+
+**ToBI:** H*  L-L%
+
+---
