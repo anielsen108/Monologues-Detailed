@@ -38,23 +38,45 @@ Cassius inflames Brutus against Caesar by painting him as an overgrown colossus 
 
 **Purpose:** Blend admiration with contempt to hook Brutus emotionally.
 
-**LINE:** “Why, man, he doth bestride the narrow world / Like a Colossus;”
+**LINE:** “Why, man, he doth bestride the narrow world.”
 
 Performance Line
-[Expansive gesture, smoldering jealousy] ˦***Why, man, he doth bestride the narrow world*** H* | [Scoffing awe] ˧**Like a Colossus** L-L% ↓
+[Expansive gesture, smoldering jealousy] ˦***Why, man, he doth bestride the narrow world*** H* L-L% ↓
 
-**IPA:** [waɪ mæn hi dʌθ bɪˈstɹaɪd ðə ˈnæ.ɹoʊ wɝɫd | laɪk ə kəˈlɑː.səs]
+**IPA:** [waɪ mæn hi dʌθ bɪˈstɹaɪd ðə ˈnæ.ɹoʊ wɝɫd]
 
 **ToBI:** H*  L-L%
 
 ---
 
-**LINE:** “And we petty men / Walk under his huge legs and peep about / To find ourselves dishonorable graves.”
+**LINE:** “Like a Colossus, and we petty men.”
 
 Performance Line
-[Needling tone, rising indignation] ˧***And we petty men walk under his huge legs*** L+H* | [Bitter finish] ˨**and peep about to find ourselves dishonorable graves** L-L% ↓
+[Mocking awe with a poisoned smile] ˧***Like a Colossus, and we petty men*** L+H* L-L% ↓
 
-**IPA:** [ænd wi ˈpɛ.ti mɛn wɔk ˈʌn.dɚ hɪz hjudʒ lɛɡz | ænd pip əˈbaʊt tə faɪnd ɑɹˈsɛlvz dɪsˈɑn.ɚ.ə.bəl ɡɹeɪvz]
+**IPA:** [laɪk ə kəˈlɑː.səs ænd wi ˈpɛ.ti mɛn]
+
+**ToBI:** L+H*  L-L%
+
+---
+
+**LINE:** “Walk under his huge legs and peep about.”
+
+Performance Line
+[Cramped mime of ducking] ˨***Walk under his huge legs and peep about*** L*+H H-L%
+
+**IPA:** [wɔk ˈʌn.dɚ hɪz hjudʒ lɛɡz ænd pip əˈbaʊt]
+
+**ToBI:** L*+H  H-L%
+
+---
+
+**LINE:** “To find ourselves dishonourable graves.”
+
+Performance Line
+[Sardonic hush, dark relish] ˩***To find ourselves dishonourable graves*** L+H* L-L% ↓
+
+**IPA:** [tə faɪnd ɑɹˈsɛlvz dɪsˈɑn.ɚ.ə.bəɫ ɡɹeɪvz]
 
 **ToBI:** L+H*  L-L%
 
@@ -90,6 +112,28 @@ Performance Line
 **IPA:** [wɛn wɛnt ðɛɹ baɪ ən eɪdʒ sɪns ðə ɡreɪt flʌd bət ɪt wʌz feɪmd wɪð mɔɹ ðæn wɪð wʌn mæn | wɛn kʊd ðeɪ seɪ tɪl naʊ ðæt tɔkt əv ɹoʊm ðæt hɚ waɪd wɑɫz ɪnˈkʌm.pəst bət wʌn mæn]
 
 **ToBI:** H*  L-L%
+
+---
+
+**LINE:** “Now is it Rome indeed, and room enough,”
+
+Performance Line
+[Arms measuring a city’s breadth] ˦***Now is it Rome indeed, and room enough*** H* !H-L%
+
+**IPA:** [naʊ ɪz ɪt ɹoʊm ɪnˈdid ænd ɹum əˈnʌf]
+
+**ToBI:** H*  !H-L%
+
+---
+
+**LINE:** “When there is in it but one only man.”
+
+Performance Line
+[Sudden drop to a cold whisper] ˨***When there is in it but one only man*** L+H* L-L% ↓
+
+**IPA:** [wɛn ðɛɹ ɪz ɪn ɪt bət wʌn ˈoʊn.li mæn]
+
+**ToBI:** L+H*  L-L%
 
 ---
 
