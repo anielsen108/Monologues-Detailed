@@ -1839,3 +1839,293 @@ Performance Line
 
 **ToBI:**
 L+H*  H-  L-L%
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Authority, High-tessitura↑, Forward resonance`
+- `Public-address clarity, Metallic edge, No warmth`
+- `Command-but-gentle, Column of air, Direct appeal`
+- `Judicial closure, Neutral tessitura→, Controlled authority`
+- `Ceremonial courtesy, High tessitura↑, Velvet-over-steel`
+- `Measured awe, Tessitura↗, Re-igniting authority`
+- `Appeal to crowd, Tessitura↗, Rallying color`
+- `Authority weight`
+- `Commanding empathy, Tessitura↗, Drumbeat phrasing`
+- `Triumphant image, Tessitura↗`
+- `Shock command, Tessitura↗↗, Sharp attack`
+- `Counting cadence, Tessitura↓, Self-effacing`
+- `Authority echo`
+- `Counting cadence, Tessitura↗, Clear numerals`
+- `Triumphant cry, Tessitura↗↗, Vibrant`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Knife-thin irony, Bright pitch on key word`
+- `Forensic tone, High tessitura↑, Crisp diction`
+- `Even rhythm, Mild lift, Deferential façade`
+- `Ironic elevation, Bright pitch`
+- `Conditional blade, Thin tone, High tessitura↑`
+- `Hollow politeness, Amber irony, Slight lift`
+- `Ritual permission, High tessitura↑, Withheld warmth`
+- `Hollow civility, Bright pitch↑, Ironic “praise”`
+- `Echoing grandeur, Controlled swell`
+- `Heart-grab gesture, Crescendo`
+- `Leashed volatility, Rising bite`
+- `Mock humility, Bright irony, Mid tessitura→`
+- `Paired indictment, Slight lift`
+- `Poised restraint, Tessitura↗, Razor-soft`
+- `Teasing reveal, Tessitura↗, Sparkling consonants`
+- `Pulse of danger, Slight rise`
+- `Crowd-tuning energy, Tessitura↗, Building suspense`
+- `Feign restraint, Tessitura↗, Mock modesty`
+- `Thin denial, Rising tease`
+- `Painting frenzy, Tessitura↗, Swift articulation`
+- `Visceral image, Crescendo`
+- `Macabre allure, Tessitura↗, Vivid consonants`
+- `Urgent pleading, Tessitura↗, Narrow vibrato`
+- `Seductive generosity, Tessitura↗, Flowing pace`
+- `Shared memory cue, Tessitura↗`
+- `Crowd focus, Tessitura↗, Cutting consonants`
+- `Betrayal reveal, Tessitura↗, Bitter burn`
+- `Slow motion, Tessitura↗, Viscous articulation`
+- `Directive intensity, Tessitura↗, Flowing`
+- `Desperate curiosity, Lift at end`
+- `Edge of accusation, Tessitura↗`
+- `Bitter reverence, Tessitura↗, Controlled vibrato`
+- `Invocation, Tessitura↗↗, Ringing urgency`
+- `Verdict slam, Tessitura↗, Hammered rhythm`
+- `Narrated slow motion, Tessitura↗`
+- `Broader vowels, Tessitura↗, Rolling emphasis`
+- `Cataclysmic swell, Tessitura↗↗`
+- `Historic placement, Tessitura↗, Marble-weight`
+- `Dark crescendo, Tessitura↗`
+- `Exclamatory shock, Tessitura↗↗`
+- `Seething anger, Tessitura↗`
+- `Soft triumph, Tessitura↗, Gentle coaxing`
+- `Shock reveal, Tessitura↗`
+- `Climactic reveal, Tessitura↗↗, Heavy vibrato`
+- `Word “mutiny” brightened`
+- `Refrain callback, Tessitura↗, Dry tone`
+- `Confidential sympathy, Tessitura↗, Rolling phrasing`
+- `Measured cadence, Tessitura↗`
+- `Sarcastic assurance, Tessitura↗, Controlled pace`
+- `License reminder, Tessitura↗ slightly`
+- `Factual insistence, Tessitura↗ slightly`
+- `Demonstrative gesture, Tessitura↗`
+- `Suppressed fury, Tessitura↗`
+- `Conditional spark`
+- `Role reversal fantasy, Tessitura↗↗`
+- `Energetic swell, Tessitura↗`
+- `Enumerative urgency, Tessitura↗`
+- `Implacable image, Tessitura↗↗, Powerful swell`
+- `Re-centering call, Tessitura↗, Firm pulse`
+- `Alarmed affection, Tessitura↗`
+- `Interrogative lift, Tessitura↗`
+- `Chiding reminder, Tessitura↗`
+- `Tangible reveal, Tessitura↗↗, Crisp diction`
+- `Measured generosity, Tessitura↗`
+- `Lavish layering, Tessitura↗, Fluid phrasing`
+- `Garden imagery, Tessitura↗, Gentle legato`
+- `Locational sweep, Tessitura↗`
+- `Future promise, Tessitura↗`
+- `Demanding close, Rising question`
+- `Sharper repeat, Slight pitch rise↑`
+- `Return to irony, Tessitura↑, Emotional withdrawal`
+- `Polite dryness, Measured beat, High tessitura↑`
+- `Forensic clarity, High tessitura↑, Crisp consonants`
+- `Logical check, Light tone→, Slight lift`
+- `Granite hardness, High tessitura↑, Emphatic attack`
+- `Return to hollow courtesy, High tessitura↑`
+- `Public memory, High tessitura↑, Quickened pace`
+- `Rising action, High tessitura↗, Intensifying logic`
+- `Dry rhetorical question, Slight rise`
+- `Bright irony`
+- `Exclamatory lament, Tessitura↗, Emotional surge`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Blade in courtesy, Amber irony`
+- `Cutting indictment, Tessitura↓, Bitter hush`
+- `Harsh snap`
+- `Weight of betrayal`
+- `Smothered fury`
+- `Bitter verdict, Gravity`
+- `Warning hush, Tessitura↓`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Measured ceremony, Slight descent, Hollow civility`
+- `Dry closure, Damped resonance`
+- `Sardonic weight, Tessitura↓`
+- `Irony thickening, Tone flattens`
+- `Dry alternative, Falling`
+- `Irony-laden fall`
+- `Brittle compliment, Extended fall`
+- `Thin politeness, Crisp edge`
+- `Dry, skeptical upturn`
+- `Brittle politeness`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Civic invocation, Sustained height, Even breath`
+- `Formal neutrality, High but calm, Tight onset`
+- `Austere neutrality`
+- `Judicial emphasis, Slight downward weight`
+- `Ritual finality, No emotional color`
+- `Judicial dryness, Emphatic stress`
+- `Ceremonial correctness`
+- `Ceremonial deference, Slow release`
+- `Granite firmness, Mid tessitura→, Emphatic consonants`
+- `Dismissive fall, Weighted consonants`
+- `Hypothetical restraint, Narrowed tone`
+- `Ironic courtesy, Light glide`
+- `Measured alternative, Controlled breath`
+- `Shared culpability, Inclusive gesture`
+- `Confidential tone, Tessitura→, Subtle hush`
+- `Promise of upheaval`
+- `Hypnotic foresight, Tessitura→`
+- `Luxurious emphasis`
+- `Historical punch`
+- `Pointing gesture, Violent clarity`
+- `Blame accent, Angular fall`
+- `Horrified detail`
+- `Visual trail`
+- `Kinetic image, Rolling tempo`
+- `Final blow`
+- `Shock image, Falling ache`
+- `Heartbreak drop`
+- `Proper name prominence`
+- `Fatal drop`
+- `Weighty drop`
+- `Observation, Floating fall`
+- `Guiding curiosity`
+- `Hand presentation`
+- `False restraint`
+- `Feign ignorance`
+- `Pointed conclusion`
+- `Honest cadence`
+- `Comparative nod`
+- `Self-portrait, Firm landing`
+- `Firm reminder`
+- `Plain assertion`
+- `Mirror back to crowd`
+- `Metaphoric tenderness`
+- `Promise of fire`
+- `Momentum carry`
+- `Cranking energy`
+- `Revolt endpoint, Falling slam`
+- `Insistent repeat`
+- `Chiding fall`
+- `Promise of revelation`
+- `Gift landing`
+- `Precise figure`
+- `Generous sweep`
+- `Lush addition`
+- `Gift reiteration`
+- `Communal delight`
+- `Restful cadence`
+- `Ceremonial flatness, Even tone`
+- `Ceremonial emptiness`
+- `Evidence-development`
+- `Civic-benefit stress`
+- `Moral accounting, Emphatic detail`
+- `Economic proof, Strong diction`
+- `Downbeat closure`
+- `Measured neutrality`
+- `Genuine pathos`
+- `Vertical weight`
+- `Anvil-landing stress`
+- `Ironic gleam`
+- `Same refrain-tone, Ceremonial dryness→`
+- `Civic spectacle`
+- `Crowning image`
+- `Iron-loaded evidence, Knife-clean diction`
+- `Refrain consistency, Polite dryness→`
+- `Now faintly absurd, Maintain façade`
+- `Polite hollowness`
+- `Measured humility`
+- `Steady honesty, Warm vowels, Lament shading`
+- `Factual sincerity`
+- `Dropped trust in humanity, Darker timbre`
+- `Weight on moral decay`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Softer articulation, Gentle pacing`
+- `Refrain echo, Soft fall`
+- `Tender devotion`
+- `Legacy emphasis, Gentle fall`
+- `Soft promise, Tessitura↓, Tapered release`
+- `Reverent hush, Tessitura↓, Slower tempo`
+- `Gentle pride`
+- `Heroic context, Soft glow`
+- `Heavenly weight, Soft fall`
+- `Tender anguish`
+- `Tender hush, Tessitura↓`
+- `Soft imagery`
+- `Caressing address, Tessitura↓, Soft lilt`
+- `Gentle denial, Tessitura↓`
+- `Tender confession, Tessitura↓`
+- `Gentle fall`
+- `Triplet listing, Soft drop`
+- `Final clause, Gentle fall`
+- `Soft drop`
+- `Gentle affection, Slow vowels`
+- `Soft gravity, Emotional truth`
+- `Soft sincerity, Tessitura↓, Gentle pacing`
+- `Soft lament, Tessitura↓, Emotional memory`
+- `Gentle glide`
+- `Invitational question, Soft hand-gesture energy`
+- `Quiet verdict, Tessitura↓, Heavy`
+- `Personal plea, Lowest tessitura↓↓, Soft`
+- `Voice folding inward, Tessitura↓↓, Breath-laden`
+- `Soft fade, Emotional retreat`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Sincerity, Tessitura↓, Warming timbre`
+- `Funereal weight, Darker tone color`
+- `Somber closure, Breath release`
+- `Falling sorrow, Visual gesture to corpse`
+- `Hollow refrain echo`
+- `Imminent grief`
+- `Storytelling warmth, Tessitura↓`
+- `Shared ruin, Sighing descent`
+- `Inclusive collapse, Tessitura↓`
+- `Acknowledging tenderness, Tessitura↓`
+- `Soothing cadence, Tessitura↓, Rocking rhythm`
+- `Humility posture, Tessitura↓, Slight smile`
+- `Homey warmth, Tessitura↓, Chest resonance`
+- `Self-deprecation continues, Tessitura↓`
+- `Assumed limitation, Tessitura↓`
+- `Pitying sigh, Tessitura↓`
+- `Generous imagery, Tessitura↓, Relaxed pacing`
+- `Blue sincerity, Tessitura↓, Warmer timbre`
+- `Blue sincerity, Tessitura↓, Open vowels`
+- `Deep sincerity, Weighted pacing, Tessitura↓↓`
+- `Slow, grieving gesture toward the body`
+
+### Verdant Compassion — Nurturing kindness, warmth, and humane persuasion.
+Use the [Verdant Compassion](../vocal-energy/verdant-compassion.md) setup for these cues:
+
+- `Personal recollection, Warm drop`
+- `Blessing cadence`
+- `Appeal landing`
+- `Warm plaintive tone`
+
+### Celestial Awe — Devotional, visionary, and transcendent imagery.
+Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
+
+- `Holy horror, Resonant fall`
+

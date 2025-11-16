@@ -102,3 +102,28 @@ Performance Line
 **ToBI:** H*  !H%  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Childlike urgency, trembling breath`
+- `Crescendo of terror`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Pleading tremor`
+- `Fractured speech, halting breath`
+- `Panicked stream`
+- `Desperate demand`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Hushed confession, slow release`
+- `Soft instruction`
+

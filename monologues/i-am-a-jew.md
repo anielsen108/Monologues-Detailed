@@ -91,3 +91,26 @@ Performance Line
 
 **ToBI:** H*  L+H*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Hammered repetition, rising pitch`
+- `Rising cross-examination`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Bitter litany, building pressure`
+- `Low growl, dagger-like pacing`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Quick seesaw, tight smile`
+- `Cold logic into fierce conclusion`
+- `Ominous calm, steady breath`
+

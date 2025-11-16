@@ -247,3 +247,50 @@ Performance Line
 
 **ToBI:** H*  L-  L*  H*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Good-humored slap, ringing authority`
+- `Commanding breath`
+- `Measured drum`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Drumbeat snap`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Conspiratorial whisper`
+- `Playful rebuke`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Grave acceptance, mid tessitura`
+- `Laughing dismissal`
+- `Cold shoulder`
+- `Grandfatherly warmth`
+- `Pedagogic calm`
+- `Royal benediction`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Gentle sigh`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Heart-full cadence`
+
+### Verdant Compassion — Nurturing kindness, warmth, and humane persuasion.
+Use the [Verdant Compassion](../vocal-energy/verdant-compassion.md) setup for these cues:
+
+- `Storytelling glow`
+

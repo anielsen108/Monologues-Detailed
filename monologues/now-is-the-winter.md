@@ -506,3 +506,69 @@ Performance Line
 **ToBI:** H*  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Trumpeting inventory`
+- `Martial to convivial pivot`
+- `Triumphant sink`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Threat recalled with relish`
+- `Bored snarl`
+- `Blade-true vow`
+- `Venomous confession`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Sunlit sarcasm`
+- `Dancing irony`
+- `Mocking shift`
+- `Contemptuous scoff`
+- `Mock complaint`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Opening flourish, icy grandeur`
+- `Measured lament`
+- `Ceremonial ring`
+- `Armor being polished`
+- `Leering twist`
+- `Bawdy punch line`
+- `Mask cracks, acid self-intro`
+- `Self-loathing glide`
+- `Hammered consonants`
+- `Inventory of lacks`
+- `Sour accusation`
+- `Staccato self-hammering`
+- `Dragged entry`
+- `Curl of disdain`
+- `Snarling humor`
+- `Self-obsessed shrug`
+- `Gleeful self-satire`
+- `Icy rationale`
+- `Dismissive slide`
+- `Final scrape`
+- `Schemer’s relish`
+- `Sinister catalog`
+- `Needling the wedge`
+- `Poisonous relish`
+- `Feigning fairness`
+- `Impatient snap`
+- `Final snap to action`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Submerged hush`
+- `Whispered bait`
+

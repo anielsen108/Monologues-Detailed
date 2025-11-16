@@ -102,3 +102,32 @@ Performance Line
 **ToBI:** H*  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Journalistic fury`
+- `Voice cracking with remembered plea`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Measured irony`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Trembling restraint`
+- `Piercing question, narrow vibrato`
+- `Flat defiance`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Quiet intensity, clipped consonants`
+- `Soft but unyielding`
+

@@ -229,3 +229,51 @@ Performance Line
 
 **ToBI:** L+H*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Desperate command, expansive reach`
+- `Sudden hope, arms reaching skyward`
+- `Bell-like terror`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Panicked crescendo`
+- `Grotesque imagery, breathless`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Sobbing shout, crackling edges`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Resigned cadence, ticking hands`
+- `Horrified realization`
+- `Mountain-summoning roar`
+- `Wild pivot`
+- `Incantatory summons`
+- `Voice dissolving to mist`
+- `High keening`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Panicked whisper breaking into wail`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Begging sob, voice breaking`
+
+### Celestial Awe — Devotional, visionary, and transcendent imagery.
+Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
+
+- `Latin prayer, trembling vibrato`
+

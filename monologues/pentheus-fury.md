@@ -91,3 +91,35 @@ Performance Line
 **ToBI:** H*  !H%  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Royal command, lifted chin`
+- `Command bark`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Disgusted crescendo`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Snapping consonants, clipped pace`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Sneering skepticism`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Staccato orders, percussive chest`
+- `Determined resonance, lower register`
+

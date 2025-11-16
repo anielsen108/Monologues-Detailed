@@ -311,3 +311,52 @@ Performance Line
 **ToBI:** H*  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Trumpet-like bark, surging breath`
+- `Snarling command`
+- `Battle cry, wide vowels, bright brass`
+- `Hefting martial image`
+- `Snapped drill command`
+- `Resolute finish to the charge`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Driving the image home`
+- `Cresting lift`
+- `Storyteller’s swell`
+- `Model-setting urgency`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Dry, dangerous smile`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Contrasting softness, calming`
+- `Physical coaching`
+- `Predatory mask, pupils blazing`
+- `Piercing stare, focused breath`
+- `Wave-crash resonance`
+- `Contained tremor, sinews locked`
+- `Bloodline invocation`
+- `Rolling chronicle`
+- `Point-blank rebuke`
+- `Demand for proof`
+- `Grounded camaraderie`
+- `Electric imagery`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Somber awe`
+

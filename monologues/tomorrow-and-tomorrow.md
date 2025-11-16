@@ -133,3 +133,33 @@ Performance Line
 
 **ToBI:** L*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Swell to bitterness, cutting resonance`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Ashen retrospection, dim resonance`
+- `Slight expansion, bitter awe`
+- `Harsh articulation, clipped contempt`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Flat affect, hushed mezzo piano`
+- `Dragging phrase, breath barely moving`
+- `Measured glide, slight decrescendo`
+- `Dismissive fall, frayed patience`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Dust-choked drop`
+- `Hollow landing, breath spent`
+
