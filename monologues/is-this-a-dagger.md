@@ -224,12 +224,16 @@ Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Urgent reach, hissed consonants`
 - `Suppressed urgency`
+- `Murderous imagery surging`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Grim acceptance`
 - `Prayerful warning, solemn tolling`
+- `Spitting denial`
+- `Dark relish`
+- `Dark resolve`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -243,6 +247,7 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Chilled recitative`
 - `Resigned march`
 - `Forced logic, stern voice`
+- `Pivot to resolve`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -254,3 +259,20 @@ Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
 
 - `Shaken wonder`
 
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Hovering caution`
+- `Skeptical drop`
+
+### Umber Gravity — Judicial solemnity and burdened leadership.
+Use the [Umber Gravity](../vocal-energy/umber-gravity.md) setup for these cues:
+
+- `Fatalistic shrug`
+- `Tolling weight`
+- `Funeral cadence`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Horror dawning`

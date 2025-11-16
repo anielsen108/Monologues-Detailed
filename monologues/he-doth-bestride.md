@@ -182,6 +182,12 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Rhetorical pounding`
 - `Arms measuring a city’s breadth`
 - `Provocative questioning, sharp consonants`
+- `Challenge`
+
+### Gold Triumph — Victorious sheen and celebratory thunder.
+Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
+
+- `Triumphant finish`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
@@ -193,6 +199,7 @@ Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Sardonic hush, dark relish`
+- `Grim pronouncement`
 
 ### Amber Irony — Wry, sardonic, or subversively playful edges.
 Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
@@ -211,4 +218,19 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Sudden drop to a cold whisper`
+
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Steel in the whisper`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Lamenting cry`
+
+### Graphite Cynicism — Dry wit and acid skepticism.
+Use the [Graphite Cynicism](../vocal-energy/graphite-cynicism.md) setup for these cues:
+
+- `Bewildered disgust`
 

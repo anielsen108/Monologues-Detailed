@@ -165,6 +165,11 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Tight throat`
 - `Resolute inhale`
 - `Fatalistic calm`
+- `Shaken pride`
+- `Quiet accusation`
+- `Fearful caveat`
+- `Unsteady courage`
+- `Steeled conclusion`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -174,3 +179,20 @@ Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cu
 - `Paranoid murmur`
 - `Raw plea`
 
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Mimicked warning`
+- `Implied collapse`
+
+### Emerald Hope — Life-affirming persuasion and patient optimism.
+Use the [Emerald Hope](../vocal-energy/emerald-hope.md) setup for these cues:
+
+- `Bittersweet awe`
+- `Hope rekindled`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Grinding remorse`
+- `Hollow drop`

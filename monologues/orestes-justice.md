@@ -112,6 +112,9 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Dark question, guttural resonance`
 - `Prophetic warning`
+- `Inner fire`
+- `Jagged warning`
+- `Defiant close`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -121,9 +124,17 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Oracle echo`
 - `Ominous reminder`
 - `Prayerful incantation`
+- `Grim observation`
+- `Tense justification`
+- `Accusation`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Prayerful plea, breathy softness`
+- `Hope against dread`
 
+### Cerulean Faith — Avowed trust and patient belief.
+Use the [Cerulean Faith](../vocal-energy/cerulean-faith.md) setup for these cues:
+
+- `Sacral assurance`

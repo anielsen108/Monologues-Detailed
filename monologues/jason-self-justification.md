@@ -122,11 +122,13 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
 
 - `Cold ultimatum`
+- `Final accusation`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Condescending promise, bright smile`
+- `Self-congratulation`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -137,9 +139,22 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Light rebuke`
 - `Self-martyring tone`
 - `Reasonable persuasion curdling to contempt`
+- `Matter-of-fact close`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Gentle reproach, clipped consonants`
+
+### Magenta Seduction — Velvet allure and dangerous charm.
+Use the [Magenta Seduction](../vocal-energy/magenta-seduction.md) setup for these cues:
+
+- `Painted promise`
+- `Alluring finish`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Accusatory memory`
+- `Scathing finale`
 

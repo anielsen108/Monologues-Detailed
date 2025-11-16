@@ -138,12 +138,19 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Logic trap, catlike amusement`
 - `Dark delight, steady tempo`
+- `Twisted payoff`
+- `Expanding snare`
+- `Grim implication`
+- `Predator’s smile`
+- `Blasphemous relish`
+- `Cruel twist`
 
 ### Amber Irony — Wry, sardonic, or subversively playful edges.
 Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Mocking softness`
 - `Mock innocence`
+- `Sensual sneer`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -152,4 +159,5 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Clinical appraisal`
 - `Feigning virtue, sudden exultation`
 - `Cold calculation`
+- `Silky reasoning`
 

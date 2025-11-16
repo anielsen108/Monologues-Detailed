@@ -100,6 +100,13 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
 
 - `Ultimatum hiss`
+- `Boastful protest`
+- `Ultimatum`
+
+### Gold Triumph — Victorious sheen and celebratory thunder.
+Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
+
+- `Swaggering finish`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
@@ -110,6 +117,7 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Mocking mimicry into proud claim`
+- `Sting`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -122,4 +130,9 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Slow confession`
+
+### Sienna Earthiness — Rugged authenticity and soil-rich storytelling.
+Use the [Sienna Earthiness](../vocal-energy/sienna-earthiness.md) setup for these cues:
+
+- `Childhood hunger`
 

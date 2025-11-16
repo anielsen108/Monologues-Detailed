@@ -124,10 +124,29 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Trembling restraint`
 - `Piercing question, narrow vibrato`
 - `Flat defiance`
+- `Condemning the bargain`
+- `Flat demand`
+- `Final firmness`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Quiet intensity, clipped consonants`
 - `Soft but unyielding`
+
+### Graphite Cynicism — Dry wit and acid skepticism.
+Use the [Graphite Cynicism](../vocal-energy/graphite-cynicism.md) setup for these cues:
+
+- `Resigned disgust`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Voice breaking`
+- `Bitter close`
+
+### Rose Devotion — Romantic pledge and vow-laden ardor.
+Use the [Rose Devotion](../vocal-energy/rose-devotion.md) setup for these cues:
+
+- `Quiet loyalty`
 

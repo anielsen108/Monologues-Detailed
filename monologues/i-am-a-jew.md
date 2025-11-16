@@ -99,13 +99,13 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Hammered repetition, rising pitch`
-- `Rising cross-examination`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Bitter litany, building pressure`
 - `Low growl, dagger-like pacing`
+- `Rising menace`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -113,4 +113,18 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Quick seesaw, tight smile`
 - `Cold logic into fierce conclusion`
 - `Ominous calm, steady breath`
+- `Inventory of wrongs`
+- `Driving to verdict`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Sarcastic lightness`
+
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Rising cross-examination`
+- `Machine-gun questions`
+- `Mirror threat`
 

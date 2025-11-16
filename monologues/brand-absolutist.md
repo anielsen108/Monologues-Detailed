@@ -135,6 +135,9 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 ### Crimson Command — Fiery civic authority and battle-ready proclamations.
 Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
 
+- `Harsh decree`
+- `Hammer blow`
+- `Ultimatum`
 - `Clarion opening, ringing vibrato`
 - `Stone-hard cadence`
 - `Trumpeting decree`
@@ -143,6 +146,12 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Scornful warning, then rapturous lift`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Scathing pronouncement`
+- `Chainsaw cadence`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -153,8 +162,20 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Relentless escalation`
 - `Apocalyptic image, booming resonance`
 
+### Umber Gravity — Judicial solemnity and burdened leadership.
+Use the [Umber Gravity](../vocal-energy/umber-gravity.md) setup for these cues:
+
+- `Icy hush`
+- `Sacred seal`
+
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Wind-bitten whisper`
+
+### Celestial Awe — Devotional, visionary, and transcendent imagery.
+Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
+
+- `Vision of surrender`
+- `Sacrificial finish`
 

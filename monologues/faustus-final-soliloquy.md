@@ -239,6 +239,7 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Desperate command, expansive reach`
 - `Sudden hope, arms reaching skyward`
 - `Bell-like terror`
+- `Urgent command`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
@@ -261,6 +262,7 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Incantatory summons`
 - `Voice dissolving to mist`
 - `High keening`
+- `Flat doom`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -271,9 +273,38 @@ Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cu
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 
 - `Begging sob, voice breaking`
+- `Choking dread`
+- `Faltering plea`
+- `Self-reproach collapsing into plea`
+- `Crushed plea`
+- `Crushed despair`
+- `Vanishing sigh`
 
 ### Celestial Awe — Devotional, visionary, and transcendent imagery.
 Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
 
 - `Latin prayer, trembling vibrato`
+- `Ecstatic vision`
+
+### Azure Surrender — Soft capitulation and humbled realization.
+Use the [Azure Surrender](../vocal-energy/azure-surrender.md) setup for these cues:
+
+- `Supplicant fall`
+
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Cowering detail`
+
+### Emerald Hope — Life-affirming persuasion and patient optimism.
+Use the [Emerald Hope](../vocal-energy/emerald-hope.md) setup for these cues:
+
+- `Yearning escape`
+- `Final wistful hope`
+
+### Vermilion Alarm — Emergency flare and siren-call warning.
+Use the [Vermilion Alarm](../vocal-energy/vermilion-alarm.md) setup for these cues:
+
+- `Fragmented terror`
+- `Childlike cry`
 

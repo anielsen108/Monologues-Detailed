@@ -286,6 +286,11 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Bitter inventory, clipped consonants`
 - `Bitter scoff`
+- `Counterproposal, steely lift`
+- `Sudden spark, tension spike`
+- `Sharp warning`
+- `Cutting edge`
+- `Laboring breath`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -300,6 +305,22 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Flat resignation`
 - `Bleached timbre`
 - `Sudden softness`
+- `Tiny swell, think-aloud cadence`
+- `Inward focus, even descent`
+- `Softening exhale`
+- `Release fantasy`
+- `Prayerful hush`
+- `Weighty cadence`
+- `Grim conclusion`
+- `Sour ache`
+- `Wearied sigh`
+- `Far-off horizon`
+- `Knotted cadence`
+- `Skeptical rise`
+- `Sighing admission`
+- `Sour fade`
+- `Downslope`
+- `Flat ending`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -308,6 +329,7 @@ Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cu
 - `Soft dread, widening vowels`
 - `Incredulous whisper`
 - `Quavering hush`
+- `Tender supplication`
 
 ### Violet Lament — Grief, mourning, and exhausted sorrow.
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:

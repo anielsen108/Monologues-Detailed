@@ -107,23 +107,34 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Vermilion Alarm — Emergency flare and siren-call warning.
+Use the [Vermilion Alarm](../vocal-energy/vermilion-alarm.md) setup for these cues:
 
 - `Childlike urgency, trembling breath`
+- `Panicked stream`
+- `Desperate demand`
 - `Crescendo of terror`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 
 - `Pleading tremor`
 - `Fractured speech, halting breath`
-- `Panicked stream`
-- `Desperate demand`
+- `Sobbing fear`
+- `Final plea`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Jade Mercy — Therapeutic calm and healing touch.
+Use the [Jade Mercy](../vocal-energy/jade-mercy.md) setup for these cues:
 
 - `Hushed confession, slow release`
+- `Euphemistic code`
 - `Soft instruction`
+- `Insistent bargaining`
+- `Quiet reminder`
+- `Confused sensations`
+
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
+
+- `Paranoid confusion`
 

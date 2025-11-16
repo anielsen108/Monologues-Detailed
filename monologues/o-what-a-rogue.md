@@ -183,16 +183,22 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Rolling excitement, quick crescendo`
+- `Trap snapping shut`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Admiring fury`
+- `Bitter crunch`
+- `Self-aimed dagger`
+- `Self-scorn`
+- `Volcanic self-censure`
 
 ### Amber Irony — Wry, sardonic, or subversively playful edges.
 Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Conspiratorial hush, rapid syllables`
+- `Scoffing crescendo`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -201,9 +207,20 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Scathing curiosity, pacing prowl`
 - `Self-mockery to plan`
 - `Analytical coolness returning`
+- `Pointed gesture`
+- `Resolve thickening`
+- `Final emphasis`
+- `Quick pivot`
+- `Clipped finale`
+- `Moral verdict`
 
 ### Celestial Awe — Devotional, visionary, and transcendent imagery.
 Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
 
 - `Hypothetical awe`
+
+### Rose Devotion — Romantic pledge and vow-laden ardor.
+Use the [Rose Devotion](../vocal-energy/rose-devotion.md) setup for these cues:
+
+- `Quiet vow`
 
