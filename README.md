@@ -1,3 +1,7 @@
+## Vocal Energy Resources
+
+- [Vocal Energy Guide](vocal-energy/README.md)
+
 # Monologues-Detailed
 
 Theatrical monologues marked up with detailed IPA, intention, and prosody.

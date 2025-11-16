@@ -58,3 +58,19 @@ Performance Line
 
 **ToBI:** H-  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Spitting consonants, high pitch`
+- `Staccato condemnation`
+- `Steel-cold command`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Victimizing tone`
+

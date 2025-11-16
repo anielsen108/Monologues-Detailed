@@ -215,3 +215,42 @@ Performance Line
 
 **ToBI:** H*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Urgent reach, hissed consonants`
+- `Suppressed urgency`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Grim acceptance`
+- `Prayerful warning, solemn tolling`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Breath-led incredulity`
+- `Beseeching the apparition`
+- `Probing for proof`
+- `Naming the fear`
+- `Dread confirmation`
+- `Uneasy laugh`
+- `Chilled recitative`
+- `Resigned march`
+- `Forced logic, stern voice`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Amazed hush`
+
+### Celestial Awe — Devotional, visionary, and transcendent imagery.
+Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
+
+- `Shaken wonder`
+

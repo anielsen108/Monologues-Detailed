@@ -157,3 +157,44 @@ Performance Line
 
 **ToBI:** H*  L-L%
 
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Public proclamation, voice booming`
+- `Short bark, incredulous`
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Explosive accusation`
+- `Pounding fists`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Chilled dread, then bitter mimicry`
+- `Plaintive ache shifting to rage`
+- `Low snarl, steady tempo`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Frantic pacing, brittle consonants`
+- `Rapid-fire accusations`
+- `Intense metaphor, clipped vowels`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Quiet dare`
+- `Voice hollowing with hurt`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Listing despair`
+

@@ -270,3 +270,47 @@ Performance Line
 **ToBI:** H* !H%  L-L%
 
 ---
+
+## Vocal Energy Guidance
+
+Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
+
+### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
+Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+
+- `Rising frustration`
+- `Once-hopeful surge, now slumping`
+
+### Obsidian Fury — Menace, vengeance, and smoldering rage.
+Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
+
+- `Bitter inventory, clipped consonants`
+- `Bitter scoff`
+
+### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
+Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+
+- `Glassine stillness, narrow vibrato, philosophical register`
+- `Measured trochee, moral calculus, suspended breath`
+- `Resolute push`
+- `Velvet darkness, breath-heavy legato`
+- `Measured logic`
+- `Clipped litany`
+- `Dragged rhythm`
+- `Flat resignation`
+- `Bleached timbre`
+- `Sudden softness`
+
+### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
+Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+
+- `Gentle persuasion`
+- `Soft dread, widening vowels`
+- `Incredulous whisper`
+- `Quavering hush`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Self-accusation, tightening support, falling tessitura`
+
