@@ -68,9 +68,11 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Spitting consonants, high pitch`
 - `Staccato condemnation`
 - `Steel-cold command`
+- `Sharp demand`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
 
 - `Victimizing tone`
+- `Image-obsessed finale`
 

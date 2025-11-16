@@ -134,4 +134,12 @@ Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cu
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 
 - `Uneasy humor turning hollow`
+- `Sudden drop`
+- `Self-indictment`
+- `Bitter insight`
 
+### Emerald Hope — Life-affirming persuasion and patient optimism.
+Use the [Emerald Hope](../vocal-energy/emerald-hope.md) setup for these cues:
+
+- `Fragile hope`
+- `Last wish`

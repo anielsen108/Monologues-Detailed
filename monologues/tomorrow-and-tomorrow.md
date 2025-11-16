@@ -156,10 +156,12 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Dragging phrase, breath barely moving`
 - `Measured glide, slight decrescendo`
 - `Dismissive fall, frayed patience`
+- `Storybook hush`
 
 ### Violet Lament — Grief, mourning, and exhausted sorrow.
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 
 - `Dust-choked drop`
 - `Hollow landing, breath spent`
+- `Whispered horizon`
 

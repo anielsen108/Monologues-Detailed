@@ -111,6 +111,7 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Harsh bravado masking shame`
+- `Desperate instruction`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -121,9 +122,20 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Half-delirious argument collapsing`
 - `Raw honesty`
 - `Resigned resolve`
+- `Defensive pride`
+- `Cold credo`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Low confession, eyes down`
+- `Bare admission`
+- `Surrendered cadence`
+- `Quiet certainty`
+
+### Violet Lament — Grief, mourning, and exhausted sorrow.
+Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
+
+- `Self-disgust`
+- `Sudden self-accusation`
 

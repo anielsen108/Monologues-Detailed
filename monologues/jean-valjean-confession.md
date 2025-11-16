@@ -111,6 +111,8 @@ Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectru
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Breathless crescendo`
+- `Surge of urgency`
+- `Desperate tumble`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -121,9 +123,19 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Measured confession`
 - `Humble recollection`
 - `Steeled offering`
+- `Grim revelation`
+- `Moral verdict`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Haunted whisper, trembling support`
+
+### Jade Mercy — Therapeutic calm and healing touch.
+Use the [Jade Mercy](../vocal-energy/jade-mercy.md) setup for these cues:
+
+- `Yielding authority`
+- `Soft release`
+- `Soft gratitude`
+- `Final surrender`
 

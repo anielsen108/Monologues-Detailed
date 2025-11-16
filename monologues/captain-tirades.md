@@ -166,12 +166,20 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 
 - `Public proclamation, voice booming`
 - `Short bark, incredulous`
+- `Accusing finger`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Explosive accusation`
 - `Pounding fists`
+- `Building fury`
+
+### Amber Irony — Wry, sardonic, or subversively playful edges.
+Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+
+- `Mocking the crowd`
+- `Contemptuous snap`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
@@ -179,6 +187,11 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Chilled dread, then bitter mimicry`
 - `Plaintive ache shifting to rage`
 - `Low snarl, steady tempo`
+- `Voice cracking`
+- `Protective growl`
+- `Spat finish`
+- `Visceral exposure`
+- `Deadly vow`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:

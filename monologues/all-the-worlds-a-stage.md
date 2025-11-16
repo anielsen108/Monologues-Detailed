@@ -198,6 +198,11 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Playful cadence, small gesture`
 - `Teasing affection`
+- `Inclusive shrug`
+- `Comic shiver`
+- `Mocking flourish`
+- `Cresting bravado`
+- `Thin reediness`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -207,6 +212,13 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Portly assurance`
 - `Curt nod, closing cadence`
 - `Creaking tone`
+
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
+
+- `Drawn-out gait`
+- `Pedantic cadence`
+- `Fussy detail`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -220,4 +232,6 @@ Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cu
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 
 - `Hollow wobble`
+- `Storybook cadence`
+- `Fade to nothing`
 

@@ -130,27 +130,40 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Peach Consolation — Sunlit comfort and patient reassurance.
+Use the [Peach Consolation](../vocal-energy/peach-consolation.md) setup for these cues:
 
-- `Rising suspicion, pinched vowels`
+- `Relaxed, indulgent tone`
+- `Half-laughing`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
-- `Warning hush, narrowing eyes`
 - `Low growl, final emphasis`
 - `Warning growl`
+
+### Crimson Command — Fiery civic authority and battle-ready proclamations.
+Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+
+- `Forced bravado`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
 
-- `Relaxed, indulgent tone`
-- `Forced bravado`
+- `Blunt verdict`
+- `Measured caution`
+- `Pointed close`
 - `Self-mythologizing`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Jet Suspicion — Interrogative darkness and vigilant mistrust.
+Use the [Jet Suspicion](../vocal-energy/jet-suspicion.md) setup for these cues:
 
+- `Warning hush, narrowing eyes`
+- `Rising suspicion, pinched vowels`
+- `Clinical inventory, thin breath`
+- `Disparaging aside, dismissive flick`
+- `Dry condemnation`
+- `Grave conclusion`
 - `Quiet loathing, lip curl`
+- `Confiding aside, lowered tessitura`
 

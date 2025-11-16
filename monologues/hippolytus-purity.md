@@ -145,15 +145,23 @@ Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
 
 - `Didactic flare`
 
+### Gold Triumph — Victorious sheen and celebratory thunder.
+Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
+
+- `Proud hush`
+
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Snapping retort`
+- `Scorn for Aphrodite`
+- `Iron-bar finish`
 
 ### Amber Irony — Wry, sardonic, or subversively playful edges.
 Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Mocking the masses`
+- `Dismissive close`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -162,6 +170,7 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Frosted breath`
 - `Disdainful drawl, eyebrow raised`
 - `Visceral gesture`
+- `Measured disdain`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
@@ -174,4 +183,12 @@ Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
 
 - `Reverent resonance, lifted vowels`
 - `Heroic tilt, final flourish`
+- `Devotional cadence`
+
+### Rose Devotion — Romantic pledge and vow-laden ardor.
+Use the [Rose Devotion](../vocal-energy/rose-devotion.md) setup for these cues:
+
+- `Pledged surrender`
+- `Final oath`
+- `Soft vow`
 

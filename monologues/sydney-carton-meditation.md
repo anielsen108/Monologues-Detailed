@@ -74,3 +74,10 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Measured cadence, moral certainty`
 - `Pillowy descent, exhale`
 
+### Azure Surrender — Soft capitulation and humbled realization.
+Use the [Azure Surrender](../vocal-energy/azure-surrender.md) setup for these cues:
+
+- `Gentle resolve`
+- `Settled cadence`
+- `Peaceful landing`
+

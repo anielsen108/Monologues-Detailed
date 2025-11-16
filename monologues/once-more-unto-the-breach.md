@@ -325,6 +325,9 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Hefting martial image`
 - `Snapped drill command`
 - `Resolute finish to the charge`
+- `Predatory snap`
+- `Relentless cadence`
+- `Final command`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
@@ -354,6 +357,9 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Demand for proof`
 - `Grounded camaraderie`
 - `Electric imagery`
+- `Grim option`
+- `Measured counsel`
+- `Assuring finish`
 
 ### Violet Lament — Grief, mourning, and exhausted sorrow.
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:

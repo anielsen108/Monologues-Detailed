@@ -257,6 +257,7 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Good-humored slap, ringing authority`
 - `Commanding breath`
 - `Measured drum`
+- `Scalding verdict`
 
 ### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
 Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
@@ -268,6 +269,24 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Conspiratorial whisper`
 - `Playful rebuke`
+- `Playful flourish`
+- `Dismissive flick`
+- `Final tap`
+
+### Gold Triumph — Victorious sheen and celebratory thunder.
+Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
+
+- `Triumphant pivot`
+- `Bright confession`
+- `Proud prophecy`
+- `Festive toast`
+- `Childlike excitement`
+- `Proud reveal`
+- `Spark of pride`
+- `Effervescent close`
+- `Expansive reach`
+- `Wide sweep`
+- `Echoing finish`
 
 ### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
 Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
@@ -278,11 +297,23 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Grandfatherly warmth`
 - `Pedagogic calm`
 - `Royal benediction`
+- `Firm logic`
+- `Friendly but firm`
+- `Firm renunciation`
+- `Steady oath`
+- `Counting on fingers`
+- `Testing courage`
+- `Quiet steel`
+- `Stately list`
+- `Steady promise`
+- `Masculine standard`
 
 ### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
 Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
 
 - `Gentle sigh`
+- `Urgent hush`
+- `Intimate promise`
 
 ### Violet Lament — Grief, mourning, and exhausted sorrow.
 Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
@@ -293,4 +324,13 @@ Use the [Violet Lament](../vocal-energy/violet-lament.md) setup for these cues:
 Use the [Verdant Compassion](../vocal-energy/verdant-compassion.md) setup for these cues:
 
 - `Storytelling glow`
+- `Open-handed shrug`
+- `Offhand wave`
+- `Dry generosity`
+
+### Celestial Awe — Devotional, visionary, and transcendent imagery.
+Use the [Celestial Awe](../vocal-energy/celestial-awe.md) setup for these cues:
+
+- `Soft awe`
+- `Soft eternity`
 
