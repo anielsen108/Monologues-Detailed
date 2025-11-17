@@ -96,8 +96,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Garnet Defiance — Rebellious fire and warrior refusal.
+Use the [Garnet Defiance](../vocal-energy/garnet-defiance.md) setup for these cues:
 
 - `Ultimatum hiss`
 - `Boastful protest`
@@ -119,15 +119,15 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Mocking mimicry into proud claim`
 - `Sting`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Polite tone masking bitterness`
 - `Sharpened consonants`
 - `Salesman brightness`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Slow confession`
 

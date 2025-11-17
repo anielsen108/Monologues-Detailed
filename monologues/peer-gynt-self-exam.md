@@ -107,8 +107,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Copper Tenacity — Gritty persistence and grounded resolve.
+Use the [Copper Tenacity](../vocal-energy/copper-tenacity.md) setup for these cues:
 
 - `Urgent bargaining`
 
@@ -117,14 +117,14 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Bitter irony, metallic timbre`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Mauve Nostalgia — Faded romance and bittersweet memory.
+Use the [Mauve Nostalgia](../vocal-energy/mauve-nostalgia.md) setup for these cues:
 
 - `Pleading, softened consonants`
 - `Nostalgic ache`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Hopeful whisper`
 - `Weary confession`

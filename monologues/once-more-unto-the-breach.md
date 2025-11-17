@@ -316,8 +316,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Navy Discipline — Military cadence and stoic command.
+Use the [Navy Discipline](../vocal-energy/navy-discipline.md) setup for these cues:
 
 - `Trumpet-like bark, surging breath`
 - `Snarling command`
@@ -329,8 +329,8 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Relentless cadence`
 - `Final command`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Topaz Courage — Trailblazing resolve and fearless encouragement.
+Use the [Topaz Courage](../vocal-energy/topaz-courage.md) setup for these cues:
 
 - `Driving the image home`
 - `Cresting lift`
@@ -342,8 +342,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Dry, dangerous smile`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Teal Balance — Mediating poise and restorative negotiation.
+Use the [Teal Balance](../vocal-energy/teal-balance.md) setup for these cues:
 
 - `Contrasting softness, calming`
 - `Physical coaching`

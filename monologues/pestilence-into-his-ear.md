@@ -145,15 +145,15 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Blasphemous relish`
 - `Cruel twist`
 
-### Amber Irony — Wry, sardonic, or subversively playful edges.
-Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
+### Saffron Mischief — Trickster pranks and irreverent delight.
+Use the [Saffron Mischief](../vocal-energy/saffron-mischief.md) setup for these cues:
 
 - `Mocking softness`
 - `Mock innocence`
 - `Sensual sneer`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Serpentine glide, sibilant emphasis`
 - `Clinical appraisal`

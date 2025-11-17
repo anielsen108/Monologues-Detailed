@@ -275,8 +275,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Copper Tenacity — Gritty persistence and grounded resolve.
+Use the [Copper Tenacity](../vocal-energy/copper-tenacity.md) setup for these cues:
 
 - `Rising frustration`
 - `Once-hopeful surge, now slumping`
@@ -292,8 +292,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Cutting edge`
 - `Laboring breath`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Quartz Stillness — Meditative pause and crystalline suspension.
+Use the [Quartz Stillness](../vocal-energy/quartz-stillness.md) setup for these cues:
 
 - `Glassine stillness, narrow vibrato, philosophical register`
 - `Measured trochee, moral calculus, suspended breath`
@@ -322,8 +322,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Downslope`
 - `Flat ending`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Gentle persuasion`
 - `Soft dread, widening vowels`

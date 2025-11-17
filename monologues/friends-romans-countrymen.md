@@ -1844,8 +1844,8 @@ L+H*  H-  L-L%
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Authority, High-tessitura↑, Forward resonance`
 - `Public-address clarity, Metallic edge, No warmth`
@@ -1863,8 +1863,8 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Counting cadence, Tessitura↗, Clear numerals`
 - `Triumphant cry, Tessitura↗↗, Vibrant`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Knife-thin irony, Bright pitch on key word`
 - `Forensic tone, High tessitura↑, Crisp diction`
@@ -1973,8 +1973,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Dry, skeptical upturn`
 - `Brittle politeness`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Civic invocation, Sustained height, Even breath`
 - `Formal neutrality, High but calm, Tight onset`

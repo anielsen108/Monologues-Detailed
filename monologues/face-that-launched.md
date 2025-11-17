@@ -133,8 +133,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Fuchsia Flirtation — Cat-and-mouse teasing and electric attraction.
+Use the [Fuchsia Flirtation](../vocal-energy/fuchsia-flirtation.md) setup for these cues:
 
 - `Ecstatic rush`
 - `Breathless invocation`
@@ -145,8 +145,8 @@ Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
 - `Role-playing bravado`
 - `Boastful fantasy, swelling chest`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Periwinkle Wonder — Childlike marvel and whispered discovery.
+Use the [Periwinkle Wonder](../vocal-energy/periwinkle-wonder.md) setup for these cues:
 
 - `Soft marvel, suspended breath`
 - `Voluptuous whisper`

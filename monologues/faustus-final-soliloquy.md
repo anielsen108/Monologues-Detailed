@@ -233,16 +233,16 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Desperate command, expansive reach`
 - `Sudden hope, arms reaching skyward`
 - `Bell-like terror`
 - `Urgent command`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Panicked crescendo`
 - `Grotesque imagery, breathless`
@@ -252,8 +252,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 
 - `Sobbing shout, crackling edges`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Indigo Prophecy — Oracular calm and trance-like vision.
+Use the [Indigo Prophecy](../vocal-energy/indigo-prophecy.md) setup for these cues:
 
 - `Resigned cadence, ticking hands`
 - `Horrified realization`

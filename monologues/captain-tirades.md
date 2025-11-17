@@ -161,15 +161,15 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Public proclamation, voice booming`
 - `Short bark, incredulous`
 - `Accusing finger`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Garnet Defiance — Rebellious fire and warrior refusal.
+Use the [Garnet Defiance](../vocal-energy/garnet-defiance.md) setup for these cues:
 
 - `Explosive accusation`
 - `Pounding fists`
@@ -193,15 +193,15 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Visceral exposure`
 - `Deadly vow`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Frantic pacing, brittle consonants`
 - `Rapid-fire accusations`
 - `Intense metaphor, clipped vowels`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Quiet dare`
 - `Voice hollowing with hurt`

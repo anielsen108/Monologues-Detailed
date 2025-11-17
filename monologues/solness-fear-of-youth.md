@@ -150,13 +150,13 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Topaz Courage — Trailblazing resolve and fearless encouragement.
+Use the [Topaz Courage](../vocal-energy/topaz-courage.md) setup for these cues:
 
 - `Fervent swell`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Half-smile, shaking undertone`
 - `Imagistic resignation`
@@ -171,8 +171,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Unsteady courage`
 - `Steeled conclusion`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Wine Reckoning — Confessional intoxication and midnight truth.
+Use the [Wine Reckoning](../vocal-energy/wine-reckoning.md) setup for these cues:
 
 - `Haunted confession`
 - `Challenging whisper`

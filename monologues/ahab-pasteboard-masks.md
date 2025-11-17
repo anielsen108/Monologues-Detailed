@@ -119,21 +119,21 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Garnet Defiance — Rebellious fire and warrior refusal.
+Use the [Garnet Defiance](../vocal-energy/garnet-defiance.md) setup for these cues:
 
 - `Explosive imperative`
 - `Battle vow`
 - `Preacher’s thunder, rhythmic emphasis`
 - `Mocking challenge, chin lifted`
-- `Wild exaltation, rolling thunder`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Driving logic, knuckles rapping the air`
 - `Charged lunge, shoulders pitching forward`
 - `Defiant crescendo`
+- `Wild exaltation, rolling thunder`
 
 ### Obsidian Fury — Menace, vengeance, and smoldering rage.
 Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
@@ -145,8 +145,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Spitting venom`
 - `Ragged determination`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Wine Reckoning — Confessional intoxication and midnight truth.
+Use the [Wine Reckoning](../vocal-energy/wine-reckoning.md) setup for these cues:
 
 - `Conflicted murmur`
 

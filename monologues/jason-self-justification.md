@@ -118,20 +118,20 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Navy Discipline — Military cadence and stoic command.
+Use the [Navy Discipline](../vocal-energy/navy-discipline.md) setup for these cues:
 
 - `Cold ultimatum`
 - `Final accusation`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Saffron Mischief — Trickster pranks and irreverent delight.
+Use the [Saffron Mischief](../vocal-energy/saffron-mischief.md) setup for these cues:
 
 - `Condescending promise, bright smile`
 - `Self-congratulation`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Calm cadence, hands open`
 - `Persuasive warmth, low vibrato`
@@ -141,8 +141,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Reasonable persuasion curdling to contempt`
 - `Matter-of-fact close`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Mint Reassurance — Fresh calm and restorative cool.
+Use the [Mint Reassurance](../vocal-energy/mint-reassurance.md) setup for these cues:
 
 - `Gentle reproach, clipped consonants`
 

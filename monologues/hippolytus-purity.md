@@ -140,8 +140,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Topaz Courage — Trailblazing resolve and fearless encouragement.
+Use the [Topaz Courage](../vocal-energy/topaz-courage.md) setup for these cues:
 
 - `Didactic flare`
 
@@ -163,8 +163,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Mocking the masses`
 - `Dismissive close`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Ivory Clarity — Crisp reason and transparent conscience.
+Use the [Ivory Clarity](../vocal-energy/ivory-clarity.md) setup for these cues:
 
 - `Crisp severity`
 - `Frosted breath`
@@ -172,8 +172,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Visceral gesture`
 - `Measured disdain`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Cerulean Faith — Avowed trust and patient belief.
+Use the [Cerulean Faith](../vocal-energy/cerulean-faith.md) setup for these cues:
 
 - `Supplicant pride`
 - `Quiet invocation`
