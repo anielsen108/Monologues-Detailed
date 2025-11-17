@@ -95,8 +95,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Copper Tenacity — Gritty persistence and grounded resolve.
+Use the [Copper Tenacity](../vocal-energy/copper-tenacity.md) setup for these cues:
 
 - `Hammered repetition, rising pitch`
 
@@ -107,8 +107,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Low growl, dagger-like pacing`
 - `Rising menace`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Ivory Clarity — Crisp reason and transparent conscience.
+Use the [Ivory Clarity](../vocal-energy/ivory-clarity.md) setup for these cues:
 
 - `Quick seesaw, tight smile`
 - `Cold logic into fierce conclusion`

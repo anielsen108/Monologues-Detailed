@@ -137,8 +137,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Graphite Cynicism — Dry wit and acid skepticism.
+Use the [Graphite Cynicism](../vocal-energy/graphite-cynicism.md) setup for these cues:
 
 - `Swell to bitterness, cutting resonance`
 
@@ -149,8 +149,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Slight expansion, bitter awe`
 - `Harsh articulation, clipped contempt`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Quartz Stillness — Meditative pause and crystalline suspension.
+Use the [Quartz Stillness](../vocal-energy/quartz-stillness.md) setup for these cues:
 
 - `Flat affect, hushed mezzo piano`
 - `Dragging phrase, breath barely moving`

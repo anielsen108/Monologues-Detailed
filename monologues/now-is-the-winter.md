@@ -511,8 +511,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Trumpeting inventory`
 - `Martial to convivial pivot`
@@ -535,8 +535,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Contemptuous scoff`
 - `Mock complaint`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Graphite Cynicism — Dry wit and acid skepticism.
+Use the [Graphite Cynicism](../vocal-energy/graphite-cynicism.md) setup for these cues:
 
 - `Opening flourish, icy grandeur`
 - `Measured lament`

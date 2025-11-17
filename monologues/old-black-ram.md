@@ -134,15 +134,15 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Jeering sermon`
 - `Commanding bark`
 - `Command slap`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Vermilion Alarm — Emergency flare and siren-call warning.
+Use the [Vermilion Alarm](../vocal-energy/vermilion-alarm.md) setup for these cues:
 
 - `Staccato pounding on the door`
 - `Rhythmic gallop`
@@ -159,8 +159,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Mocking punchline`
 - `Lewd relish`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Graphite Cynicism — Dry wit and acid skepticism.
+Use the [Graphite Cynicism](../vocal-energy/graphite-cynicism.md) setup for these cues:
 
 - `Rapid knocks, gleeful malice`
 - `Faux outrage, relentless pace`

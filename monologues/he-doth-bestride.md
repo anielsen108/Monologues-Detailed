@@ -176,8 +176,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Garnet Defiance — Rebellious fire and warrior refusal.
+Use the [Garnet Defiance](../vocal-energy/garnet-defiance.md) setup for these cues:
 
 - `Rhetorical pounding`
 - `Arms measuring a city’s breadth`
@@ -189,8 +189,8 @@ Use the [Gold Triumph](../vocal-energy/gold-triumph.md) setup for these cues:
 
 - `Triumphant finish`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Coral Encouragement — Warm coaching and supportive buoyancy.
+Use the [Coral Encouragement](../vocal-energy/coral-encouragement.md) setup for these cues:
 
 - `Measured logic, coaxing pride`
 - `Intimate address, coaxing warmth`
@@ -208,14 +208,14 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Mock invocation, swelling outrage`
 - `Soft, conspiratorial tone`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Expansive gesture, smoldering jealousy`
 - `Cramped mime of ducking`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Charcoal Intimidation — Calculated menace delivered in cold restraint.
+Use the [Charcoal Intimidation](../vocal-energy/charcoal-intimidation.md) setup for these cues:
 
 - `Sudden drop to a cold whisper`
 

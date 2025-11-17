@@ -107,27 +107,31 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Topaz Courage — Trailblazing resolve and fearless encouragement.
+Use the [Topaz Courage](../vocal-energy/topaz-courage.md) setup for these cues:
 
 - `Breathless crescendo`
 - `Surge of urgency`
 - `Desperate tumble`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Ivory Clarity — Crisp reason and transparent conscience.
+Use the [Ivory Clarity](../vocal-energy/ivory-clarity.md) setup for these cues:
 
 - `Steeled resolve, straight tone`
-- `Prayerful surrender, legato`
 - `Voice quavering, then firm`
 - `Measured confession`
 - `Humble recollection`
-- `Steeled offering`
 - `Grim revelation`
 - `Moral verdict`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Cerulean Faith — Avowed trust and patient belief.
+Use the [Cerulean Faith](../vocal-energy/cerulean-faith.md) setup for these cues:
+
+- `Prayerful surrender, legato`
+- `Steeled offering`
+
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Haunted whisper, trembling support`
 

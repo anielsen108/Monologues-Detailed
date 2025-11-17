@@ -221,8 +221,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Vermilion Alarm — Emergency flare and siren-call warning.
+Use the [Vermilion Alarm](../vocal-energy/vermilion-alarm.md) setup for these cues:
 
 - `Breathless gamble, then cold brake`
 - `Quivering crescendo`
@@ -236,8 +236,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Bitter epiphany`
 - `Growing dread`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Controlled syllogism, clipped consonants`
 - `Muscular phrasing, heavier breath`
@@ -250,8 +250,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Resolute seal`
 - `Self-accusing cadence`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Lean-in temptation, whispered haste`
 - `Gentle guilt, descending arc`

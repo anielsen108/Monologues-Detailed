@@ -174,13 +174,13 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Garnet Defiance — Rebellious fire and warrior refusal.
+Use the [Garnet Defiance](../vocal-energy/garnet-defiance.md) setup for these cues:
 
 - `Taunting challenge`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Rolling excitement, quick crescendo`
 - `Trap snapping shut`
@@ -200,8 +200,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Conspiratorial hush, rapid syllables`
 - `Scoffing crescendo`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Lashing consonants, bounding tessitura`
 - `Scathing curiosity, pacing prowl`

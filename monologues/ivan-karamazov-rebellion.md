@@ -118,8 +118,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Measured irony`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Platinum Detachment — Urbane analysis and cool remove.
+Use the [Platinum Detachment](../vocal-energy/platinum-detachment.md) setup for these cues:
 
 - `Trembling restraint`
 - `Piercing question, narrow vibrato`
@@ -128,8 +128,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Flat demand`
 - `Final firmness`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Charcoal Intimidation — Calculated menace delivered in cold restraint.
+Use the [Charcoal Intimidation](../vocal-energy/charcoal-intimidation.md) setup for these cues:
 
 - `Quiet intensity, clipped consonants`
 - `Soft but unyielding`

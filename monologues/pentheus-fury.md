@@ -96,8 +96,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Royal command, lifted chin`
 - `Command bark`
@@ -105,8 +105,8 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Heroic cadence`
 - `Triumphant certainty`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Disgusted crescendo`
 
@@ -123,8 +123,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 
 - `Sneering skepticism`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Staccato orders, percussive chest`
 - `Determined resonance, lower register`

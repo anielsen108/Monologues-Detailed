@@ -142,13 +142,13 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Low growl, final emphasis`
 - `Warning growl`
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Ruby Vigilance — Border-guard readiness and watchful fury.
+Use the [Ruby Vigilance](../vocal-energy/ruby-vigilance.md) setup for these cues:
 
 - `Forced bravado`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Ivory Clarity — Crisp reason and transparent conscience.
+Use the [Ivory Clarity](../vocal-energy/ivory-clarity.md) setup for these cues:
 
 - `Blunt verdict`
 - `Measured caution`

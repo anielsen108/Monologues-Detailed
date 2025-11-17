@@ -132,8 +132,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Navy Discipline — Military cadence and stoic command.
+Use the [Navy Discipline](../vocal-energy/navy-discipline.md) setup for these cues:
 
 - `Harsh decree`
 - `Hammer blow`
@@ -142,8 +142,8 @@ Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cu
 - `Stone-hard cadence`
 - `Trumpeting decree`
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Carnelian Zeal — Evangelical urgency and blazing persuasion.
+Use the [Carnelian Zeal](../vocal-energy/carnelian-zeal.md) setup for these cues:
 
 - `Scornful warning, then rapturous lift`
 
@@ -153,8 +153,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Scathing pronouncement`
 - `Chainsaw cadence`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Merciless interrogation`
 - `Searing indictment, sweeping arm`
@@ -168,8 +168,8 @@ Use the [Umber Gravity](../vocal-energy/umber-gravity.md) setup for these cues:
 - `Icy hush`
 - `Sacred seal`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Charcoal Intimidation — Calculated menace delivered in cold restraint.
+Use the [Charcoal Intimidation](../vocal-energy/charcoal-intimidation.md) setup for these cues:
 
 - `Wind-bitten whisper`
 

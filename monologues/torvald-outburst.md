@@ -62,16 +62,16 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Charcoal Intimidation — Calculated menace delivered in cold restraint.
+Use the [Charcoal Intimidation](../vocal-energy/charcoal-intimidation.md) setup for these cues:
 
 - `Spitting consonants, high pitch`
 - `Staccato condemnation`
 - `Steel-cold command`
 - `Sharp demand`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Victimizing tone`
 - `Image-obsessed finale`

@@ -113,8 +113,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Harsh bravado masking shame`
 - `Desperate instruction`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Wine Reckoning — Confessional intoxication and midnight truth.
+Use the [Wine Reckoning](../vocal-energy/wine-reckoning.md) setup for these cues:
 
 - `Agitated pacing, restless breath`
 - `Exhausted release`
@@ -125,8 +125,8 @@ Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues
 - `Defensive pride`
 - `Cold credo`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Blush Vulnerability — Gentle confession and hesitant hope.
+Use the [Blush Vulnerability](../vocal-energy/blush-vulnerability.md) setup for these cues:
 
 - `Low confession, eyes down`
 - `Bare admission`

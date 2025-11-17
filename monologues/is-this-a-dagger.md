@@ -219,8 +219,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Ember Rally — Propulsive surges, urgent lifts, and crowd-stirring momentum.
-Use the [Ember Rally](../vocal-energy/ember-rally.md) setup for these cues:
+### Vermilion Alarm — Emergency flare and siren-call warning.
+Use the [Vermilion Alarm](../vocal-energy/vermilion-alarm.md) setup for these cues:
 
 - `Urgent reach, hissed consonants`
 - `Suppressed urgency`
@@ -235,8 +235,8 @@ Use the [Obsidian Fury](../vocal-energy/obsidian-fury.md) setup for these cues:
 - `Dark relish`
 - `Dark resolve`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Slate Pragmatism — Logistical realism and unsentimental truth.
+Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these cues:
 
 - `Breath-led incredulity`
 - `Beseeching the apparition`

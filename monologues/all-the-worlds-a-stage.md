@@ -188,8 +188,8 @@ Performance Line
 
 Consult the [Vocal Energy guide](../vocal-energy/README.md) for the full spectrum and adjustment recipes.
 
-### Crimson Command — Fiery civic authority and battle-ready proclamations.
-Use the [Crimson Command](../vocal-energy/crimson-command.md) setup for these cues:
+### Navy Discipline — Military cadence and stoic command.
+Use the [Navy Discipline](../vocal-energy/navy-discipline.md) setup for these cues:
 
 - `Martial snap`
 
@@ -204,8 +204,8 @@ Use the [Amber Irony](../vocal-energy/amber-irony.md) setup for these cues:
 - `Cresting bravado`
 - `Thin reediness`
 
-### Silver Resolve — Measured logic, ceremonial control, and forensic argument.
-Use the [Silver Resolve](../vocal-energy/silver-resolve.md) setup for these cues:
+### Ivory Clarity — Crisp reason and transparent conscience.
+Use the [Ivory Clarity](../vocal-energy/ivory-clarity.md) setup for these cues:
 
 - `Finger-counting sweep`
 - `Measuring cadence, poised hand`
@@ -220,8 +220,8 @@ Use the [Slate Pragmatism](../vocal-energy/slate-pragmatism.md) setup for these 
 - `Pedantic cadence`
 - `Fussy detail`
 
-### Cobalt Intimacy — Soft confessions, whispered bargains, and personal pleas.
-Use the [Cobalt Intimacy](../vocal-energy/cobalt-intimacy.md) setup for these cues:
+### Periwinkle Wonder — Childlike marvel and whispered discovery.
+Use the [Periwinkle Wonder](../vocal-energy/periwinkle-wonder.md) setup for these cues:
 
 - `Airy bemusement, gentle smile`
 - `Gentle mockery, rounded tone`
